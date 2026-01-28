@@ -221,7 +221,7 @@
             display: flex;
             gap: 8px;
             flex-wrap: wrap;
-            margin-top: 8px;
+            align-items: center;
         }
         
         .card-tag {
@@ -269,7 +269,8 @@
             display: flex;
             align-items: center;
             gap: 16px;
-            margin-top: 8px;
+            margin-top: 12px;
+            flex-wrap: wrap;
         }
         
         .card-original-link {
@@ -652,14 +653,18 @@
                             ${isAvailable ? `<a href="${link}" ${transcript.html_path ? '' : 'target="_blank"'} class="card-link">${transcript.title}</a>` : transcript.title}
                         </h3>
                         <p class="card-description">${transcript.description}</p>
-                        <div class="card-tags">
-                            ${tags.map(tag => `
-                                <a href="#" class="card-tag" onclick="event.stopPropagation(); event.preventDefault(); filterBySpeaker('${tag}'); return false;">${tag}</a>
-                            `).join('')}
-                        </div>
-                        ${hasPdf ? `
+                        ${hasPdf || tags.length > 0 ? `
                         <div class="card-footer">
+                            ${tags.length > 0 ? `
+                            <div class="card-tags">
+                                ${tags.map(tag => `
+                                    <a href="#" class="card-tag" onclick="event.stopPropagation(); event.preventDefault(); filterBySpeaker('${tag}'); return false;">${tag}</a>
+                                `).join('')}
+                            </div>
+                            ` : ''}
+                            ${hasPdf ? `
                             <a href="${pdfLink}" target="_blank" rel="noopener noreferrer" class="card-original-link" onclick="event.stopPropagation();">View Original PDF</a>
+                            ` : ''}
                         </div>
                         ` : ''}
                     </div>
