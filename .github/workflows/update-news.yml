@@ -20,6 +20,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0  # Fetch all history for proper git operations
 
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: Pull latest changes
+        run: git pull --rebase origin main || true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -44,3 +52,4 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           skip_dirty_check: true
+          skip_fetch: false
