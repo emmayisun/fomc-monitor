@@ -1,3 +1,10 @@
 requests>=2.31.0
 pdfplumber>=0.10.0
 beautifulsoup4>=4.12.0
+
+# News scraper dependencies
+feedparser>=6.0.0
+trafilatura>=1.6.0
+openai>=1.0.0
+googlenewsdecoder>=0.1.0
+selenium>=4.15.0

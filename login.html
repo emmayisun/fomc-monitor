@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Fed News Monitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #ffffff;
+            color: #1a1a1a;
+            line-height: 1.6;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .auth-container {
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .auth-header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .auth-title {
+            font-size: 28px;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        .auth-subtitle {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .auth-tabs {
+            display: flex;
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 24px;
+        }
+
+        .auth-tab {
+            flex: 1;
+            padding: 12px;
+            background: transparent;
+            border: none;
+            font-size: 15px;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.2s;
+            border-bottom: 2px solid transparent;
+            margin-bottom: -1px;
+        }
+
+        .auth-tab.active {
+            color: #1a1a1a;
+            border-bottom-color: #1a1a1a;
+            font-weight: 500;
+        }
+
+        .auth-form {
+            display: none;
+        }
+
+        .auth-form.active {
+            display: block;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 8px;
+            color: #1a1a1a;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px 12px;
+            font-size: 15px;
+            border: 1px solid #e5e7eb;
+            background: #ffffff;
+            transition: all 0.2s;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: #1a1a1a;
+        }
+
+        .form-button {
+            width: 100%;
+            padding: 12px;
+            font-size: 15px;
+            font-weight: 500;
+            background: #1a1a1a;
+            color: #ffffff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .form-button:hover {
+            background: #333;
+        }
+
+        .form-button:disabled {
+            background: #999;
+            cursor: not-allowed;
+        }
+
+        .form-error {
+            margin-top: 12px;
+            padding: 10px;
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c33;
+            font-size: 14px;
+            border-radius: 0;
+        }
+
+        .form-success {
+            margin-top: 12px;
+            padding: 10px;
+            background: #efe;
+            border: 1px solid #cfc;
+            color: #3c3;
+            font-size: 14px;
+            border-radius: 0;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 24px;
+            color: #666;
+            text-decoration: none;
+            font-size: 14px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: #1a1a1a;
+        }
+    </style>
+</head>
+<body>
+    <div class="auth-container">
+        <a href="/news.html" class="back-link">← Back to News</a>
+        
+        <div class="auth-header">
+            <h1 class="auth-title">Fed News Monitor</h1>
+            <p class="auth-subtitle">Access member-only content</p>
+        </div>
+
+        <div class="auth-tabs">
+            <button class="auth-tab active" data-tab="login">Login</button>
+            <button class="auth-tab" data-tab="register">Register</button>
+        </div>
+
+        <!-- Login Form -->
+        <form class="auth-form active" id="loginForm">
+            <div class="form-group">
+                <label class="form-label" for="loginEmail">Email</label>
+                <input type="email" id="loginEmail" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="loginPassword">Password</label>
+                <input type="password" id="loginPassword" class="form-input" required>
+            </div>
+            <button type="submit" class="form-button">Login</button>
+            <div id="loginError" class="form-error" style="display: none;"></div>
+            <div id="loginSuccess" class="form-success" style="display: none;"></div>
+        </form>
+
+        <!-- Register Form -->
+        <form class="auth-form" id="registerForm">
+            <div class="form-group">
+                <label class="form-label" for="registerName">Name</label>
+                <input type="text" id="registerName" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="registerEmail">Email</label>
+                <input type="email" id="registerEmail" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="registerPassword">Password</label>
+                <input type="password" id="registerPassword" class="form-input" required minlength="6">
+            </div>
+            <button type="submit" class="form-button">Register</button>
+            <div id="registerError" class="form-error" style="display: none;"></div>
+            <div id="registerSuccess" class="form-success" style="display: none;"></div>
+        </form>
+    </div>
+
+    <script src="auth.js"></script>
+    <script>
+        // Tab switching
+        document.querySelectorAll('.auth-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const tabName = tab.dataset.tab;
+                
+                // Update tabs
+                document.querySelectorAll('.auth-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                
+                // Update forms
+                document.querySelectorAll('.auth-form').forEach(f => f.classList.remove('active'));
+                document.getElementById(tabName + 'Form').classList.add('active');
+                
+                // Clear errors
+                document.querySelectorAll('.form-error, .form-success').forEach(el => {
+                    el.style.display = 'none';
+                });
+            });
+        });
+
+        // Login form
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('loginEmail').value;
+            const password = document.getElementById('loginPassword').value;
+            const errorDiv = document.getElementById('loginError');
+            const successDiv = document.getElementById('loginSuccess');
+
+            errorDiv.style.display = 'none';
+            successDiv.style.display = 'none';
+
+            const result = await authManager.login(email, password);
+            
+            if (result.success) {
+                successDiv.textContent = 'Login successful! Redirecting...';
+                successDiv.style.display = 'block';
+                setTimeout(() => {
+                    window.location.href = '/news.html';
+                }, 1000);
+            } else {
+                errorDiv.textContent = result.error || 'Login failed';
+                errorDiv.style.display = 'block';
+            }
+        });
+
+        // Register form
+        document.getElementById('registerForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const name = document.getElementById('registerName').value;
+            const email = document.getElementById('registerEmail').value;
+            const password = document.getElementById('registerPassword').value;
+            const errorDiv = document.getElementById('registerError');
+            const successDiv = document.getElementById('registerSuccess');
+
+            errorDiv.style.display = 'none';
+            successDiv.style.display = 'none';
+
+            // Store user for client-side fallback
+            const existingUsers = JSON.parse(localStorage.getItem('fednews_users') || '{}');
+            existingUsers[email] = { name, password };
+            localStorage.setItem('fednews_users', JSON.stringify(existingUsers));
+
+            const result = await authManager.register(email, password, name);
+            
+            if (result.success) {
+                successDiv.textContent = 'Registration successful! Redirecting...';
+                successDiv.style.display = 'block';
+                setTimeout(() => {
+                    window.location.href = '/news.html';
+                }, 1000);
+            } else {
+                errorDiv.textContent = result.error || 'Registration failed';
+                errorDiv.style.display = 'block';
+            }
+        });
+
+        // Check if already logged in
+        if (authManager.isAuthenticated()) {
+            window.location.href = '/news.html';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fed News Monitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #ffffff;
+            color: #1a1a1a;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .app-container {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 240px;
+            background: #ffffff;
+            border-right: 1px solid #e5e7eb;
+            padding: 32px 24px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            z-index: 100;
+        }
+
+        .sidebar-header {
+            margin-bottom: 32px;
+        }
+
+        .sidebar-title {
+            font-size: 20px;
+            font-weight: 500;
+            color: #1a1a1a;
+            margin-bottom: 4px;
+        }
+
+        .sidebar-subtitle {
+            font-size: 13px;
+            color: #999;
+            font-weight: 400;
+        }
+
+        .search-box {
+            margin-bottom: 24px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 8px 0;
+            font-size: 15px;
+            border: none;
+            border-bottom: 1px solid #e5e7eb;
+            background: transparent;
+            transition: all 0.2s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-bottom-color: #1a1a1a;
+        }
+
+        .search-box input::placeholder {
+            color: #999;
+        }
+
+        .nav-menu {
+            list-style: none;
+        }
+
+        .nav-item {
+            margin-bottom: 4px;
+        }
+
+        .nav-link {
+            display: flex;
+            align-items: center;
+            padding: 8px 0;
+            color: #666;
+            text-decoration: none;
+            transition: all 0.2s;
+            font-size: 15px;
+            font-weight: 400;
+        }
+
+        .nav-link:hover {
+            color: #1a1a1a;
+        }
+
+        .nav-link.active {
+            color: #1a1a1a;
+            font-weight: 500;
+        }
+
+        .nav-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 240px;
+            padding: 40px 48px;
+            max-width: 900px;
+        }
+
+        .content-header {
+            margin-bottom: 40px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .content-title {
+            font-size: 28px;
+            font-weight: 500;
+            color: #1a1a1a;
+            margin-bottom: 4px;
+            display: inline-block;
+        }
+
+        .content-subtitle {
+            font-size: 14px;
+            color: #999;
+            font-weight: 400;
+        }
+
+        /* Filter Tabs */
+        .filter-tabs {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+        }
+
+        .filter-tab {
+            padding: 0;
+            background: transparent;
+            border: none;
+            font-size: 15px;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 400;
+            position: relative;
+        }
+
+        .filter-tab:hover {
+            color: #1a1a1a;
+        }
+
+        .filter-tab.active {
+            color: #1a1a1a;
+            font-weight: 500;
+        }
+
+        .filter-tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: #1a1a1a;
+        }
+
+        /* News List */
+        .news-list {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .news-card {
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 24px 0;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .news-card:last-child {
+            border-bottom: none;
+        }
+
+        .news-card:hover {
+            opacity: 0.7;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 8px;
+        }
+
+        .card-source {
+            font-size: 14px;
+            color: #999;
+            font-weight: 400;
+        }
+
+        .card-source-link {
+            color: #666;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .card-source-link:hover {
+            color: #1a1a1a;
+        }
+
+        .card-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .card-tag {
+            font-size: 12px;
+            color: #666;
+            padding: 2px 8px;
+            border: 1px solid #e5e7eb;
+            background: transparent;
+            border-radius: 0;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .card-tag:hover {
+            border-color: #1a1a1a;
+            color: #1a1a1a;
+        }
+
+        .card-date {
+            font-size: 13px;
+            color: #999;
+            font-weight: 400;
+        }
+
+        .card-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 4px;
+            line-height: 1.5;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+
+        .card-summary {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+            margin-top: 6px;
+            font-weight: 400;
+        }
+
+        .card-footer {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .card-original-link {
+            font-size: 13px;
+            color: #666;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .card-original-link:hover {
+            color: #1a1a1a;
+        }
+
+        .card-original-link::before {
+            content: '🔗';
+            font-size: 14px;
+        }
+
+        .card-link {
+            color: #1a1a1a;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .card-link:hover {
+            color: #1a1a1a;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 80px 20px;
+            color: #999;
+            font-size: 16px;
+        }
+
+        .no-results-icon {
+            font-size: 40px;
+            margin-bottom: 16px;
+            opacity: 0.3;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .sidebar {
+                width: 200px;
+            }
+
+            .main-content {
+                margin-left: 200px;
+                padding: 32px 32px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.3s;
+            }
+
+            .sidebar.open {
+                transform: translateX(0);
+            }
+
+            .main-content {
+                margin-left: 0;
+                padding: 24px 20px;
+            }
+
+            .content-title {
+                font-size: 24px;
+            }
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+        }
+
+        .spinner {
+            width: 32px;
+            height: 32px;
+            border: 3px solid #e5e7eb;
+            border-top-color: #3b82f6;
+            border-radius: 0;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Last Updated */
+        .last-updated {
+            font-size: 12px;
+            color: #999;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2 class="sidebar-title">Fed News</h2>
+                <p class="sidebar-subtitle">Latest Federal Reserve News</p>
+            </div>
+
+            <div class="search-box">
+                <input type="text" id="sidebarSearch" placeholder="Search news...">
+            </div>
+
+            <nav>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="news.html" class="nav-link active">
+                            <span class="nav-icon">📰</span>
+                            <span>All News</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">
+                            <span class="nav-icon">📋</span>
+                            <span>FOMC Transcripts</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" id="refreshNews">
+                            <span class="nav-icon">🔄</span>
+                            <span>Refresh</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" id="authNavItem">
+                        <a href="login.html" class="nav-link" id="authLink">
+                            <span class="nav-icon">👤</span>
+                            <span id="authText">Login</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="content-header">
+                <h1 class="content-title">Fed News Monitor</h1>
+                <p class="content-subtitle">Latest news about the Federal Reserve and monetary policy</p>
+                <p class="last-updated" id="lastUpdated"></p>
+            </div>
+
+            <!-- Source Filter Tabs -->
+            <div class="filter-tabs" id="sourceFilter">
+                <button class="filter-tab active" data-filter="all" data-type="source">All Sources</button>
+                <!-- Source tabs will be dynamically generated -->
+            </div>
+
+            <!-- Date Filter Tabs -->
+            <div class="filter-tabs" id="dateFilter" style="margin-top: 16px;">
+                <button class="filter-tab active" data-filter="all" data-type="date">All Dates</button>
+                <button class="filter-tab" data-filter="today" data-type="date">Today</button>
+                <button class="filter-tab" data-filter="week" data-type="date">This Week</button>
+                <button class="filter-tab" data-filter="month" data-type="date">This Month</button>
+            </div>
+
+            <!-- News List -->
+            <div class="news-list" id="newsList">
+                <div class="loading">
+                    <div class="spinner"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="auth.js"></script>
+    <script>
+        let newsArticles = [];
+        let currentSourceFilter = 'all';
+        let currentDateFilter = 'all';
+        
+        // Update auth UI - temporarily disabled
+        function updateAuthUI() {
+            // Temporarily hide auth UI - all content is visible
+            const authNavItem = document.getElementById('authNavItem');
+            if (authNavItem) {
+                authNavItem.style.display = 'none';
+            }
+            // const authLink = document.getElementById('authLink');
+            // const authText = document.getElementById('authText');
+            // 
+            // if (authManager.isAuthenticated()) {
+            //     const user = authManager.getUser();
+            //     authLink.href = '#';
+            //     authText.textContent = user.name || user.email;
+            //     authLink.onclick = (e) => {
+            //         e.preventDefault();
+            //         if (confirm('Logout?')) {
+            //             authManager.logout();
+            //             updateAuthUI();
+            //             renderNews();
+            //         }
+            //     };
+            // } else {
+            //     authLink.href = 'login.html';
+            //     authText.textContent = 'Login';
+            //     authLink.onclick = null;
+            // }
+        }
+
+        // Load news data
+        async function loadNews() {
+            try {
+                const response = await fetch('data/news.json');
+                if (response.ok) {
+                    newsArticles = await response.json();
+                    // Sort by date, newest first
+                    newsArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+                    // Update last updated time
+                    if (newsArticles.length > 0) {
+                        const latestDate = newsArticles[0].scraped_at || newsArticles[0].date;
+                        document.getElementById('lastUpdated').textContent =
+                            `Last updated: ${new Date(latestDate).toLocaleString()}`;
+                    }
+                } else {
+                    newsArticles = [];
+                }
+            } catch (error) {
+                console.log('No news data available yet');
+                newsArticles = [];
+            }
+
+            renderSourceTabs();
+            renderNews();
+        }
+
+        // Format date
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        // Check if date is within filter range
+        function isDateInRange(dateString, filter) {
+            const date = new Date(dateString);
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            switch (filter) {
+                case 'today':
+                    const articleDate = new Date(dateString);
+                    articleDate.setHours(0, 0, 0, 0);
+                    return articleDate.getTime() === today.getTime();
+                case 'week':
+                    const weekAgo = new Date(today);
+                    weekAgo.setDate(weekAgo.getDate() - 7);
+                    return date >= weekAgo;
+                case 'month':
+                    const monthAgo = new Date(today);
+                    monthAgo.setMonth(monthAgo.getMonth() - 1);
+                    return date >= monthAgo;
+                default:
+                    return true;
+            }
+        }
+
+        // Get all unique sources
+        function getAllSources() {
+            const sources = new Set();
+            newsArticles.forEach(article => {
+                if (article.source) {
+                    sources.add(article.source);
+                }
+            });
+            return Array.from(sources).sort();
+        }
+
+        // Render source filter tabs
+        function renderSourceTabs() {
+            const container = document.getElementById('sourceFilter');
+            const sources = getAllSources();
+
+            // Remove existing source tabs (except "All Sources")
+            const existingButtons = container.querySelectorAll('.filter-tab[data-type="source"]');
+            existingButtons.forEach(btn => {
+                if (btn.dataset.filter !== 'all') {
+                    btn.remove();
+                }
+            });
+
+            sources.forEach(source => {
+                const button = document.createElement('button');
+                button.className = 'filter-tab';
+                button.dataset.filter = source;
+                button.dataset.type = 'source';
+                button.textContent = source;
+                button.addEventListener('click', () => {
+                    container.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+                    button.classList.add('active');
+                    currentSourceFilter = source;
+                    renderNews();
+                });
+                container.appendChild(button);
+            });
+        }
+
+        // Render news list
+        function renderNews() {
+            const listContainer = document.getElementById('newsList');
+
+            let filtered = newsArticles;
+
+            // Apply source filter
+            if (currentSourceFilter !== 'all') {
+                filtered = filtered.filter(article => article.source === currentSourceFilter);
+            }
+
+            // Apply date filter
+            if (currentDateFilter !== 'all') {
+                filtered = filtered.filter(article => isDateInRange(article.date, currentDateFilter));
+            }
+
+            // Apply search
+            const searchTerm = document.getElementById('sidebarSearch').value.toLowerCase();
+            if (searchTerm) {
+                filtered = filtered.filter(article =>
+                    (article.title && article.title.toLowerCase().includes(searchTerm)) ||
+                    (article.summary && article.summary.toLowerCase().includes(searchTerm)) ||
+                    (article.source && article.source.toLowerCase().includes(searchTerm)) ||
+                    (article.tags && article.tags.some(tag => tag.toLowerCase().includes(searchTerm)))
+                );
+            }
+
+            if (filtered.length === 0) {
+                listContainer.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">📰</div>
+                        <p>No news articles found</p>
+                        <p style="margin-top: 8px; font-size: 14px;">Run the news scraper to fetch latest Fed news</p>
+                    </div>
+                `;
+                return;
+            }
+
+            listContainer.innerHTML = filtered.map(article => {
+                const htmlLink = article.html_path || '';
+                const hasHtml = !!article.html_path;
+                const hasPaywall = article.has_paywall || false;
+                const sourceUrl = article.source_url || '#';
+                const tags = article.tags || [];
+                // Temporarily disable auth - all content visible
+                const isMember = true; // authManager.isMember();
+
+                // For paywall articles: free users can't see content, members can
+                // For non-paywall articles: all users can see content if available
+                const canViewContent = !hasPaywall || isMember;
+                
+                // Determine link behavior:
+                // 1. If has local HTML and user can view -> link to local HTML
+                // 2. If paywall article and user is not member -> don't make card clickable (show message instead)
+                // 3. Otherwise -> link to original source (but don't auto-open)
+                let cardLink = '';
+                let cardOnClick = '';
+                
+                if (hasHtml && canViewContent) {
+                    // Has local content and user can view -> link to local HTML
+                    // Ensure path starts with / for absolute path
+                    const htmlPath = htmlLink.startsWith('/') ? htmlLink : '/' + htmlLink;
+                    cardLink = htmlPath;
+                    cardOnClick = `window.location.href='${htmlPath}'`;
+                } else if (hasPaywall && !isMember) {
+                    // Paywall article, free user -> don't make card clickable, show login prompt
+                    cardLink = '#';
+                    cardOnClick = `event.preventDefault(); window.location.href='login.html';`;
+                } else {
+                    // No local content or other case -> link to original source
+                    cardLink = sourceUrl;
+                    cardOnClick = `window.open('${sourceUrl}', '_blank')`;
+                }
+
+                // Show paywall badge if applicable (always show for paywall articles, but different text for members)
+                let paywallBadge = '';
+                if (hasPaywall) {
+                    if (isMember) {
+                        paywallBadge = `<span style="font-size: 11px; color: #666; margin-left: 8px; padding: 2px 6px; background: #f0f0f0;">🔓 Member Access</span>`;
+                    } else {
+                        paywallBadge = `<span style="font-size: 11px; color: #c33; margin-left: 8px; padding: 2px 6px; background: #ffe0e0; font-weight: 500;">🔒 Member Only</span>`;
+                    }
+                }
+
+                // Card click behavior
+                const cardClickHandler = cardOnClick 
+                    ? `onclick="${cardOnClick}"` 
+                    : '';
+                
+                // Title link - always show, but behavior depends on content availability
+                let titleLink = '';
+                if (hasHtml && canViewContent) {
+                    // Has local HTML - link to it, ensure path starts with /
+                    const htmlPath = htmlLink.startsWith('/') ? htmlLink : '/' + htmlLink;
+                    titleLink = `<a href="${htmlPath}" class="card-link" onclick="event.stopPropagation();">${article.title}</a>`;
+                } else if (hasPaywall && !isMember) {
+                    titleLink = `<span class="card-link" style="cursor: pointer;" onclick="window.location.href='login.html'">${article.title}</span>`;
+                } else {
+                    // No local HTML - link to original, but stop propagation so card doesn't also trigger
+                    titleLink = `<a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="card-link" onclick="event.stopPropagation();">${article.title}</a>`;
+                }
+                
+                return `
+                    <div class="news-card" ${cardClickHandler}>
+                        <div class="card-header">
+                            <span class="card-source">
+                                <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="card-source-link" onclick="event.stopPropagation();">${article.source || 'Unknown'}</a>
+                                ${paywallBadge}
+                            </span>
+                            <span class="card-date">${formatDate(article.date)}</span>
+                        </div>
+                        <h3 class="card-title" onclick="event.stopPropagation();">
+                            ${titleLink}
+                        </h3>
+                        ${article.summary ? `<p class="card-summary">${article.summary}</p>` : ''}
+                        ${hasPaywall && !isMember ? `
+                        <p style="font-size: 13px; color: #999; margin-top: 8px; font-style: italic;">
+                            Full content available to members only. <a href="login.html" style="color: #1a1a1a; text-decoration: underline;">Login or Register</a> to view.
+                        </p>
+                        ` : ''}
+                        <div class="card-footer">
+                            ${tags.length > 0 ? `
+                            <div class="card-tags">
+                                ${tags.map(tag => `
+                                    <span class="card-tag">${tag}</span>
+                                `).join('')}
+                            </div>
+                            ` : ''}
+                            <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="card-original-link" onclick="event.stopPropagation();">View Original</a>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Filter by source
+        function filterBySource(source) {
+            currentSourceFilter = source;
+            document.querySelectorAll('#sourceFilter .filter-tab').forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.filter === source) {
+                    tab.classList.add('active');
+                }
+            });
+            renderNews();
+        }
+
+        // Source filter tab events
+        document.querySelectorAll('#sourceFilter .filter-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('#sourceFilter .filter-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentSourceFilter = tab.dataset.filter;
+                renderNews();
+            });
+        });
+
+        // Date filter tab events
+        document.querySelectorAll('#dateFilter .filter-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('#dateFilter .filter-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentDateFilter = tab.dataset.filter;
+                renderNews();
+            });
+        });
+
+        // Search event
+        document.getElementById('sidebarSearch').addEventListener('input', () => {
+            renderNews();
+        });
+
+        // Refresh button
+        document.getElementById('refreshNews').addEventListener('click', (e) => {
+            e.preventDefault();
+            loadNews();
+        });
+
+        // Initialize
+        updateAuthUI();
+        loadNews();
+    </script>
+</body>
+</html>
