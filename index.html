@@ -216,6 +216,31 @@
             color: #999;
             font-weight: 400;
         }
+        
+        .card-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 8px;
+        }
+        
+        .card-tag {
+            font-size: 12px;
+            color: #666;
+            padding: 2px 8px;
+            border: 1px solid #e5e7eb;
+            background: transparent;
+            border-radius: 0;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .card-tag:hover {
+            border-color: #1a1a1a;
+            color: #1a1a1a;
+        }
 
         .card-date {
             font-size: 13px;
@@ -396,11 +421,17 @@
 
             <!-- 筛选标签 -->
             <div class="filter-tabs">
-                <button class="filter-tab active" data-filter="all">全部</button>
-                <button class="filter-tab" data-filter="2025">2025</button>
-                <button class="filter-tab" data-filter="2024">2024</button>
-                <button class="filter-tab" data-filter="2023">2023</button>
-                <button class="filter-tab" data-filter="2022">2022</button>
+                <button class="filter-tab active" data-filter="all" data-type="year">全部</button>
+                <button class="filter-tab" data-filter="2025" data-type="year">2025</button>
+                <button class="filter-tab" data-filter="2024" data-type="year">2024</button>
+                <button class="filter-tab" data-filter="2023" data-type="year">2023</button>
+                <button class="filter-tab" data-filter="2022" data-type="year">2022</button>
+            </div>
+            
+            <!-- 说话者标签 -->
+            <div class="filter-tabs" id="speakerTags" style="margin-top: 16px;">
+                <button class="filter-tab active" data-filter="all" data-type="speaker">全部说话者</button>
+                <!-- Speaker tags will be dynamically generated -->
             </div>
 
             <!-- 转录稿列表 -->
@@ -479,6 +510,7 @@
 
         let transcripts = [];
         let currentFilter = 'all';
+        let currentSpeakerFilter = 'all';
 
         // 加载转录稿数据
         async function loadTranscripts() {
@@ -491,17 +523,22 @@
                         title: t.title,
                         description: t.description || `Chair Powell's press conference following the ${t.date} FOMC meeting.`,
                         html_path: t.html_path,
-                        pdf_url: t.pdf_url
+                        pdf_url: t.pdf_url,
+                        tags: t.tags || ["Powell"]  // Default to Powell if no tags
                     }));
                 } else {
                     transcripts = defaultTranscripts;
                 }
             } catch (error) {
                 console.log('Using default transcripts data');
-                transcripts = defaultTranscripts;
+                transcripts = defaultTranscripts.map(t => ({
+                    ...t,
+                    tags: ["Powell"]  // Add default tags
+                }));
             }
             
             renderTranscripts();
+            return Promise.resolve();
         }
 
         // 格式化日期
@@ -516,15 +553,64 @@
             return dateString.substring(0, 4);
         }
 
+        // 获取所有唯一的说话者标签
+        function getAllSpeakerTags() {
+            const allTags = new Set();
+            transcripts.forEach(t => {
+                if (t.tags && Array.isArray(t.tags)) {
+                    t.tags.forEach(tag => allTags.add(tag));
+                }
+            });
+            return Array.from(allTags).sort();
+        }
+        
+        // 渲染说话者标签
+        function renderSpeakerTags() {
+            const tagsContainer = document.getElementById('speakerTags');
+            const tags = getAllSpeakerTags();
+            
+            if (tags.length === 0) return;
+            
+            // 保留"全部说话者"按钮，添加其他标签
+            const existingButtons = tagsContainer.querySelectorAll('.filter-tab[data-type="speaker"]');
+            existingButtons.forEach(btn => {
+                if (btn.dataset.filter !== 'all') {
+                    btn.remove();
+                }
+            });
+            
+            tags.forEach(tag => {
+                const button = document.createElement('button');
+                button.className = 'filter-tab';
+                button.dataset.filter = tag;
+                button.dataset.type = 'speaker';
+                button.textContent = tag;
+                button.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(t => t.classList.remove('active'));
+                    button.classList.add('active');
+                    currentSpeakerFilter = tag;
+                    renderTranscripts();
+                });
+                tagsContainer.appendChild(button);
+            });
+        }
+        
         // 渲染转录稿列表
         function renderTranscripts() {
             const listContainer = document.getElementById('transcriptList');
             
             let filtered = transcripts;
             
-            // 应用筛选
+            // 应用年份筛选
             if (currentFilter !== 'all') {
-                filtered = transcripts.filter(t => t.date.startsWith(currentFilter));
+                filtered = filtered.filter(t => t.date.startsWith(currentFilter));
+            }
+            
+            // 应用说话者标签筛选
+            if (currentSpeakerFilter !== 'all') {
+                filtered = filtered.filter(t => 
+                    t.tags && Array.isArray(t.tags) && t.tags.includes(currentSpeakerFilter)
+                );
             }
             
             // 应用搜索
@@ -533,7 +619,8 @@
                 filtered = filtered.filter(t => 
                     t.title.toLowerCase().includes(searchTerm) ||
                     t.date.includes(searchTerm) ||
-                    t.description.toLowerCase().includes(searchTerm)
+                    t.description.toLowerCase().includes(searchTerm) ||
+                    (t.tags && t.tags.some(tag => tag.toLowerCase().includes(searchTerm)))
                 );
             }
             
@@ -553,6 +640,7 @@
                 const yearTag = getYearTag(transcript.date);
                 const pdfLink = transcript.pdf_url || '#';
                 const hasPdf = transcript.pdf_url;
+                const tags = transcript.tags || ["Powell"];
                 
                 return `
                     <div class="transcript-card" onclick="${isAvailable && transcript.html_path ? `window.location.href='${link}'` : ''}">
@@ -564,6 +652,11 @@
                             ${isAvailable ? `<a href="${link}" ${transcript.html_path ? '' : 'target="_blank"'} class="card-link">${transcript.title}</a>` : transcript.title}
                         </h3>
                         <p class="card-description">${transcript.description}</p>
+                        <div class="card-tags">
+                            ${tags.map(tag => `
+                                <a href="#" class="card-tag" onclick="event.stopPropagation(); event.preventDefault(); filterBySpeaker('${tag}'); return false;">${tag}</a>
+                            `).join('')}
+                        </div>
                         ${hasPdf ? `
                         <div class="card-footer">
                             <a href="${pdfLink}" target="_blank" rel="noopener noreferrer" class="card-original-link" onclick="event.stopPropagation();">View Original PDF</a>
@@ -573,13 +666,36 @@
                 `;
             }).join('');
         }
+        
+        // 按说话者筛选
+        function filterBySpeaker(speaker) {
+            currentSpeakerFilter = speaker;
+            document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.filter === speaker) {
+                    tab.classList.add('active');
+                }
+            });
+            renderTranscripts();
+        }
+        }
 
-        // 筛选标签事件
-        document.querySelectorAll('.filter-tab').forEach(tab => {
+        // 筛选标签事件（年份筛选）
+        document.querySelectorAll('.filter-tab[data-type="year"]').forEach(tab => {
             tab.addEventListener('click', () => {
-                document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.filter-tab[data-type="year"]').forEach(t => t.classList.remove('active'));
                 tab.classList.add('active');
                 currentFilter = tab.dataset.filter;
+                renderTranscripts();
+            });
+        });
+        
+        // 说话者标签筛选事件
+        document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentSpeakerFilter = tab.dataset.filter;
                 renderTranscripts();
             });
         });
@@ -590,7 +706,9 @@
         });
 
         // 初始化
-        loadTranscripts();
+        loadTranscripts().then(() => {
+            renderSpeakerTags();
+        });
     </script>
 </body>
 </html>

@@ -642,12 +642,20 @@ class FOMCScraper:
             # If path is not relative to cwd, use absolute path or just filename
             pdf_relative = f"data/pdfs/{pdf_filename}"
         
+        # Determine speaker tag based on title/content
+        # Default to "Powell" for current press conferences
+        tags = ["Powell"]  # Default tag
+        
+        # You can add logic here to detect other speakers in the future
+        # For example, check if title contains other names
+        
         transcript = {
             "date": date_str,
             "title": title,
             "pdf_url": pdf_url,
             "pdf_path": pdf_relative,
             "html_path": f"data/htmls/{html_filename}",
+            "tags": tags,
             "scraped_at": datetime.now().isoformat()
         }
         
