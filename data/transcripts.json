@@ -1,11 +1,51 @@
 [
   {
+    "date": "2025-09-17",
+    "title": "September 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250917.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-09-17.pdf",
+    "html_path": "data/htmls/fomc_2025-09-17.html",
+    "scraped_at": "2026-01-27T17:59:31.081422"
+  },
+  {
+    "date": "2025-07-30",
+    "title": "July 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250730.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-07-30.pdf",
+    "html_path": "data/htmls/fomc_2025-07-30.html",
+    "scraped_at": "2026-01-27T17:59:29.485294"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "June 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250618.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-06-18.pdf",
+    "html_path": "data/htmls/fomc_2025-06-18.html",
+    "scraped_at": "2026-01-27T17:59:27.946642"
+  },
+  {
+    "date": "2025-05-07",
+    "title": "May 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250507.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-05-07.pdf",
+    "html_path": "data/htmls/fomc_2025-05-07.html",
+    "scraped_at": "2026-01-27T17:59:26.198739"
+  },
+  {
+    "date": "2025-03-19",
+    "title": "March 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250319.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-03-19.pdf",
+    "html_path": "data/htmls/fomc_2025-03-19.html",
+    "scraped_at": "2026-01-27T17:59:24.603392"
+  },
+  {
     "date": "2025-01-29",
     "title": "January 2025 FOMC Press Conference",
     "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250129.pdf",
     "pdf_path": "data/pdfs/fomc_2025-01-29.pdf",
     "html_path": "data/htmls/fomc_2025-01-29.html",
-    "scraped_at": "2026-01-27T17:57:14.355004"
+    "scraped_at": "2026-01-27T17:59:33.882219"
   },
   {
     "date": "2024-12-18",
@@ -13,7 +53,7 @@
     "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20241218.pdf",
     "pdf_path": "data/pdfs/fomc_2024-12-18.pdf",
     "html_path": "data/htmls/fomc_2024-12-18.html",
-    "scraped_at": "2026-01-27T17:57:16.147976"
+    "scraped_at": "2026-01-27T17:59:35.656687"
   },
   {
     "date": "2024-11-07",
@@ -21,7 +61,7 @@
     "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20241107.pdf",
     "pdf_path": "data/pdfs/fomc_2024-11-07.pdf",
     "html_path": "data/htmls/fomc_2024-11-07.html",
-    "scraped_at": "2026-01-27T17:57:17.694597"
+    "scraped_at": "2026-01-27T17:59:37.126572"
   },
   {
     "date": "2024-09-18",
@@ -29,7 +69,7 @@
     "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20240918.pdf",
     "pdf_path": "data/pdfs/fomc_2024-09-18.pdf",
     "html_path": "data/htmls/fomc_2024-09-18.html",
-    "scraped_at": "2026-01-27T17:57:19.363193"
+    "scraped_at": "2026-01-27T17:59:38.700431"
   },
   {
     "date": "2024-07-31",
@@ -37,6 +77,6 @@
     "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20240731.pdf",
     "pdf_path": "data/pdfs/fomc_2024-07-31.pdf",
     "html_path": "data/htmls/fomc_2024-07-31.html",
-    "scraped_at": "2026-01-27T17:57:20.980902"
+    "scraped_at": "2026-01-27T17:59:40.292918"
   }
 ]

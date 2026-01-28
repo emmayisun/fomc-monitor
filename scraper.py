@@ -682,6 +682,43 @@ def main():
     # Add transcripts - PDF URLs will be auto-generated from dates
     # Format: https://www.federalreserve.gov/mediacenter/files/FOMCpresconfYYYYMMDD.pdf
     transcripts_to_add = [
+        # 2025年1月之后的7次会议
+        {
+            "date": "2025-03-19",
+            "title": "March 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20250319.pdf
+        },
+        {
+            "date": "2025-05-07",
+            "title": "May 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20250507.pdf
+        },
+        {
+            "date": "2025-06-18",
+            "title": "June 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20250618.pdf
+        },
+        {
+            "date": "2025-07-30",
+            "title": "July 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20250730.pdf
+        },
+        {
+            "date": "2025-09-17",
+            "title": "September 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20250917.pdf
+        },
+        {
+            "date": "2025-11-06",
+            "title": "November 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20251106.pdf
+        },
+        {
+            "date": "2025-12-17",
+            "title": "December 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20251217.pdf
+        },
+        # 之前的会议（保留）
         {
             "date": "2025-01-29",
             "title": "January 2025 FOMC Press Conference",
