@@ -50,17 +50,17 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           
-          # Check for changes
-          if git diff --quiet data/news.json data/news/*.html 2>/dev/null; then
+          # Stage only the news files
+          git add data/news.json data/news/*.html
+          
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           
-          # Stage only the news files
-          git add data/news.json data/news/*.html
-          
           # Commit changes
-          git commit -m "Auto-update Fed news [skip ci]" || exit 0
+          git commit -m "Auto-update Fed news [skip ci]"
           
           # Pull latest changes and rebase if needed
           git fetch origin main
@@ -69,7 +69,9 @@ jobs:
             git rebase --abort 2>/dev/null || true
             git reset --hard origin/main
             git add data/news.json data/news/*.html
-            git commit -m "Auto-update Fed news [skip ci]"
+            if ! git diff --cached --quiet; then
+              git commit -m "Auto-update Fed news [skip ci]"
+            fi
           fi
           
           # Push changes
