@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +25,7 @@
             min-height: 100vh;
         }
 
-        /* 左侧导航栏 */
+        /* Sidebar */
         .sidebar {
             width: 240px;
             background: #ffffff;
@@ -114,7 +114,7 @@
             justify-content: center;
         }
 
-        /* 主内容区域 */
+        /* Main Content */
         .main-content {
             flex: 1;
             margin-left: 240px;
@@ -142,7 +142,7 @@
             font-weight: 400;
         }
 
-        /* 筛选标签 */
+        /* Filter Tabs */
         .filter-tabs {
             display: flex;
             gap: 24px;
@@ -181,7 +181,7 @@
             background: #1a1a1a;
         }
 
-        /* 转录稿列表 */
+        /* Transcript List */
         .transcript-list {
             display: flex;
             flex-direction: column;
@@ -315,7 +315,7 @@
             opacity: 0.3;
         }
 
-        /* 响应式设计 */
+        /* Responsive Design */
         @media (max-width: 1024px) {
             .sidebar {
                 width: 200px;
@@ -347,7 +347,7 @@
             }
         }
 
-        /* 加载动画 */
+        /* Loading Animation */
         .loading {
             display: flex;
             justify-content: center;
@@ -371,7 +371,7 @@
 </head>
 <body>
     <div class="app-container">
-        <!-- 左侧导航栏 -->
+        <!-- Sidebar -->
         <aside class="sidebar">
             <div class="sidebar-header">
                 <h2 class="sidebar-title">FOMC Monitor</h2>
@@ -379,7 +379,7 @@
             </div>
 
             <div class="search-box">
-                <input type="text" id="sidebarSearch" placeholder="搜索...">
+                <input type="text" id="sidebarSearch" placeholder="Search...">
             </div>
 
             <nav>
@@ -387,54 +387,54 @@
                     <li class="nav-item">
                         <a href="#" class="nav-link active">
                             <span class="nav-icon">📋</span>
-                            <span>全部转录稿</span>
+                            <span>All Transcripts</span>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link">
                             <span class="nav-icon">📅</span>
-                            <span>按年份</span>
+                            <span>By Year</span>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link">
                             <span class="nav-icon">⭐</span>
-                            <span>重要会议</span>
+                            <span>Important Meetings</span>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link">
                             <span class="nav-icon">🔍</span>
-                            <span>搜索历史</span>
+                            <span>Search History</span>
                         </a>
                     </li>
                 </ul>
             </nav>
         </aside>
 
-        <!-- 主内容区域 -->
+        <!-- Main Content -->
         <main class="main-content">
             <div class="content-header">
                 <h1 class="content-title">FOMC Press Conference Transcripts</h1>
                 <p class="content-subtitle">Federal Open Market Committee Press Conference Transcripts Archive</p>
             </div>
 
-            <!-- 筛选标签 -->
+            <!-- Filter Tabs -->
             <div class="filter-tabs">
-                <button class="filter-tab active" data-filter="all" data-type="year">全部</button>
+                <button class="filter-tab active" data-filter="all" data-type="year">All</button>
                 <button class="filter-tab" data-filter="2025" data-type="year">2025</button>
                 <button class="filter-tab" data-filter="2024" data-type="year">2024</button>
                 <button class="filter-tab" data-filter="2023" data-type="year">2023</button>
                 <button class="filter-tab" data-filter="2022" data-type="year">2022</button>
             </div>
             
-            <!-- 说话者标签 -->
+            <!-- Speaker Tags -->
             <div class="filter-tabs" id="speakerTags" style="margin-top: 16px;">
-                <button class="filter-tab active" data-filter="all" data-type="speaker">全部说话者</button>
+                <button class="filter-tab active" data-filter="all" data-type="speaker">All Speakers</button>
                 <!-- Speaker tags will be dynamically generated -->
             </div>
 
-            <!-- 转录稿列表 -->
+            <!-- Transcript List -->
             <div class="transcript-list" id="transcriptList">
                 <div class="loading">
                     <div class="spinner"></div>
@@ -444,7 +444,7 @@
     </div>
 
     <script>
-        // 默认数据
+        // Default data
         const defaultTranscripts = [
             {
                 date: "2024-12-18",
@@ -512,7 +512,7 @@
         let currentFilter = 'all';
         let currentSpeakerFilter = 'all';
 
-        // 加载转录稿数据
+        // Load transcript data
         async function loadTranscripts() {
             try {
                 const response = await fetch('data/transcripts.json');
@@ -541,19 +541,19 @@
             return Promise.resolve();
         }
 
-        // 格式化日期
+        // Format date
         function formatDate(dateString) {
             const date = new Date(dateString);
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             return date.toLocaleDateString('en-US', options);
         }
 
-        // 获取年份标签
+        // Get year tag
         function getYearTag(dateString) {
             return dateString.substring(0, 4);
         }
 
-        // 获取所有唯一的说话者标签
+        // Get all unique speaker tags
         function getAllSpeakerTags() {
             const allTags = new Set();
             transcripts.forEach(t => {
@@ -564,14 +564,14 @@
             return Array.from(allTags).sort();
         }
         
-        // 渲染说话者标签
+        // Render speaker tags
         function renderSpeakerTags() {
             const tagsContainer = document.getElementById('speakerTags');
             const tags = getAllSpeakerTags();
             
             if (tags.length === 0) return;
             
-            // 保留"全部说话者"按钮，添加其他标签
+            // Keep "All Speakers" button, add other tags
             const existingButtons = tagsContainer.querySelectorAll('.filter-tab[data-type="speaker"]');
             existingButtons.forEach(btn => {
                 if (btn.dataset.filter !== 'all') {
@@ -595,25 +595,25 @@
             });
         }
         
-        // 渲染转录稿列表
+        // Render transcript list
         function renderTranscripts() {
             const listContainer = document.getElementById('transcriptList');
             
             let filtered = transcripts;
             
-            // 应用年份筛选
+            // Apply year filter
             if (currentFilter !== 'all') {
                 filtered = filtered.filter(t => t.date.startsWith(currentFilter));
             }
             
-            // 应用说话者标签筛选
+            // Apply speaker tag filter
             if (currentSpeakerFilter !== 'all') {
                 filtered = filtered.filter(t => 
                     t.tags && Array.isArray(t.tags) && t.tags.includes(currentSpeakerFilter)
                 );
             }
             
-            // 应用搜索
+            // Apply search
             const searchTerm = document.getElementById('sidebarSearch').value.toLowerCase();
             if (searchTerm) {
                 filtered = filtered.filter(t => 
@@ -628,7 +628,7 @@
                 listContainer.innerHTML = `
                     <div class="no-results">
                         <div class="no-results-icon">🔍</div>
-                        <p>未找到匹配的转录稿</p>
+                        <p>No matching transcripts found</p>
                     </div>
                 `;
                 return;
@@ -667,7 +667,7 @@
             }).join('');
         }
         
-        // 按说话者筛选
+        // Filter by speaker
         function filterBySpeaker(speaker) {
             currentSpeakerFilter = speaker;
             document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(tab => {
@@ -678,9 +678,8 @@
             });
             renderTranscripts();
         }
-        }
 
-        // 筛选标签事件（年份筛选）
+        // Filter tab events (year filter)
         document.querySelectorAll('.filter-tab[data-type="year"]').forEach(tab => {
             tab.addEventListener('click', () => {
                 document.querySelectorAll('.filter-tab[data-type="year"]').forEach(t => t.classList.remove('active'));
@@ -690,7 +689,7 @@
             });
         });
         
-        // 说话者标签筛选事件
+        // Speaker tag filter events
         document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(tab => {
             tab.addEventListener('click', () => {
                 document.querySelectorAll('.filter-tab[data-type="speaker"]').forEach(t => t.classList.remove('active'));
@@ -700,12 +699,12 @@
             });
         });
 
-        // 搜索事件
+        // Search event
         document.getElementById('sidebarSearch').addEventListener('input', () => {
             renderTranscripts();
         });
 
-        // 初始化
+        // Initialize
         loadTranscripts().then(() => {
             renderSpeakerTags();
         });
