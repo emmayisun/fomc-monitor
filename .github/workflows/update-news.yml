@@ -45,11 +45,32 @@ jobs:
         run: python news_scraper.py
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-update Fed news [skip ci]"
-          file_pattern: 'data/news.json data/news/*.html'
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
-          skip_dirty_check: true
-          skip_fetch: false
+        run: |
+          # Configure git
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          
+          # Check for changes
+          if git diff --quiet data/news.json data/news/*.html 2>/dev/null; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # Stage only the news files
+          git add data/news.json data/news/*.html
+          
+          # Commit changes
+          git commit -m "Auto-update Fed news [skip ci]" || exit 0
+          
+          # Pull latest changes and rebase if needed
+          git fetch origin main
+          if ! git pull --rebase origin main; then
+            # If rebase fails, reset and try again
+            git rebase --abort 2>/dev/null || true
+            git reset --hard origin/main
+            git add data/news.json data/news/*.html
+            git commit -m "Auto-update Fed news [skip ci]"
+          fi
+          
+          # Push changes
+          git push origin main
