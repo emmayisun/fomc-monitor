@@ -714,9 +714,9 @@ def main():
             "pdf_url": None  # Will auto-generate: FOMCpresconf20251029.pdf
         },
         {
-            "date": "2025-12-09",
+            "date": "2025-12-10",
             "title": "December 2025 FOMC Press Conference",
-            "pdf_url": None  # Will auto-generate: FOMCpresconf20251209.pdf
+            "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20251210.pdf"
         },
         # 之前的会议（保留）
         {
