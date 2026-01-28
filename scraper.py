@@ -714,14 +714,9 @@ def main():
             "pdf_url": None  # Will auto-generate: FOMCpresconf20251029.pdf
         },
         {
-            "date": "2025-11-06",
-            "title": "November 2025 FOMC Press Conference",
-            "pdf_url": None  # Will auto-generate: FOMCpresconf20251106.pdf
-        },
-        {
-            "date": "2025-12-17",
+            "date": "2025-12-09",
             "title": "December 2025 FOMC Press Conference",
-            "pdf_url": None  # Will auto-generate: FOMCpresconf20251217.pdf
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20251209.pdf
         },
         # 之前的会议（保留）
         {
