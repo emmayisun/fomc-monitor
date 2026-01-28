@@ -280,16 +280,29 @@ class FOMCScraper:
             flags=re.IGNORECASE
         )
         
+        # Remove "Chair Powell'" fragments that appear mid-sentence (page header remnants)
+        # These are leftover from page headers and should be completely removed
+        # Handle various quote types: regular apostrophe, curly quotes, etc.
+        text = re.sub(r'\s+Chair\s+Powell[\'\"\u2019\u2018]?\s+', ' ', text, flags=re.IGNORECASE)
+        text = re.sub(r'Chair\s+Powell[\'\"\u2019\u2018]?\s+', ' ', text, flags=re.IGNORECASE)
+        
+        # Remove patterns like "Chair Powell'" at end of sentences or words
+        text = re.sub(r'Chair\s+Powell[\'\"\u2019\u2018]\s*', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'\s+Chair\s+Powell[\'\"\u2019\u2018]\s*', ' ', text, flags=re.IGNORECASE)
+        text = re.sub(r'Chair\s+Powell[\'\"\u2019\u2018]', '', text, flags=re.IGNORECASE)
+        
         # Clean up orphaned apostrophes and fragments
         text = re.sub(r'\s+\'\s+', ' ', text)  # Remove standalone apostrophes with spaces
         text = re.sub(r'\'\s+', ' ', text)  # Remove apostrophes at word boundaries
+        text = re.sub(r'\s+\'', ' ', text)  # Remove trailing apostrophes
         
-        # Remove "Chair Powell'" fragments that appear mid-sentence (page header remnants)
-        text = re.sub(r'\s+Chair\s+Powell\'?\s+', ' ', text, flags=re.IGNORECASE)
-        
-        # Clean up excessive whitespace
+        # Clean up excessive whitespace, but preserve speaker name boundaries
+        # First, ensure speaker names have proper spacing before and after
+        text = re.sub(r'\s+([A-Z][A-Z\s]{2,}\.)\s+', r' \1 ', text)
+        # Then clean up remaining excessive whitespace
         text = re.sub(r'\s+', ' ', text)
-        text = re.sub(r'\s+([A-Z][A-Z\s]{2,}\.)\s+', r' \1 ', text)  # Ensure speaker names have proper spacing
+        # Ensure speaker names are properly separated (double space before speaker names)
+        text = re.sub(r'([a-z])\s+([A-Z][A-Z\s]{2,}\.)\s+', r'\1  \2 ', text)
         
         return text.strip()
     
@@ -297,27 +310,82 @@ class FOMCScraper:
         """Convert text to HTML paragraphs with proper speaker detection"""
         html_lines = []
         
-        # Pattern to match speaker names: ALL CAPS names followed by period
-        # Examples: "CHAIR POWELL.", "MICHELLE SMITH.", "JEANNA SMIALEK."
-        # Match pattern: 2+ uppercase words followed by period and space
+        # Key insight: Speaker names ONLY appear at the start of a paragraph/sentence
+        # Pattern: Start of text OR after sentence boundary + ALL CAPS NAME + period + space
+        # Must be at paragraph start (after . ! ? or start of text)
         speaker_pattern = re.compile(
             r'([A-Z][A-Z\s]{2,}\.)\s+',
             re.MULTILINE
         )
         
-        # Find all speaker markers and their positions
+        # Find all potential speaker markers
         segments = []
         last_end = 0
         
         for match in speaker_pattern.finditer(text):
-            # Add text before this speaker as content of previous speaker
-            if match.start() > last_end:
-                segments.append(('content', text[last_end:match.start()]))
-            
-            # Add the speaker name
+            speaker_start = match.start(1)  # Start of speaker name
             speaker_name = match.group(1)
-            segments.append(('speaker', speaker_name))
-            last_end = match.end()
+            speaker_end = match.end()
+            
+            # Add text before this potential speaker as content
+            if speaker_start > last_end:
+                segments.append(('content', text[last_end:speaker_start]))
+            
+            # Verify this is really a speaker at paragraph start
+            # Check what comes before: should be sentence boundary or start of text
+            before_text = text[max(0, speaker_start-50):speaker_start]
+            
+            # Special case: First CHAIR POWELL might appear after header text
+            # If this is CHAIR POWELL and it's early in the text, treat it as speaker
+            is_first_chair_powell = (
+                'CHAIR POWELL' in speaker_name and 
+                speaker_start < 100 and
+                len(segments) <= 2  # Early in segments
+            )
+            
+            # Speaker names at paragraph start should:
+            # 1. Be at text start, OR
+            # 2. Follow sentence boundary (. ! ?) with proper spacing, OR
+            # 3. Follow a known speaker name (e.g., "MICHELLE SMITH. Steve. STEVE LIESMAN.")
+            # 4. Be the first CHAIR POWELL (special case for opening statement)
+            is_at_paragraph_start = (
+                speaker_start == 0 or
+                re.search(r'[.!?]\s+$', before_text) is not None or
+                re.search(r'([A-Z][A-Z\s]{2,}\.)\s+$', before_text) is not None or
+                is_first_chair_powell
+            )
+            
+            # Additional check: single-word all-caps that appear mid-sentence are likely content
+            speaker_words = speaker_name.rstrip('.').split()
+            if len(speaker_words) == 1:
+                word = speaker_words[0]
+                # Media orgs and short abbreviations are not speakers
+                media_orgs = {'CNBC', 'ABC', 'CBS', 'NBC', 'CNN', 'FOX', 'BBC', 'AP', 'REUTERS', 'BLOOMBERG', 
+                             'WSJ', 'FT', 'NYT', 'WP', 'USA', 'UK', 'US', 'EU'}
+                if word in media_orgs or (len(word) <= 4 and word.isupper()):
+                    is_at_paragraph_start = False
+            
+            # Check context: if previous content suggests this is part of a sentence
+            if segments and segments[-1][0] == 'content':
+                prev_content = segments[-1][1].lower().rstrip()
+                # Special case: if previous content ends with "Transcript of" or similar header text,
+                # and this is CHAIR POWELL, treat it as speaker (opening statement)
+                if 'CHAIR POWELL' in speaker_name and 'transcript' in prev_content:
+                    is_at_paragraph_start = True
+                # If ends with preposition or comma, likely part of content
+                elif any(prev_content.endswith(word) for word in [' from', ' with', ' at', ' of', ',', ' and']):
+                    is_at_paragraph_start = False
+            
+            if is_at_paragraph_start:
+                segments.append(('speaker', speaker_name))
+            else:
+                # This is content, not a speaker - merge with previous content
+                if segments and segments[-1][0] == 'content':
+                    segments[-1] = ('content', segments[-1][1] + ' ' + speaker_name.rstrip('.') + '. ')
+                else:
+                    segments.append(('content', speaker_name.rstrip('.') + '. '))
+            
+            last_end = speaker_end
         
         # Add remaining text
         if last_end < len(text):
@@ -326,14 +394,25 @@ class FOMCScraper:
         # Process segments
         current_speaker = None
         current_content = []
+        is_first_speaker = True
         
         for seg_type, seg_content in segments:
             if seg_type == 'speaker':
-                # Output previous speaker's content
-                if current_speaker and current_content:
-                    content = ' '.join(current_content).strip()
-                    if content:
-                        self._add_speaker_content(html_lines, current_speaker, content)
+                # If this is the first speaker, ignore any content before it (header fragments)
+                if is_first_speaker:
+                    current_content = []  # Clear header content
+                    is_first_speaker = False
+                else:
+                    # Output previous speaker's content
+                    if current_speaker and current_content:
+                        content = ' '.join(current_content).strip()
+                        if content:
+                            # Extract any speaker names that appear in the middle of content
+                            extracted_content = self._extract_speakers_from_content(content, html_lines, current_speaker)
+                            if extracted_content:
+                                self._add_speaker_content(html_lines, current_speaker, extracted_content)
+                            elif content:  # If extraction returned None but content exists, use original
+                                self._add_speaker_content(html_lines, current_speaker, content)
                 
                 current_speaker = seg_content
                 current_content = []
@@ -347,9 +426,79 @@ class FOMCScraper:
         if current_speaker and current_content:
             content = ' '.join(current_content).strip()
             if content:
-                self._add_speaker_content(html_lines, current_speaker, content)
+                extracted_content = self._extract_speakers_from_content(content, html_lines, current_speaker)
+                if extracted_content:
+                    self._add_speaker_content(html_lines, current_speaker, extracted_content)
+                elif content:
+                    self._add_speaker_content(html_lines, current_speaker, content)
         
         return html_lines
+    
+    def _extract_speakers_from_content(self, content, html_lines, current_speaker):
+        """Extract speaker names that appear in the middle of content"""
+        # Pattern to find speaker names in content
+        speaker_in_content_pattern = re.compile(
+            r'\s+([A-Z][A-Z\s]{2,}\.)\s+',
+            re.MULTILINE
+        )
+        
+        # Media orgs to exclude
+        media_orgs = {'CNBC', 'ABC', 'CBS', 'NBC', 'CNN', 'FOX', 'BBC', 'AP', 'REUTERS', 'BLOOMBERG'}
+        
+        parts = []
+        last_end = 0
+        
+        for match in speaker_in_content_pattern.finditer(content):
+            # Add text before speaker
+            if match.start() > last_end:
+                parts.append(('text', content[last_end:match.start()]))
+            
+            # Check if it's a real speaker (not media org)
+            speaker_name = match.group(1)
+            speaker_words = speaker_name.rstrip('.').split()
+            
+            # Real speakers have 2+ words (e.g., "STEVE LIESMAN", "CHAIR POWELL")
+            # Single words are usually media orgs or abbreviations
+            is_real_speaker = len(speaker_words) >= 2
+            
+            if not is_real_speaker:
+                # Single word - check if it's a media org
+                if len(speaker_words) == 1:
+                    if speaker_words[0] in media_orgs or len(speaker_words[0]) <= 5:
+                        # Media org or short abbreviation - keep as text
+                        parts.append(('text', speaker_name.rstrip('.') + '. '))
+                    else:
+                        # Might be a speaker, but be conservative
+                        parts.append(('text', speaker_name.rstrip('.') + '. '))
+                else:
+                    parts.append(('text', speaker_name.rstrip('.') + '. '))
+            else:
+                # Real speaker (2+ words)
+                parts.append(('speaker', speaker_name))
+            
+            last_end = match.end()
+        
+        # Add remaining text
+        if last_end < len(content):
+            parts.append(('text', content[last_end:]))
+        
+        # Reconstruct: output text parts, and mark speaker parts for new segments
+        result_parts = []
+        for part_type, part_content in parts:
+            if part_type == 'text':
+                result_parts.append(part_content)
+            else:
+                # This is a speaker name - output current content first, then start new speaker
+                if result_parts:
+                    text_content = ' '.join(result_parts).strip()
+                    if text_content:
+                        self._add_speaker_content(html_lines, current_speaker, text_content)
+                    result_parts = []
+                # Note: The speaker will be handled in the next iteration
+                # For now, we'll return empty to stop current content
+                return None
+        
+        return ' '.join(result_parts).strip() if result_parts else None
     
     def _add_speaker_content(self, html_lines, speaker, content):
         """Add speaker content with appropriate formatting"""
