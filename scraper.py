@@ -709,6 +709,11 @@ def main():
             "pdf_url": None  # Will auto-generate: FOMCpresconf20250917.pdf
         },
         {
+            "date": "2025-10-29",
+            "title": "October 2025 FOMC Press Conference",
+            "pdf_url": None  # Will auto-generate: FOMCpresconf20251029.pdf
+        },
+        {
             "date": "2025-11-06",
             "title": "November 2025 FOMC Press Conference",
             "pdf_url": None  # Will auto-generate: FOMCpresconf20251106.pdf
