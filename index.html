@@ -529,9 +529,11 @@
                 const link = transcript.html_path || transcript.pdf_url || '#';
                 const isAvailable = transcript.html_path || transcript.pdf_url;
                 const yearTag = getYearTag(transcript.date);
+                const pdfLink = transcript.pdf_url || '#';
+                const hasPdf = transcript.pdf_url;
                 
                 return `
-                    <div class="transcript-card" onclick="${isAvailable ? `window.location.href='${link}'` : ''}">
+                    <div class="transcript-card" onclick="${isAvailable && transcript.html_path ? `window.location.href='${link}'` : ''}">
                         <div class="card-header">
                             <span class="card-author">FOMC</span>
                             <span class="card-date">${formatDate(transcript.date)}</span>
@@ -540,6 +542,11 @@
                             ${isAvailable ? `<a href="${link}" ${transcript.html_path ? '' : 'target="_blank"'} class="card-link">${transcript.title}</a>` : transcript.title}
                         </h3>
                         <p class="card-description">${transcript.description}</p>
+                        ${hasPdf ? `
+                        <div class="card-footer">
+                            <a href="${pdfLink}" target="_blank" rel="noopener noreferrer" class="card-original-link" onclick="event.stopPropagation();">View Original PDF</a>
+                        </div>
+                        ` : ''}
                     </div>
                 `;
             }).join('');
