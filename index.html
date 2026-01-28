@@ -241,7 +241,29 @@
         }
 
         .card-footer {
-            display: none;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-top: 8px;
+        }
+        
+        .card-original-link {
+            font-size: 13px;
+            color: #666;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+        
+        .card-original-link:hover {
+            color: #1a1a1a;
+        }
+        
+        .card-original-link::before {
+            content: '📄';
+            font-size: 14px;
         }
 
         .card-link {
