@@ -10,6 +10,8 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for git-auto-commit-action to push
 
     steps:
       - name: Checkout repository
@@ -38,3 +40,4 @@ jobs:
           file_pattern: 'data/news.json data/news/*.html'
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
+          skip_dirty_check: true
