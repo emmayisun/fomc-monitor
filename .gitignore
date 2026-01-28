@@ -9,10 +9,8 @@ env/
 ENV/
 .venv
 
-# Data files (PDFs and generated HTMLs)
+# Data files (PDFs only - HTMLs and JSON needed for website)
 data/pdfs/
-data/htmls/
-data/transcripts.json
 
 # IDE
 .vscode/

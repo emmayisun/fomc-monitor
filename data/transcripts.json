@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2025-01-29",
+    "title": "January 2025 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250129.pdf",
+    "pdf_path": "data/pdfs/fomc_2025-01-29.pdf",
+    "html_path": "data/htmls/fomc_2025-01-29.html",
+    "scraped_at": "2026-01-27T17:36:34.844865"
+  },
+  {
+    "date": "2024-12-18",
+    "title": "December 2024 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20241218.pdf",
+    "pdf_path": "data/pdfs/fomc_2024-12-18.pdf",
+    "html_path": "data/htmls/fomc_2024-12-18.html",
+    "scraped_at": "2026-01-27T17:32:12.003775"
+  },
+  {
+    "date": "2024-11-07",
+    "title": "November 2024 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20241107.pdf",
+    "pdf_path": "data/pdfs/fomc_2024-11-07.pdf",
+    "html_path": "data/htmls/fomc_2024-11-07.html",
+    "scraped_at": "2026-01-27T17:32:13.495970"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "September 2024 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20240918.pdf",
+    "pdf_path": "data/pdfs/fomc_2024-09-18.pdf",
+    "html_path": "data/htmls/fomc_2024-09-18.html",
+    "scraped_at": "2026-01-27T17:32:15.147567"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "July 2024 FOMC Press Conference",
+    "pdf_url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20240731.pdf",
+    "pdf_path": "data/pdfs/fomc_2024-07-31.pdf",
+    "html_path": "data/htmls/fomc_2024-07-31.html",
+    "scraped_at": "2026-01-27T17:32:16.766284"
+  }
+]
