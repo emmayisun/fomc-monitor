@@ -247,6 +247,54 @@
     "html_path": "data/news/news_2026-01-29_c9ab7961.html"
   },
   {
+    "id": "news_2026-01-29_6125939d",
+    "date": "2026-01-29",
+    "title": "Trump plans to announce his Fed chairman choice next week",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcndqV3JPd2I4MHVOR1RNV0gtU1ZBMkNnbUZkS0F2b0xlaDJYQk9JWU9odUE3Q19xejY0cU04dTJmZGtVN21WOTVPN0t2MHFSMFRFY1A2VTQzbXY0ell5bUNqclBsblAtdXh2eUFhMmJxZXRoZGtMNEZYUUtuX2lfbTJYcHNiczZnOGM5VTdVSUtjajA5eC15QU5udGpQYTc1?oc=5",
+    "author": "",
+    "summary": "Trump plans to announce his Fed chairman choice next week Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-01-29T18:55:44.949793"
+  },
+  {
+    "id": "news_2026-01-29_45e88e10",
+    "date": "2026-01-29",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOdWpUSkVTaWVHVHdWUndSdjVkTnZWZTNMMnA5ZFVYd2p4Qm44S0ZwODJiWDdMeGJjQlJCcXJzcG9kS3Y4N3VVbi1fX1RrdDk1ZXowRk5yTjUzc1ZoZV9PTzNOZ0NqNFM5amJXVkF2NlVSMUhaM3YtSXJkLXJHUXlzankyaENBQVNtY2dlVUQwWEh6WXdJMXV4RUNlX0ROYW9nQ3JMUEtnaXhtZmlRY0xLM1NOZ2NBZDFiVUFyRGoya0J5Y3hPVDE4dTZEbWxvS2oxOVhLT2Q2NGJxN1NYYS01bWlxdlpTeGNrdmRfeU5TQS1OUnlscnh4UzU4cWpicFgtYTZmRlQ0TUZfLWJrZlpMTThwTmNkZ0F1U1FiQ0ZUVV80TzdmUDlmU0ZOY3hmTlhWU3lEdGpVdF9TM3FPX19kQlFSbUQtZnZpTE5veHFLdDBwZGtkc0V1YUw4d1dUTEtIX0RBY3E5Q1FwUWJEWHkzdUpCeDBjQmJZWjA1ak02b2QzMFJ6VEo5aXlqWU83MGgwZFZ4S3hQRXhnUWYwSnJvc01R?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-01-29T18:55:50.686354",
+    "html_path": "data/news/news_2026-01-29_45e88e10.html"
+  },
+  {
+    "id": "news_2026-01-29_6c02d50a",
+    "date": "2026-01-29",
+    "title": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQbEFJOVY5Vl9yVlNralZvbmlfRjNHUXdzWTlQVnhKcmg2ZkwyMHlEckpsUGNYU29YOEp3c1lORlhvNnZGaWIxQnNzRERRNVY1d1dNSWE3b1E1aXRhVE50T1ZGdDFaM2x3UU1XOVNMOGxXcktuOVUyMXJhTUVqWEJ4VzIzUkVfMlowSW9Ja280YThFcHVBcUt2LURHREd5OXZ0MkRoZFBBOU45b2plQy1wcVF3WkVmMFRMeEMyanBjMmVKX0N3UnZTM0J5RkVTaEJFVWxDeGJ0R05RTHhFZXdJdDhaNzRlVGJLOG5vUUp3QzB3Wi1uV240ZlBtM1dXdlBuYTRuODNYUXJlcmlNMkZEbkMwWEY0enFPS2hHNzEydnF3Ukl2S01DLVo5LUJHekxIR3hySEl4dzdlT19tMGp1Nm5EYmRHUVV3cTVYcDZtVHplUC1XZ2dGUExmRnpYXzJUbmJna3llY0dZMUExbGM5UDRzRmlMcDc5S3g4NktKUQ?oc=5",
+    "author": "",
+    "summary": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher The Wall Street Journal.",
+    "tags": [
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-01-29T18:55:56.319584",
+    "html_path": "data/news/news_2026-01-29_6c02d50a.html"
+  },
+  {
     "id": "news_2026-01-28_1f565515",
     "date": "2026-01-28",
     "title": "Federal Reserve live: Fed to deliver first interest rate decision of 2026",
