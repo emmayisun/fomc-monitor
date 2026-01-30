@@ -1,5 +1,51 @@
 [
   {
+    "id": "news_2026-01-30_ecf30c28",
+    "date": "2026-01-30",
+    "title": "Fed Holds Rates Steady as It Points to an Improving Economy",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkRCYVQ1MXRJZlg5TzZob1h6V25yaDB5b0ViZmtNQm56UUo1ZTM2VzJEYVdmV0xIVFFJclhfalpPeER3b3RCbjB6UTdWb0xXWXZHTFBCYjNJUl9vNGhERTRUNlhFNEtSbTljMTc2ZUkwTENfTVJnbEdJeFdiNzZRNg?oc=5",
+    "author": "",
+    "summary": "Fed Holds Rates Steady as It Points to an Improving Economy The New York Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-01-30T02:29:43.329841"
+  },
+  {
+    "id": "news_2026-01-30_0475c5ba",
+    "date": "2026-01-30",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOdTJhR21xWnlpREJXQXM4dnZVQUJBdFBDYlNxN1hhb251VC1aa3l0bGxrUUJHNVI3a2N2Y2NJN2drbkJSOHp1VXJuUXMyVDM5MVJyRVhqaC10X1BURmFpV243aGxZZEZyOUZlQ3JrWmxGSk1oN05rOEdaMmdxeXQ4bVNjUU8tTXAzaFpxenQ2SFg5cmxzTXNUYno5Z0dXRHEyMC13T1Uza0kzRkNhakFyUFE2REF3RGltZmU4YU11Vno1ZmVyYlptdll3aDdWUExBdElfVmNjRG1YZ0J6SkxZdUZIVDhsaDN1N2o1MXh4VmkzSWJZV0xvdGNIMlgyWTZneThtT1BpNVdYLWtjRTdVcHZKa3NudlFTamxwYWFvQV9Ka0VYZnEySVZuVHRZd19aUkx5MDNWakp3MG5VdXJkcTlIMlFiVThOOG1lejBGQ0RURzdVR0dQemxxcWhCakIxM1UzWEZDaDh4QzV0YUJaZVpwRzI4Qm0wUGsxMlJCVjN1VVh4VG9Cb0FMUGg3RVZuTVNQa1ZYaGtubVlNeE41R1R3?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-01-30T02:29:51.993438",
+    "html_path": "data/news/news_2026-01-30_0475c5ba.html"
+  },
+  {
+    "id": "news_2026-01-30_60f013b9",
+    "date": "2026-01-30",
+    "title": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQYlQ5QU1Jb0loZ2dwTHZaRF9XS3BNb19TUlRwcC1yZEZZdE50WnBfTkE0cnZQSDhHa1pYckJWS0lJMjhTVUYtUWNYUUN6QVZvR1FQcU5hcHhCMU94LVYxZ2ZWT2xNMm13SlZUQkhWdXdWRVRNdkRobmFWS0JWMWVqS29UNTFZNWFUVm5hWnd6d2tnRlYtZEtoU011ZWU3T3IxRWNmLWFRM3pFNXVESmRpbm1MTGlDTGpTaEwxRjF3ZG4xWW5KcmR5NFZUY1BHVk4zWl9QSUs3RzBrakR2OWtDZVhLWGdmcFk3SU01bDhBVEYtY0RUN1F4U19RN3hrT19ISE11SWl4U2M4LTNrVzc3ZndJVUQxOEdUXzQ5Q0x6ejJ2RFBCOU82Y3VRY2xRWFZQQnNvNW5sRGVtdnk0RUFrUm9Ba2JrUkRzLWduVEhVYUpMa2RONDVNTFVBMzdJbTV6RGFiWXctTWF2TXplbnJsRFhYaldkRU9SbEdDZ093cw?oc=5",
+    "author": "",
+    "summary": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher The Wall Street Journal.",
+    "tags": [
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-01-30T02:29:58.623666",
+    "html_path": "data/news/news_2026-01-30_60f013b9.html"
+  },
+  {
     "id": "news_2026-01-29_69b60eec",
     "date": "2026-01-29",
     "title": "Federal Reserve signals no rush to cut interest rates as US economy powers ahead",
