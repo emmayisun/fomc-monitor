@@ -115,6 +115,51 @@
     "html_path": "data/news/news_2026-02-03_e8d770eb.html"
   },
   {
+    "id": "news_2026-02-03_8295669c",
+    "date": "2026-02-03",
+    "title": "Tradition’s Major Says Get Ready for Warsh’s Fed to Slash Rates",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNm4yOEtVSFF5Z0Jnd0xfd3I4T1lDdW9xUEVBS3FkQ2lKUFZDSU9ldjBwSGVJNHZsTXU0WldTMVVFR29fNlRUdUY0ZS13NGZnaXJXZE9PMlVxUU5CY3l4aVNxYzFWcVh1dHdqeE1hVjZqVTBvMTcwN1pjeG9QQUd1UFRpZVNfb2JvU2plVmpxek9hd2dMZDR0bnBaUzQxeld3dzhrMGh6T1RqMnN5TEtxN0JfQ2o?oc=5",
+    "author": "",
+    "summary": "Tradition’s Major Says Get Ready for Warsh’s Fed to Slash Rates Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T13:12:13.905989"
+  },
+  {
+    "id": "news_2026-02-03_2c379d52",
+    "date": "2026-02-03",
+    "title": "Transcript: What would Kevin Warsh’s Federal Reserve look like?",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KOEE0YkxNekprTnlpbW1JYlI2U0o1QVF4cUJaUHdqYy02MVhJTWZjeGFUek40NHc5RmxJWS1jYkVaNDI2WkQ4bm1MeUZCNk9TcDdmVDVpSGktMlh1NUdZTm42LWNhVEJxUjlBaEQ3SWI?oc=5",
+    "author": "Victoria Craig; Claire Jones; Madeleine Speed Published Jump",
+    "summary": "Transcript: What would Kevin Warsh’s Federal Reserve look like. This is an audio transcript of the FT News Briefing podcast episode: ‘What would Kevin Warsh’s Federal Reserve look like?’\nVictoria Craig\nGood morning from the Financial Times.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "FOMC",
+      "QT"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T13:12:16.054816",
+    "html_path": "data/news/news_2026-02-03_2c379d52.html"
+  },
+  {
+    "id": "news_2026-02-03_9a31f962",
+    "date": "2026-02-03",
+    "title": "Trump Needs an Off-Ramp for Powell Feud to Speed Warsh Into Fed",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2F6V1UtQk5FVkdjb1Z1OGk4Q2tleklFZ2Q1Z1hacUI0WDJzMFdRVG5LeUNwZFRYRm84eDJpMGxFbUhKbmxwWVNLaS1hQW9CcEhDb0VzS2pyeFFLWkE5c2tBOFZFbzNtMHZPekR3NWQtdjRELWtkbWFyMmNQQmhNbjZOeDV6WS1JWXk4QmFzRW1aOFhscXdJdnJhMmZsRU81dV82U3k2TnI5cGpiTGlTTkFvVEI?oc=5",
+    "author": "",
+    "summary": "Trump Needs an Off-Ramp for Powell Feud to Speed Warsh Into Fed Bloomberg.com",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T13:12:18.437442"
+  },
+  {
     "id": "news_2026-02-02_3135fd8f",
     "date": "2026-02-02",
     "title": "When Does Jerome Powell’s Term End?",
