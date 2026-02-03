@@ -67,6 +67,54 @@
     "html_path": "data/news/news_2026-02-03_e4c7e9db.html"
   },
   {
+    "id": "news_2026-02-03_33cdfbb9",
+    "date": "2026-02-03",
+    "title": "Warsh Looks Like a Smart Choice for the Fed … for Now",
+    "source": "Bloomberg",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUktRM0VPQVVYTUtqbktPY2VjZ0NPdUUteXBYQVZRMlNfTThGY2o3Q21YMG9LU1JBVms1MnkwS1lUcnotVFV5TjlXTGkyQmxPLUZOTmM4TndFalhVZk9wbUFydlVoeV8tVWZYbWVmT0dJSEZrWUpoSFJBeF95SkZYdDJjc3Zlb0YtY1BIY25HVzgtcFBHMU9ZZVVEYkZTMUdabFFHem1xN2x4b09OS3c?oc=5",
+    "author": "",
+    "summary": "Warsh Looks Like a Smart Choice for the Fed … for Now Bloomberg",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T06:59:22.883389"
+  },
+  {
+    "id": "news_2026-02-03_08c19684",
+    "date": "2026-02-03",
+    "title": "Trump says DOJ should continue Fed Chair Powell probe 'to the end'",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91S1FMRjVwVmNGaUFVQS1ubGNHdnhzN0ZsVVo2Ym5heWYxSU5LTFRzZGNDcW5qd0tlajhaZ205QXlUSHJaR1pNVkZhT2VlWER1RkhhMDE4emhyNXd4dGs1cmhDbUx2TE81MlhYRE0tNU9PLWV5MW1wUExaSm3SAYIBQVVfeXFMTkdFWXlxSVE3N19pUHhxR24weXE3dkVDNUJtTVFRWXZLbGl2M296V1R6dXNLdV9jc0F3bzdReS1DOWRDdmxZUHI5aWxUN1JlckVhOFlpSFh2V09iYk9fZlUtSmg0LVk5VjM2U2E2bGZaTkIxMUdNY1FwY3RzUGlqZHotZw?oc=5",
+    "author": "Kevin Breuninger",
+    "summary": "President Donald Trump on Monday said a criminal investigation into Federal Reserve Chairman Jerome Powell should continue, shrugging off a Republican senator's vow to block Trump's Fed chair replacement pick unless the probe is dropped.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-03T06:59:24.935708",
+    "html_path": "data/news/news_2026-02-03_08c19684.html"
+  },
+  {
+    "id": "news_2026-02-03_e8d770eb",
+    "date": "2026-02-03",
+    "title": "Did Fed Chair Jerome Powell Just Throw President Donald Trump Under the Bus Concerning Inflation?",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55dGFtTGxVZFJSd25McFJkMDU4VXpMa2I1R3RHQkVMYTFfNFJ2R3l3LXFDREoyZ3g1enVVdldfOFRGMV9LYnlLZWhvbHBTU0hMd3Z1cWEyZXlpbGdfRG1mZUtpZkk2Q0M4blFka01OVjVJNWJEUmkyUS1TNnZPdw?oc=5",
+    "author": "Sean Williams; The Motley Fool",
+    "summary": "The third year of Wall Street's bull market rally didn't disappoint. When the closing bell rang on Dec. 31, the iconic Dow Jones Industrial Average(DJINDICES: ^DJI), widely followed S&P 500(SNPINDEX: ^GSPC), and growth-propelled Nasdaq Composite(NASDAQINDEX: ^IXIC) surged by 13%, 16%, and 20% in 2025.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-03T06:59:29.032135",
+    "html_path": "data/news/news_2026-02-03_e8d770eb.html"
+  },
+  {
     "id": "news_2026-02-02_3135fd8f",
     "date": "2026-02-02",
     "title": "When Does Jerome Powell’s Term End?",
