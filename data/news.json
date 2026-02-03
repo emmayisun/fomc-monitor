@@ -1,5 +1,72 @@
 [
   {
+    "id": "news_2026-02-03_4a049701",
+    "date": "2026-02-03",
+    "title": "Federal Reserve live: Donald Trump nominates Kevin Warsh to be Fed chair, Dollar jumps by the most since May 2025",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tWDhRY2lXX3lhb3ZMdFBOSlpHZFlUUlp2UldHeGtCbEljWkNGcENTVnZSc0FudWRzSzFEOU5RazZIaGZkdlExYzhGV0prRjNTM2N6M3Z5MG9uSndRbkplOW1ZVWpuOFRmY1pkdEdPX0c?oc=5",
+    "author": "Peter Wells; Maxine Kelly; Philip Georgiadis; Zehra Munir; Shea Ferguson",
+    "summary": "Federal Reserve live: Donald Trump nominates Kevin Warsh to be Fed chair, Dollar jumps by the most since May 2025\nSave over 40% on Standard Digital\nwas $540 now $299 for your first yearSave now on essential digital access to trusted FT journalism on any device.",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T02:36:09.106261",
+    "html_path": "data/news/news_2026-02-03_4a049701.html"
+  },
+  {
+    "id": "news_2026-02-03_d86bb91f",
+    "date": "2026-02-03",
+    "title": "Here’s what Kevin Warsh might do as the new Fed chairman",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVlpWFhuX2paQ2tLdExWSE1Xa2NqcFd2RldheVJqR0xMWC15c2FoeDgzOU5vbEVwRThlM2ZYNW9vOG5ILWptYktmQklJVE10aXRzcS1JZ2pDRDlicDg4eGJsLTZmTHBNcXpGaTZycmlMX1Y1TzU3cXNkVmhPdjZIUkNmemhOeEZSV0p2N05YTTc3T3pBY19DbS0tenJ0d1E4N0R5NnlGWHM4UQ?oc=5",
+    "author": "Jacqueline Munis",
+    "summary": "Fed Chair Jerome Powell offered some advice to his successor at Wednesday’s Fed meeting. “Stay out of elected politics. Don’t get pulled into elected politics,” he warned.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-03T02:36:12.288734",
+    "html_path": "data/news/news_2026-02-03_d86bb91f.html"
+  },
+  {
+    "id": "news_2026-02-03_1e98f1d2",
+    "date": "2026-02-03",
+    "title": "Trump says investigation into Fed's Powell should be taken to the end",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYndzd01mYTFTeVBuTmFMZ1FHV2FlbzNSV1EtZEpPYWV3eFR0ZUNUOC1GLUQ2MVFNQmVmbVpIYmNZaDc4U29ud3A1WG1mMTZldHFiYW1CY0tmY3hUUFFEc1VtaGxUTDl0RGx4NnpsX0E3bzNCYzVWS09CNkZhZW9TbEVkLWYxRnBTR0lIVjV1YzV6UG96emgzaTJ5bTdQaXh2b3hUNVpzSTlEZw?oc=5",
+    "author": "",
+    "summary": "Trump says investigation into Fed's Powell should be taken to the end Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-03T02:36:13.714697"
+  },
+  {
+    "id": "news_2026-02-03_e4c7e9db",
+    "date": "2026-02-03",
+    "title": "Federal Reserve chair nomination live: Wall Street reacts to Trump’s Fed pick, Kevin Warsh, as hurdles remain in the Senate",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUZfSXlSbWVJMFFhT0doTzNOcmllbjVOU29oT3ptTFEwdE9oRk5UZXY3WW4yUjhGdTdVSlhyd2xIa3I5ZjhRYmJNTktkLVI5VG9KeG1rRjRrcjFzZGtLbWxld1hxMWlqM0FGdXB3T29lUG9Gb05CLVo2UUhzREZCM0M3Q1lqLXI5eVhhakJlRFJTNmlESWQ3OUNweU1TbWFEMDMxR0ZidFktS2NWS2VuRFFpMzNaT3MweDNmZ3RtWUlUWnU4WWFHVVA0M3dpRHA2YzBpekNYOW42azBSdk82UC12YzBnbnBuN0dTc1hScUdlckN4bGROckhDbC01RXc?oc=5",
+    "author": "Grace O'Donnell; Myles Udland; Rian Howlett; Brett LoGiurato",
+    "summary": "Federal Reserve chair nomination live: Wall Street reacts to Trump’s Fed pick, Kevin Warsh, as hurdles remain in the Senate\nPresident Trump announced he will nominate former Federal Reserve governor Kevin Warsh to lead the Fed.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-03T02:36:17.188318",
+    "html_path": "data/news/news_2026-02-03_e4c7e9db.html"
+  },
+  {
     "id": "news_2026-02-02_3135fd8f",
     "date": "2026-02-02",
     "title": "When Does Jerome Powell’s Term End?",
