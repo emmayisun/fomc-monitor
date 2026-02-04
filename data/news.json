@@ -26,6 +26,48 @@
     "scraped_at": "2026-02-04T02:30:30.450564"
   },
   {
+    "id": "news_2026-02-04_180ff3ee",
+    "date": "2026-02-04",
+    "title": "Federal Reserve governor Miran steps down from White House post",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlUyWXZPbmFnTm4wRGY2SUF4aW15TE5DRXlUWTFCYWd4VElVRjNVbUNXbFpVaENfcDZtRUpRdWJLNGgweEd5cjVXb0stOE1pNDZ6VV9PaVpEOGlhRlhtZ2NDUWx4TFc3YmQtaDQ2VW5zUzlTd08wRUtuQ3ExWjRZTlJKcDAtZw?oc=5",
+    "author": "CHRISTOPHER RUGABER; WILL WEISSERT",
+    "summary": "WASHINGTON (AP) — Federal Reserve governor Stephen Miran has stepped down from his position as chair of the White House's Council of Economic Advisers, ending a controversial arrangement where he held positions at both institutions.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-04T06:59:48.500186",
+    "html_path": "data/news/news_2026-02-04_180ff3ee.html"
+  },
+  {
+    "id": "news_2026-02-04_dc47508d",
+    "date": "2026-02-04",
+    "title": "Kevin Warsh faces Senate battle as lawmakers object to Donald Trump’s attacks on Federal Reserve",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUlpXYWs5dTFBcVlDLVNqaDN5eTgwR1g0R2p6Y0Zqd0lzaGFVbEZuVF8xcU9fTXUxdzRjU0dTbWNpcWtjRDk3MHR5alJ6cG9oNVA5RWdYWThMa0NyQ2NUbXBMRFJnN1lTZHg1Z0VicmQ?oc=5",
+    "author": "James Politi; Lauren Fedor; Claire Jones",
+    "summary": "Kevin Warsh faces Senate battle as lawmakers object to Donald Trump’s attacks on Federal Reserve\nSave over 40% on Standard Digital\nwas $540 now $299 for your first yearSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price.",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-04T06:59:51.750758",
+    "html_path": "data/news/news_2026-02-04_dc47508d.html"
+  },
+  {
+    "id": "news_2026-02-04_bd69642b",
+    "date": "2026-02-04",
+    "title": "Stephen Miran Resigns From White House as Fed Term Stretches On",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ19QbHBjNlYtVGRMODN2TUhMYkExaXlvLVNSdXRpZXNUVGhiYW9JYzc4ekV6WDdkUGF6RzBYaVk4VnhCanFaT2RQOFdhMkZ0bWxCdnhSajc5cDM5VkxyZWhTQkk4Q3JweHVFTkFJeWhpdzQ2VVhRVzc3ckR4UUtiS3U2NUR6eTdaYVV2YnBSTQ?oc=5",
+    "author": "",
+    "summary": "Stephen Miran Resigns From White House as Fed Term Stretches On The New York Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-04T06:59:53.322853"
+  },
+  {
     "id": "news_2026-02-03_4a049701",
     "date": "2026-02-03",
     "title": "Federal Reserve live: Donald Trump nominates Kevin Warsh to be Fed chair, Dollar jumps by the most since May 2025",
