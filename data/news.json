@@ -80,6 +80,49 @@
     "scraped_at": "2026-02-04T13:11:27.496364"
   },
   {
+    "id": "news_2026-02-04_3cadc924",
+    "date": "2026-02-04",
+    "title": "Why Trump’s Federal Reserve Pick May Surprise Him",
+    "source": "Politico",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDVhbmJCb1dlYVUzNWoxMkhNOGUtdzFWSGc5S1ZXTVVaWTFpQ0VLbFNvN2hZMjc4bDFOa1lmS182cU9JSzVaUmdyU1pjNmdST2lKLVNzMDFFR2tUaEFjXzZUOFB2ZnJON1ZrR3VwLXF2MGtjVm5pWEd0SEtFN01WNEJmQktZSGVwMVo4bjNB?oc=5",
+    "author": "",
+    "summary": "Why Trump’s Federal Reserve Pick May Surprise Him Politico",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-04T18:57:57.822378"
+  },
+  {
+    "id": "news_2026-02-04_2a9df25f",
+    "date": "2026-02-04",
+    "title": "Bessent Says the President Can Interfere With Federal Reserve",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNeUpOdlUxUDF6UDRHVGV1Y0N1NmVJaVVmZFAwY01mS3A0aDFUWUkyLWxIaUpQLTBtTTFMSXFnVWVYWHpheDB6YXhzR3lfbXhTLXRkSEZoYW5sUktma0VFU2V2U0xyeTZKTncxdWNSLUdpSXpmY1dWWWpyQ2hDLWJtdUlGdEZYMkUzQzd4TEEwaUstY1Y0aVN1RF9HeEstRm5OSlIxZmZmTnhBZ1k5NEJFTXR5Umxzd29TR3dESDVPUjMtaVJsT3M3dU04Y1N0MGhOWElDa25jNlZtN2g1RXBXUFBlRHJzN3FHaGhmZmJfY0pMbjhLWjcwSURqbWpaNDNwUnJjWEhtVElYcFp2MjVJRkJOVjB5blhUcUpDcnlaSVhiUDFuMVAwd0NiajFZcll3VFpKMFZ6RWYyZFpBcUJSaUsycTBFRHlYTVhham1fRHhPSlRnLTk1VWswa2lXRGxHcXFZV1BFdHQzeFJ4bm03SnN2ZDh2Uks1Ty0wU0hDQnA3SVdnaXpVMFBCNFN2cnB2VUZLekRXMA?oc=5",
+    "author": "",
+    "summary": "Bessent Says the President Can Interfere With Federal Reserve Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-04T18:57:59.253973"
+  },
+  {
+    "id": "news_2026-02-04_d26db887",
+    "date": "2026-02-04",
+    "title": "Trump may have shot himself in the foot at the Fed, as Powell could stay on while Miran resigns from White House post",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTVlYklmTkRIUVBBUWZ0MTREdlBieWNxN3hwSGhMR05wZ2dOcEl1YXp1VEhGeU9lenZuZHA4WEZUbUFpdDNjelBYQ3VBak5fTkRTVnNmRUNWY2M0d3NXdWxiN3EzV1pMYlJPNzhEV2RNa190cjlzcElGdzhPNS1fLXM2WXc?oc=5",
+    "author": null,
+    "summary": "President Trump’s plans for a more receptive Fed may have backfired so spectacularly that Jerome Powell may end up staying as chairman beyond the end of his term, while Stephen Miran, Trump’s most loyal supporter on the bank’s rate-setting committee, leaves the institution.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "FOMC",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-04T18:58:00.846954",
+    "html_path": "data/news/news_2026-02-04_d26db887.html"
+  },
+  {
     "id": "news_2026-02-03_4a049701",
     "date": "2026-02-03",
     "title": "Federal Reserve live: Donald Trump nominates Kevin Warsh to be Fed chair, Dollar jumps by the most since May 2025",
