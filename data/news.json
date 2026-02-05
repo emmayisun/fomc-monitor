@@ -89,6 +89,51 @@
     "html_path": "data/news/news_2026-02-05_18bb5aab.html"
   },
   {
+    "id": "news_2026-02-05_7892c96d",
+    "date": "2026-02-05",
+    "title": "Bessent Says the President Can Interfere With Federal Reserve",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPWGJlT3p5WkRWaHAwb2hCNkxSUjdneUFKVl91ZmQ0ZWZLV2xWSXNPLXFHaGhJZUYtSEpnX2o5SzdsYVhHZFdURGNQcDlZSDJ0V24tdTF6MWRoaHlGNHFfSS1yUktkdTJKYjg2T2MybGx3WXVpenIwLVRZVmNFMVhSUVJFbWFscTVGZ1g2Uld3S2tieDR1amlDUFZQY0ozOEd2aTlUVFAtbllkbVNmZUFZeGR4TENrakxhOFNuUTZVUUxMc3ctY0xmWFNNMkF1YmdtYzBrQkNkZnljeE5mbWJpZTlfSWtaS1RBNjJ2SndtREx5RE5OM3NXZFVpa0hjYkROck0xSkJHN3VENzY1TkktVTFfdTU3VlFpbjVUMWVCTGFvcWtFbjFBNXlZNXBsSnJac2RFRlpBdUZBR1RwakpldkZjTWI1eXpkZUdqUzJpV0FRTzA3X2Rpd0JGdmk4NllEUFhidzd6QzlqLTZPTTZOaGNxby12OHg1MFRELVRVTnN1SExrZDl1bS05azNPZU5TUXRNdWxuUQ?oc=5",
+    "author": "",
+    "summary": "Bessent Says the President Can Interfere With Federal Reserve Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-05T13:13:19.994080"
+  },
+  {
+    "id": "news_2026-02-05_ee75854f",
+    "date": "2026-02-05",
+    "title": "Kevin Warsh’s trilemma",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDdlaWJWclpKbmE0Q3BOamprWnJNMHNweHdtTjhUa3c4MnhkZlZyWUhwdDl0VWUzRzNuMlVLWjlWWTdRcldpNXdXQUtjTFllUTVVbmkzUmNSYTVzOVVEUi1lVFE3ekVsd0NpbnJHT3JrWUU0OGt0ZnhrS1NLZEhUUHQwN01wQXdFRHFUbkhlYnNBUjlFZnVVNEYwMVBROHNQaHd5TWNIUUZ6VmxYU1VJ?oc=5",
+    "author": "About the Author By Daniel J Arbess See full bio Right Arrow Button Icon",
+    "summary": "The debate since President Trump nominated Kevin Warsh as his next Fed Chair has centered on whether Mr. Warsh will line up with the administration’s call for lower rates. That would be easy enough.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-05T13:13:21.622082",
+    "html_path": "data/news/news_2026-02-05_ee75854f.html"
+  },
+  {
+    "id": "news_2026-02-05_d1f78b0e",
+    "date": "2026-02-05",
+    "title": "US Senator Scott, facing block on Fed chair nominee, says Powell is not a criminal",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0RqQnJIM1lwQkZyN0Nuci1LbHdvLTItalNNU1dBc25GYmd4VTUxUFhkYk0zQkNYdzdwSk5Ec04wSDVES2VNdHdCNVlBS3RwN0xKYmRmWHNkM25zSElOUzhVbGlSdTU0OVc1LU9EYmVDdzNHRUlremhTaksxZFpKOWJ1M1pBdjZQcW9yM2VXc2x2T2thY3JvNnpjMFBDdlNpMFhaLXIwNVRSaEJtZmllZ1VMS1F6WHc4QWlXUQ?oc=5",
+    "author": "",
+    "summary": "US Senator Scott, facing block on Fed chair nominee, says Powell is not a criminal Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-05T13:13:26.315222"
+  },
+  {
     "id": "news_2026-02-04_326c2ecb",
     "date": "2026-02-04",
     "title": "Fed Governor Miran quits White House job",
