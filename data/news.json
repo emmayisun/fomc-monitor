@@ -41,6 +41,54 @@
     "scraped_at": "2026-02-05T02:32:46.624875"
   },
   {
+    "id": "news_2026-02-05_b841b796",
+    "date": "2026-02-05",
+    "title": "Bessent Says the President Can Interfere With Federal Reserve",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQand4ajVlY1ROMmNKQnIyM0E3cFc4X2h6cDU5RHJmSm5WNFNMX0wycHdVaTUweW1vRGhoUUt6b01sd1ZRT3hCUUJMNTB4WDc1aVppRVFILUMxNWdCZV9oUkpQZXktUFNRNXhqdE83bFhuVzFqbElydUtSRm5RdzNHX1BhZjZ2X28zeWZuaFlNZ19WZGdCNHl6RF90U3JNZjF0VlpOcThNVjhEUHdyMzk3WjFzbnRFRFRsSFRKNGlaaGdQMFFtc21PUThPclZHSjl3V2JuSmg1ME8wTjFwUVdlMm1hdVI5RFRQaUVycl9wOWN5cVpIcWV0YTdpUjRIb2NwNnBmTExDY2p6SUVqMkhQeU41UWtua1hQaFZ1VkpQaExuc3FzdlRDTDVDUnpLZF9yUEVfZU9fNE9oSGRyT2JzUnBPb0VQQ3dmM3NPWS1OWmZoQ19scHNGYXpoNDRldEx2Uk82cTY0LWpheXJSbHZiQnZSWTZ2cmQzVTROd2xyWmtWaHc3bFdEWkZKMVMzZ01XUkl1Mlp2VQ?oc=5",
+    "author": "",
+    "summary": "Bessent Says the President Can Interfere With Federal Reserve Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-05T07:05:35.681368"
+  },
+  {
+    "id": "news_2026-02-05_0e618412",
+    "date": "2026-02-05",
+    "title": "Fed's Stephen Miran resigns from White House post",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkN6MUJKNjBFVFYwOVJYYkJrQzJBdzZzUWZZNDFvZDJfMkZ2dkN0UmhQcjBNUzB5UlhvcGhvMS10U1dWQTNEZUtDNkNyNlJETmlEUk5GcGtkanFfaVpVRjZ1WTgzZHM4QVNIemJ6OTZLN0REYlh5WG9MdWJCQ1hpdDhaTm52Z1BNMnhKZHBn0gGTAUFVX3lxTE1uNzVJb3o5dzV0TWJTMzFyWHF6RkNVLWt4QW0wNTZQb1RFZFVOdnFNSGRXNzVZY2x3ODhDeGhHNXZoRlJWMFREeEkzNl90MEltazRFS1lKb2NNZU5nMFpMTnd1bEljQVNMbjBxWl8xQVROTVloakJ0alNXVVFwVjVWWHA5SkV2Qk0wWXE0SzlJQW5iNA?oc=5",
+    "author": "Darla Mercado; CFP; Jeff Cox; Sara Eisen",
+    "summary": "Federal Reserve Governor Stephen Miran has stepped down from his position as chair of the Council of Economic Advisers, CNBC has confirmed. Miran joined the Trump administration's Council of Economic Advisers in January 2025.",
+    "tags": [
+      "Interest Rates",
+      "Employment",
+      "Powell",
+      "FOMC",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-05T07:05:40.566999",
+    "html_path": "data/news/news_2026-02-05_0e618412.html"
+  },
+  {
+    "id": "news_2026-02-05_18bb5aab",
+    "date": "2026-02-05",
+    "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRi0tRTdaQm9hQzFEd0xxQzRHYmVXc0FlV01Eekt6OXhvdFVQUTZERzNmM2NoUGR2TXBkVTBfTmFvYUdGMGhlbmxhcG15bTF4czVTNmVwMS05Z2IzY05MM05IQjAwTmlKUkZJTmkxTGtJSDFDSE5GN2dBZ1cyS05rNXJn0gGHAUFVX3lxTE1nck1xRzJfVERBX0ZRUHdQZm1wQVVqYTdqWW1QenhVb2QzemNrNnctdlRBQWpSRXRPTVMwODBEMkR6Z09kQmFJTnlvallWVXY2R0dZaE5iM2Q2T1lrUFI2RU1RZ3pwZ1ltOGpVZHd5cWw2S0FKcUpxZGhwbnhPR1RzVF9oajVTYw?oc=5",
+    "author": "Kevin Breuninger",
+    "summary": "Tim Scott, R-S.C., said Wednesday he does not think Federal Reserve Chairman Jerome Powell committed any crime when he testified before the Senate last year — even as a Department of Justice investigation centered on that testimony continues.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-05T07:05:46.285587",
+    "html_path": "data/news/news_2026-02-05_18bb5aab.html"
+  },
+  {
     "id": "news_2026-02-04_326c2ecb",
     "date": "2026-02-04",
     "title": "Fed Governor Miran quits White House job",
