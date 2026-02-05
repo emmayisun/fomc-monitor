@@ -134,6 +134,50 @@
     "scraped_at": "2026-02-05T13:13:26.315222"
   },
   {
+    "id": "news_2026-02-05_c4097f1e",
+    "date": "2026-02-05",
+    "title": "Bessent Says the President Can Interfere With Federal Reserve",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQTEE0M3RvUFFfN0tIV0dzUXg2b1BQdWN6ZjNuNnVja0czUTNlZWJDWnlrQjhDXzdwRkdZcV8yZ1daS043MUF4bUxPblQzeDJVX3VMQ3BHZXBvS3RwaXdQZ01pSjM5SVlFSVdiamU5anFEczB3Y2JaWHljZGNRZm54WFp2b3NUSlpHN0hYckdnVjkzdWVBb0k2c2F0TXNCY1RlUEg1RFdUcXlXMEpyM2U4WlZGVTdPZnFNZTdhZWs3WUVmSXJTdmNSZU1BZVBkOWtxemJUOE9pQlFrbU9RRFpyQ250WnBfeXJtRHRUY3ZJTmJyOFJYeHVXUzBpSDNSQnBMVXJha1U1UlBRRUZ1Zk1ldjlveGxoMEJLOHAtLXY3RXk2ZVFCZXdqQXBzbDU0VlN1NzhYU2pGcm93anVFbWNRRzlXSThuNDlCTWRQbnE0Q2xxTHExanpiX29vUzdVOFdDejRmVzgxTUx0RHQ4c2dPM2tmUU5vdi1Tb3kyU0JSNWhWTzdBdGYxNmw5eU5yX3NVNDFBRWpLcw?oc=5",
+    "author": "",
+    "summary": "Bessent Says the President Can Interfere With Federal Reserve Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-05T18:57:01.469116"
+  },
+  {
+    "id": "news_2026-02-05_bf73de3c",
+    "date": "2026-02-05",
+    "title": "Tim Scott on DOJ probe into Powell: ‘I do not believe that he committed a crime’ in Fed HQ testimony",
+    "source": "Politico",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGdKV1l1dnRUeFQ2OW9JLUdFYlB1TE5SWkZXSU9tY0Y2eVh4VC1RY2RBMTh5d0VBWG9sbjc2Q01ITFdhQmNOeU1yTS1rV0t2TWtCT3JZdk53VVljUXppYlhXb2tZdlF5Qkh6N0p4NnZsUFMtVFlaV0xpWmU0SmlaUEhKbG5za19ZQ3hRSW11d2tyN3M?oc=5",
+    "author": "",
+    "summary": "Tim Scott on DOJ probe into Powell: ‘I do not believe that he committed a crime’ in Fed HQ testimony Politico",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-05T18:57:06.218059",
+    "html_path": "data/news/news_2026-02-05_bf73de3c.html"
+  },
+  {
+    "id": "news_2026-02-05_273b414e",
+    "date": "2026-02-05",
+    "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRi0tRTdaQm9hQzFEd0xxQzRHYmVXc0FlV01Eekt6OXhvdFVQUTZERzNmM2NoUGR2TXBkVTBfTmFvYUdGMGhlbmxhcG15bTF4czVTNmVwMS05Z2IzY05MM05IQjAwTmlKUkZJTmkxTGtJSDFDSE5GN2dBZ1cyS05rNXJn?oc=5",
+    "author": "Kevin Breuninger",
+    "summary": "Tim Scott, R-S.C., said Wednesday he does not think Federal Reserve Chairman Jerome Powell committed any crime when he testified before the Senate last year — even as a Department of Justice investigation centered on that testimony continues.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-05T18:57:08.976513",
+    "html_path": "data/news/news_2026-02-05_273b414e.html"
+  },
+  {
     "id": "news_2026-02-04_326c2ecb",
     "date": "2026-02-04",
     "title": "Fed Governor Miran quits White House job",
