@@ -68,6 +68,51 @@
     "scraped_at": "2026-02-06T07:01:35.602925"
   },
   {
+    "id": "news_2026-02-06_d4c9ae0c",
+    "date": "2026-02-06",
+    "title": "Bessent Says the President Can Interfere With Federal Reserve",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQMFpkb1dsWENZdTM1RURZLXVFbS1FSERwTlc4bko2d1oxb2g5bFFGU2lLeU9ZSE1XV2RtOEoxT002SjdCR251b1ZsSEk2NHNrQjBpQ2l0VndEQU5QSzNzNy1CdU53UVRxdUxTRDY5Z0V4THlXaW94a3gtQUxMU3J3aG9jVElpTWtTU09SNkpUWUFMY19NS1BCaE5mRm91V0dKOXFRLUJkMzdidnZKQTNYNzBrd2VWbm5EM0ZZMlFwRVpVa1MwRXNWLXpveF9FUENXX3o0dHNBR1pLcFJNcm8teW00Q0NQRExWRDlqOXNyZkx1Q2laOU1NZlF2QzBlZ1J4T0ljNTdwajRBU0c0UmdDX1RDZFZ0VnFERDFkUHp3WFdncFhWc3pCRGM4U1I2Rk1PX3hmaWpHSmJpdUNTb0l3aVVlQzgzYVF3cjhjeHN0eHp4LXAyZGNCQ1oxaWdmV25oajVaX2FSYXltcnFyUVRrUjVpdkptZXZtaE0zdThEZTE5Ui1LNXU0MmhtOXVGYjNJRkZPNzluMA?oc=5",
+    "author": "",
+    "summary": "Bessent Says the President Can Interfere With Federal Reserve Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-06T13:11:09.033383"
+  },
+  {
+    "id": "news_2026-02-06_0b75ec0c",
+    "date": "2026-02-06",
+    "title": "Top Republican Senator Says Fed’s Powell Didn’t Commit a Crime",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQMm1NbnpqM3VqelJLN2ExUTBoYTRuT012OUlpb0FTTFdmM2dsMllMTVVHSnNDazNTd25FRFhrS2ZiUllKS2ZnenROSUdLQlhRQ3pRVDFJaVM2OXVaeEw1OWdFRnR3WllvNWIyaGVHYmFtc2NDRjJ1Y1U1LUNVM2tmQkc4UWZOME5CcFl0UE0wTTRlSUdZaUctb2tVSTdndWQ0VFdsZE93UVFOWHdlc2kyN21RZTBsTHpSbjJaUllLbkhrT0dHNGxnOFBTQ00xeVQ1M1I4NjFtVXVlazNxYW80N0FmV1JHdlN3ZTVpV2ltOVJNWVBocEFIRnM5YmRxNUlXc21qVmQwWmdJYk81VUF1VUlDcnZESHViS29idG9xcS1jX3J4Sm1uS1FJX3p6MVZlYlV1Zkk1dEU0SHNTLVFxUG5ZNzNuczkyMmw5b0wzZGIzOXFIbnNUN0RJNVFBeXhUWGs3em1LYzVUVkExd01iLTBKTWpCV0VrYVFzbVFoa3ZZakI4eDZTYjJ4VUlISUctSWR3Q2NuUWRGMWRrZjBaZW5JZ29kZkVRNHBQY1JmVmZrWFg3TVB0aA?oc=5",
+    "author": "",
+    "summary": "Top Republican Senator Says Fed’s Powell Didn’t Commit a Crime The Wall Street Journal",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-06T13:11:13.734971"
+  },
+  {
+    "id": "news_2026-02-06_67f817ca",
+    "date": "2026-02-06",
+    "title": "Fed Chair Jerome Powell Just Gave Good News About the Economy -- and Bad News to President Donald Trump",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZ0xld1JVZUNENmV6b2ZPbWhSZ2dqWlpIX096TFJPRXdtWTc4MXoyNGpKeHVhdnlETkM5LUZ4Nm1ERk9KOVF2ZWU5amUzMXVSWEg2YzA0UFVHNFp1V3lyOVNkOENZSS00dkdaRmdtU2luQ0Q2WEdRT3k0c2wwRk0?oc=5",
+    "author": "Bram Berkowitz; The Motley Fool",
+    "summary": "Fed Chair Jerome Powell Just Gave Good News About the Economy -- and Bad News to President Donald Trump\nFederal Reserve Chair Jerome Powell concluded the Fed's January meeting, as he always does, with a press conference to go over the Fed's recent actions and answer reporters' questions about the ec...",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-06T13:11:20.561381",
+    "html_path": "data/news/news_2026-02-06_67f817ca.html"
+  },
+  {
     "id": "news_2026-02-05_71ec54a6",
     "date": "2026-02-05",
     "title": "Bessent Says the President Can Interfere With Federal Reserve",
