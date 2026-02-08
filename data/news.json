@@ -45,6 +45,57 @@
     "html_path": "data/news/news_2026-02-08_617ddb45.html"
   },
   {
+    "id": "news_2026-02-08_3222b80a",
+    "date": "2026-02-08",
+    "title": "Trump may have shot himself in the foot at the Fed, as Powell could stay on while Miran resigns from White House post",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TN3JtMnlXaUdVWVZva3FiR0o4ZU9zX09sSFBicXJRZkJ5SE5fd0paT1JSQTJSWElTb2xHSDZGazZObklBLVJjd0RXV200VHMxdFRFSXFOVUY2WWdIQUJTTmszMEQ1al9tMHpkdE5NLWktM0ZmRG8xOG9CM0NfZw?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "Trump may have shot himself in the foot at the Fed, as Powell could stay on while Miran resigns from White House post\nPresident Trump’s plans for a more receptive Fed may have backfired so spectacularly that Jerome Powell may end up staying as chairman beyond the end of his term, while Stephen Miran...",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "FOMC",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-08T06:58:05.389521",
+    "html_path": "data/news/news_2026-02-08_3222b80a.html"
+  },
+  {
+    "id": "news_2026-02-08_47a0d2f7",
+    "date": "2026-02-08",
+    "title": "Here’s what investors want even more than a Fed interest-rate cut this week",
+    "source": "MarketWatch",
+    "source_url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQLU9sV0Y4U0NBY1gzRHM2RjBORHdxUV9lVmpoUkpyZkctYzNzeXpaeUk3RjhGd2pDSEVQckhMUGdZSnFNempueEdIY3ZDYkxISWlBd0NFT1lJZlBWY1AyODR5eVdkMU15RV9UcjY0cmNKdjhvY2dEb0dzWC1BY1JLTnplRWgxUC1rc0xhc0xpQlNNRG1yWWFibDdadlBoRk5RSkQzRkpJOXE0aElVNUMwRk8xc2p0S1RqM2tIRkRkS0R3SlBfdHdxUFM0ZG5OQ19QVFo1NUYzQmxVb3VWeWxHTGE0UkJfRUswcUIxaDEyNHVCRWRWWjBxTjB2ZHp1cFJkY25WZE1WaHNPM2pXV3lJZTRKblRNVHZlcUdleVFvNk1KUHpjbnJJbEpoTEF1TXBpMmE4bEIzQTl1VzVadmZfczE5aUVuV1A4Znljek5KeEtlak4teWl5SFhKeTFUM1dvVkNCbmZrMkR2VWNtbFA1c3dQYWlyTVBENml4YnB0Z3M5TzkyY3lYZnJLbmxsZzJ1MUp6TU1Bakk1Mmh4ZjNXMkszaW1XYTBGZEhWMHdITFBWWlp2aC16UWtHeHp6QQ?oc=5",
+    "author": "",
+    "summary": "Here’s what investors want even more than a Fed interest-rate cut this week MarketWatch",
+    "tags": [
+      "Interest Rates",
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-08T06:58:12.830162"
+  },
+  {
+    "id": "news_2026-02-08_55e2dc1a",
+    "date": "2026-02-08",
+    "title": "About the Fed",
+    "source": "federalreserve.gov",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+    "author": null,
+    "summary": "- conducts the nation’s monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates in the U.S. economy;\n- promotes the stability of the financial system and seeks to minimize and contain systemic risks through active monitoring and engagement in the U.S.",
+    "tags": [
+      "Interest Rates",
+      "Employment",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-08T06:58:15.449461",
+    "html_path": "data/news/news_2026-02-08_55e2dc1a.html"
+  },
+  {
     "id": "news_2026-02-07_6f934486",
     "date": "2026-02-07",
     "title": "Bessent Says the President Can Interfere With Federal Reserve",
