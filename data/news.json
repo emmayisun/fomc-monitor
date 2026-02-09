@@ -135,6 +135,40 @@
     "scraped_at": "2026-02-09T13:20:30.085687"
   },
   {
+    "id": "news_2026-02-09_9bc68d59",
+    "date": "2026-02-09",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOd0hOTW9JUGYyTmt2MlUtUEw1OWM1TGdUTF9DQVZ5dEdodUFvUFY2WjUyRThFVmZxSm5SeXcyVUJJR0hDSDFGOEpHaTU5dDZkTDRMamQ3Vmtma19XVlR2TGVZd25ITGRqem1yM3VFMm1PV1ZscXdwb08wVXg5Ty00YnRUUjZMQ1BxQ2M0Z2RYN1dQN29oYU9ZOTdoOTZISzlxblhRWnhOcU9vc1pER25jcVh2ZGpKZ2hyMjdpR05rSm9wS3BVMkJka0E2QXNfSUQ4ckZkRkRfSGsyREdFVmlLd2VWczQ4TWhmR1p0cV9wZk5UR3k5QUxFbnJzZ3BPbFNNeFdrUWgyMUFPaWxuUGEtRTlVWksxN1hGaG5xdUtEVHd0V0dLV0FwRlNjaXotOFlOVjFHdmhJb0E2X0lmS0t5RDZOZkRnYVloaUZfWHFtQzRwUWoyZl92SWhYalZxemY0bFVqVUM0c0piMWo3bG1hcTQ1bC16RC10LVhYUk9sQnM0aWlvRzZINENHWDczV0JPZ2pZWWZfWkdoVmdmYjlCc2p3?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-09T19:23:11.675524",
+    "html_path": "data/news/news_2026-02-09_9bc68d59.html"
+  },
+  {
+    "id": "news_2026-02-09_20cb1903",
+    "date": "2026-02-09",
+    "title": "Here’s what investors want even more than a Fed interest-rate cut this week",
+    "source": "MarketWatch",
+    "source_url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOSVdhTUxzYm1zRVplcjZIaEJVaWpNZEh1X2pwY3dBLTUzeHpCb0NISjFqV3drR1hOb2lnUkhibG52UjZrTDZLMW9zb25aV0FVY19kTnpBTlVja0RhaUpRQzMtNm5WelR4SDZiT2pwZG82bmx0ZHdKZ1p1U2dhYWNzcnJQN3BCeUtGeUpoLUtwVTloX2xORW93dWo3bm5OZHgweFEwd09rUFd2SkNNQ20tcERUbzZ5OEljTlpmM04zSElIeGJUUkhGVVljcHhrUzhhdVFPZ3h1bFNPeTh3V00wajVFbXNZaU0wVkgwSXJUZU1DTEo4RzJrZFhEbVA3aE5XZVhDbmpYNy04V3NVdVJZVF9jQU1MUFEwQndtaklseFRWMjNRV1J4R01oUS1uLWlid1Rxa2NfWjdpc0F4R3kyQWZKUzZxU291cXotallkRzNwLWdGSUJKeTg4ZG5heldkOGttNGJwbGRKRUlXaWFDSWs1MzhpQUdYbEp6UDJQREpZYnRqeDMzemlZWDZ6WTBlaTh2OHJJY1hIM3RNbW1DQ29Hd1R4cklCb3FWT045R2lRa0ljSFpxbzEzNUhmUQ?oc=5",
+    "author": "",
+    "summary": "Here’s what investors want even more than a Fed interest-rate cut this week MarketWatch",
+    "tags": [
+      "Interest Rates",
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-09T19:23:16.079899"
+  },
+  {
     "id": "news_2026-02-08_388b3035",
     "date": "2026-02-08",
     "title": "Bessent Says the President Can Interfere With Federal Reserve",
