@@ -104,6 +104,37 @@
     "scraped_at": "2026-02-10T13:25:33.852961"
   },
   {
+    "id": "news_2026-02-10_bcbd7c45",
+    "date": "2026-02-10",
+    "title": "Trump wants lower mortgage rates. His Fed pick may push the other way.",
+    "source": "The Washington Post",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1RBWjl0T2lWa29PcmQzelY5aTVDb1F5MTNWeWVhYlVDNkE2ZGhjSDZyNGlwMTRvM3dZM01HUTllSlJMVWNtSlkwYXMteW80SXM3SDRsLXIySENTRFo1XzBZREpxZVZjTzJQZVUxT2VLSFhmUVJ3aHcwYTJ0MGlzcmNWd0s5RzZa?oc=5",
+    "author": "",
+    "summary": "Trump wants lower mortgage rates. His Fed pick may push the other way.",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-10T19:17:57.510676"
+  },
+  {
+    "id": "news_2026-02-10_a2e4b145",
+    "date": "2026-02-10",
+    "title": "Cleveland Fed's Hammack: Interest rates could be on hold 'for quite some time'",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3ZYQmJNTXh6LWNpMTdBeVZmVU9ZRkhBQUdfWGNWWTMtSmloM0MwZjFwYVJCV1pmTkFmekJvRXZfU01KQUFpZ1YwdG5NcXg0UWhSbUJCam1ya0RVUlZBa1FyaWFSMlBEUGxBc1N5aXpwc2tNVUFRTGRPV3o2NEYxb1doU1M5ZzRIS3ZFekN2dl9td1g0U3RITGxlMFpIUGRoM2RVWEdfR2IzU3NjWmRhQVlDTW1pY1Zrd0laSA?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "Two new voting members on the Federal Reserve this year said Tuesday they would prefer to hold rates steady for now because of concerns about inflation.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-10T19:18:11.699105",
+    "html_path": "data/news/news_2026-02-10_a2e4b145.html"
+  },
+  {
     "id": "news_2026-02-09_e5d61e7c",
     "date": "2026-02-09",
     "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
