@@ -1,5 +1,49 @@
 [
   {
+    "id": "news_2026-02-11_6b6e9cfc",
+    "date": "2026-02-11",
+    "title": "Trump says he \"made a mistake\" on his nomination for Federal Reserve chair in first term",
+    "source": "Yahoo",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS202WlpOQjFoSE1pOEp2ZTR6Ql9Oc2xyQ2wyN2hUSElSMGxtZTQ2bnBCbU5IczZaOWRPS1M1ZkhGclE2RFhfdzZYS1dvcGtfcG1ma01IS2x1Zkp0RFdsV0ZGVmlTMEk3UTVER3FqUlMtZWxQakVfRk43eGhWQmRxSGZxcERaVGh4OGFj?oc=5",
+    "author": null,
+    "summary": "Trump says he \"made a mistake\" on his nomination for Federal Reserve chair in first term\nPresident Trump says he \"made a mistake\" by not choosing Kevin Warsh as the chair of the Federal Reserve during his first term in office. Kristin Myers, ETF editor-in-chief for Asset TV, joins with more.",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-11T02:46:42.384487",
+    "html_path": "data/news/news_2026-02-11_6b6e9cfc.html"
+  },
+  {
+    "id": "news_2026-02-11_d1500a51",
+    "date": "2026-02-11",
+    "title": "Fed’s Hammack Says Rates Could Be on Hold for ‘Some Time’",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1JZWUZsNTd1cV85ZDk1T2VSY1E5VVFIT3RZQV9YV0FOQXdxNUp5UUtiOGE3NDV5U0V0NGsyZkZvNTlYZzlaMFNVb3VBMExqYzRLdUZSMGY3dEFwN0xhNnp5M29OZ2pLaXBYUUZMN2ZEam8zeGdnem5HbFY0WWJGWFY1N0k1ZUVmekFkNTZtdnBSUHBnakx3Ny1JOHJaMG1zZEpWejcxY1NabDdOMjl2a2N3?oc=5",
+    "author": "",
+    "summary": "Fed’s Hammack Says Rates Could Be on Hold for ‘Some Time’ Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-11T02:46:54.202407"
+  },
+  {
+    "id": "news_2026-02-11_c12cbf04",
+    "date": "2026-02-11",
+    "title": "2 new voting Fed members make case for holding interest rates steady",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFk4SXNCWWh5Z1Vnc042MlYwYVVFU2c1OGRCaTlCVEg2a05iV2pPbll4WElIdUtVWGhFeExILUh5TUJsdlBRVWZ5d0FVWDQ3c3l3UjUzcnpjUHQwZGxseTdTcVdvcjB3c0d5eGN4U0tUZzdVR1Y3aVNEaGJJOUl0dGJOVm0yNTVMM0o4RkRtYXhFbXNXWGF5dnNlMDljc1hPeDY5cmdKdjBWdTFNQzU2ak9PQTg?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "Two new voting members on the Federal Reserve this year said Tuesday they would prefer to hold rates steady for now because of concerns about inflation.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-11T02:46:57.214880",
+    "html_path": "data/news/news_2026-02-11_c12cbf04.html"
+  },
+  {
     "id": "news_2026-02-10_1927b133",
     "date": "2026-02-10",
     "title": "Watch Miran: Fed Independence Leads to Better Policy",
