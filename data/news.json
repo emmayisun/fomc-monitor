@@ -56,6 +56,67 @@
     "scraped_at": "2026-02-11T13:21:50.665907"
   },
   {
+    "id": "news_2026-02-11_3eb7a763",
+    "date": "2026-02-11",
+    "title": "Federal Reserve to Drop Some Prior Demands on Banks to Fix Flaws",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXRfNGtNVTlDajc3ZG5hV3VMN0tYZEhPanJGZXRBWVk2QU1fcDdWazk0cUFHQjN4cWUxXzB0TWlGaVFaa094RmhqXzVPNXJqTWE1TklIZ0h3QUdveWJOTzlmWVNaMXlVVHpwalczM1hkUUF5cDVtS1NwTFpSQ2RteXpiV24wMmZuY0YxUTg1d2NfcXVDb19JMVRjWkNGVGNCc2tab2VNUFhzc2hTSVpXdS1FU3NBdw?oc=5",
+    "author": "",
+    "summary": "Federal Reserve to Drop Some Prior Demands on Banks to Fix Flaws Bloomberg.com",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-11T19:10:10.636731"
+  },
+  {
+    "id": "news_2026-02-11_c8293e21",
+    "date": "2026-02-11",
+    "title": "Powell’s parting gift from the Fed may be more rate cuts than expected, courtesy of deteriorating data",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVk82dnctZHpQWVM1LWJWX2o2VDlCbjJlT1ZNRWtZYXp2Rm5vdTBOMDh6cjE2cGZhdllvazk3UHQxdGxNUnJySkRyR2dZRm9tci1qd3pjLU5BTGhHR1dJYkw5ek1MX2xqWURuLTh0OTFWdGNqX2dRUGVzOTRPaTBPeE1rS3RJM3M1R0FrV1JZNA?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "While the bridge between President Trump and Fed chairman Jerome Powell has been well and truly burned, the outgoing central bank chief may yet set the stage for further interest rate cuts that the White House has so doggedly pursued over the past 12 months.",
+    "tags": [
+      "Interest Rates",
+      "Employment",
+      "Powell",
+      "FOMC",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-11T19:10:14.374746",
+    "html_path": "data/news/news_2026-02-11_c8293e21.html"
+  },
+  {
+    "id": "news_2026-02-11_fcdb46e1",
+    "date": "2026-02-11",
+    "title": "Fed's Schmid says too soon to expect productivity to fix still-elevated inflation",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlJ3T1BqdThZdlhwUThLSHZGc19meWJPQ3BEZ2xVYy1fZVJsRV9Rc2VPNUUxMDFjQ1ZQT0tsMzhsYWR5anl4VEt4LVBlNi11R0F6aXhURUw3Yk9DUlo5aFZKQ0tmRmcxaVQwcHF3Z1JEd3hvVTBONU9UWFJGekxlOU5qVXBra041cHVKcV9rd2QwTEFJaHQzaGZfX2NwVGtrdEEwT21Qc1RmQ3lqVEl5Z3dpRU5Na085TVVV?oc=5",
+    "author": "",
+    "summary": "Fed's Schmid says too soon to expect productivity to fix still-elevated inflation Reuters",
+    "tags": [
+      "Inflation"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-11T19:10:24.326953"
+  },
+  {
+    "id": "news_2026-02-11_992b0ced",
+    "date": "2026-02-11",
+    "title": "Fed’s Schmid Says Restrictive Rates Needed to Cool Inflation",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWdXb0lVLU1VWUNlVDNWLXNBYV9Wel9pYnFSNjhxRzk1VjUzWXdaSzlCOFZvU0E3Z21oSjhBSVJoQmZFS3plT2RwTHlseUNla1hXUGtVcVpoUUtlMzN2TEw0QUduRlNfc000WUV5SjRGalNwUWpyVnNtNV9xcGRESlZVLXBYdFhpOXZUZ3FmSk1yaF84QnZGT3pqVy1TY3V2WDZqTXUzVXBEX0MxQkdNYw?oc=5",
+    "author": "",
+    "summary": "Fed’s Schmid Says Restrictive Rates Needed to Cool Inflation Bloomberg.com",
+    "tags": [
+      "Inflation"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-11T19:10:26.121949"
+  },
+  {
     "id": "news_2026-02-10_1927b133",
     "date": "2026-02-10",
     "title": "Watch Miran: Fed Independence Leads to Better Policy",
