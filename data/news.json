@@ -1,5 +1,67 @@
 [
   {
+    "id": "news_2026-02-12_b942e706",
+    "date": "2026-02-12",
+    "title": "Fed's interest rate pause bolstered by jobs data, but concerns linger",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3FiMHVLTXhSU2hqb2ZuaWhEeXVEOVlMQnRtQWxWb0xyTEFYYlFQT1kwajlsQ0dyeC1adG40X3FHM0NHcWw5aHZHeUlzRjZENDNEeEJ1ZzlKb3pObDFfbnBheFE0ejJGTEJ2SzVVMWkwVUdHOGpNenVQSzhvYTVfUVI2UnQwZmt1NmxZSHRfOHpjNnhobFZSeHNn?oc=5",
+    "author": "",
+    "summary": "Fed's interest rate pause bolstered by jobs data, but concerns linger Reuters",
+    "tags": [
+      "Interest Rates",
+      "Employment"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-12T02:42:06.400659"
+  },
+  {
+    "id": "news_2026-02-12_5f132a2c",
+    "date": "2026-02-12",
+    "title": "Fact Check: Trump Did NOT Say 'I Made A Mistake' Nominating Kevin Warsh As Federal Reserve Chairman -- Was Talking About Jerome Powell",
+    "source": "Yahoo",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3NRLWx5Y29vTndoRTVjY0xlN1l6eUNHMzlMZDZlaGxsTThYSldha2VlcDNZTU5XTlpBOGtwNzFINDJwcjBVZEo4UUFYV1lHaDItdUZRb2oyeU5Tck9JWlE4STh4bWxMRGFFdXJNY2FBem5xdk91c1J2ZG1tY1JXMA?oc=5",
+    "author": "Alexis Tereszcuk",
+    "summary": "Fact Check: Trump Did NOT Say 'I Made A Mistake' Nominating Kevin Warsh As Federal Reserve Chairman -- Was Talking About Jerome Powell\nDid President Donald Trump say \"I made a mistake\" about nominating Kevin Warsh as Federal Reserve chair.",
+    "tags": [
+      "Powell",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-12T02:42:10.433922",
+    "html_path": "data/news/news_2026-02-12_5f132a2c.html"
+  },
+  {
+    "id": "news_2026-02-12_f4f64b59",
+    "date": "2026-02-12",
+    "title": "Fed to hold rates through May, but Warsh may be too loose with policy, economists say",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzRvcE5HeTBZZGtwTTRWVl9hY2RGZ3ZaVlhNWmNCWGlDSkh5VFdmaXlHbVRuZ1NJQXRRV1VsREFuQl9mX3huRjladGhNdm81bWxBTklkOEpTZk4zOGFIVi1wOFZPME82cUFuQzJnSTFZWXVXMm14cDZvVi1OMFQzZHVjVnVrdmZjQUNWLUdMYXBHblZkdkNfaDZDY1JCQmVHbEZ5WFRJWWRXX1BJNFAtdlhCZ1ozMmZoLWk5bjBR?oc=5",
+    "author": "",
+    "summary": "Fed to hold rates through May, but Warsh may be too loose with policy, economists say Reuters",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-12T02:42:11.776655"
+  },
+  {
+    "id": "news_2026-02-12_30f36748",
+    "date": "2026-02-12",
+    "title": "Nightmarish labor market finally shows signs of letting up—and some ‘vindication’ for Jerome Powell",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHFRcnNuOXhneFh1Q1pKcUlfR2ZOeHhISEtzeHRRSnAxVU1oblFvYWU3Q1BWWDJ4MGcyQXhxSWtpMWRVaU8waEpLejhBaTYybzlqcXAwSE5QRjAtc0p1akplcF9SY1JvNXdKcXRMNDZ3VnlrMzh0N0NzaVZNSXNPUHk4UDVyVGFQTUhCZW9wREdoT01sTHZhOUZYcWdNTWdqZEpoendoNTdwZlZveXM4dDkyQ2g0UlZyY2pFbEFBcWh3RERDYW1TXw?oc=5",
+    "author": "Eva Roytburg",
+    "summary": "If 2025 was the year of the labor market’s long winter, January provided the first thaw—along with a bit of a victory lap for outgoing Federal Reserve Chair Jerome Powell.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-12T02:42:13.404729",
+    "html_path": "data/news/news_2026-02-12_30f36748.html"
+  },
+  {
     "id": "news_2026-02-11_6b6e9cfc",
     "date": "2026-02-11",
     "title": "Trump says he \"made a mistake\" on his nomination for Federal Reserve chair in first term",
