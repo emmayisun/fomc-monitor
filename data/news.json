@@ -51,6 +51,25 @@
     "html_path": "data/news/news_2026-02-13_5e5a9956.html"
   },
   {
+    "id": "news_2026-02-13_3a1904c9",
+    "date": "2026-02-13",
+    "title": "Why have far-forward nominal Treasury rates increased so much in the past few years? Old risks reemerge in an era of Fed credibility",
+    "source": "Federal Reserve Board (.gov)",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTURka2ZEQldLZ09XYmhpS0VSSWJZNWpIWU1tUURuRzBZZl9GTnh0WkNvdFJfQ1pwWkw0YmpmaUVqRGR2NTRtMmU4ZExHblg5bVUzak9KX0pkYTFEUHgyVjZVTGkwUG5udVU4SVg0OER3c0g3OXVjVUtKSkxvZU5PQzZzY1Vma2NjdUwxUldzUkRZS0FnMGNTZlRWUGNHa2FPOFQ2dVBFcWdQOXprUlRwc2pfeEx2Xzh3Yll0enk4Q1l4VGVMbjMyY0VETVJSdHhXcFdwcnZiMFZrZml2VS0yMnRudjlLekRS?oc=5",
+    "author": "Daniel Covitz; Eric Engstrom",
+    "summary": "FEDS Notes\nFebruary 12, 2026\nWhy have far-forward nominal Treasury rates increased so much in the past few years. Old risks reemerge in an era of Fed credibility\nDaniel Covitz and Eric Engstrom\nIncreases in far-forward nominal interest rates in recent years have been remarkable.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "FOMC",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-13T13:11:57.498614",
+    "html_path": "data/news/news_2026-02-13_3a1904c9.html"
+  },
+  {
     "id": "news_2026-02-12_b942e706",
     "date": "2026-02-12",
     "title": "Fed's interest rate pause bolstered by jobs data, but concerns linger",
