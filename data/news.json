@@ -1,5 +1,56 @@
 [
   {
+    "id": "news_2026-02-13_a6b28e58",
+    "date": "2026-02-13",
+    "title": "1st Security Bank CEO Matthew Mullet joins the Federal Reserve Bank of San Francisco’s Seattle Branch Board of Directors",
+    "source": "markets.businessinsider.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTmN4LUNWX0xZQ1BGZ3l2UUN6Z2JKNDN0RHU1WGwyMmotYkVCc0xEMW1fbG83dTQ2d1c4eGhRMTZqTE1JcmF3M0FSX3dxZWhreldRNXJZekFvSnNwNGpRdWc4RDV6RGM3LVBFZnRKYjNJVXh5WlBqWmpaNWlXMFZ4NVI0Uy1BM2w3MThfbnR0dVFCWmVFU05HdkN3OWY1NVVJb3A3ZW9iSEM0eXpnTDhmYTc4UGhTTWgxMUJVTWlfM0ZkeVNzZnZ1RTk5aDRhTW9PWnU0Um04cmN4NFVydlQ3d1NKaG9Va0gwX3RvTWVQV2hSc2dZSDJZYlNaSzl4b3FnNWZyc2RYOW9ZaEU?oc=5",
+    "author": "Markets Businessinsider Com",
+    "summary": "MOUNTLAKE TERRACE, Wash., Feb. 12, 2026 (GLOBE NEWSWIRE) -- FS Bancorp, Inc.",
+    "tags": [
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-13T02:42:57.250624",
+    "html_path": "data/news/news_2026-02-13_a6b28e58.html"
+  },
+  {
+    "id": "news_2026-02-13_7472a99c",
+    "date": "2026-02-13",
+    "title": "Fed chair drama: Tillis pours cold water on off-ramp for Powell criminal probe",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00Y3JLVjktX2JGSHpORjZsTER4REc5VHNwMTlyZWdQWTVWenFfNkIwWGVCcmpDOVJPaGNaRVROWF9fY2g2WUowYXpfc2ZGRzlLTFZRNkhMUWtidE5Ta3VPS05ERHFyb1BiLWlFZlBCbmFOVVhYaGs2MDg5RFF4Z9IBgwFBVV95cUxPSE43VEJ2cnYxdnkta3VzQ2thX1pHWWZEdlJIeUcyYUVXUlZoeEQ4QXItZExVU1BpNmJoSndJQmZsb0lEMHEweVE4ODJJckpPbkNqSUczVHlLV3V5S25ialRROGMybnNHaTRKM3pYM0N3cFVnRXFQWmN2a04tdlRCOHctbw?oc=5",
+    "author": "Kevin Breuninger",
+    "summary": "Thom Tillis, R-N.C., on Thursday rejected a proposal aimed at ending the Department of Justice's controversial criminal probe into Federal Reserve Chair Jerome Powell and clearing a path for his successor, Kevin Warsh, to be confirmed.",
+    "tags": [
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-13T02:43:00.019032",
+    "html_path": "data/news/news_2026-02-13_7472a99c.html"
+  },
+  {
+    "id": "news_2026-02-13_5e5a9956",
+    "date": "2026-02-13",
+    "title": "When will mortgage rates go down? With Fed rate cuts on hold, 3-year lows may be the bottom for now",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjlIQ0h4bFNnN0dUS0EzdzYxc3JudHQzZmVIVGU2NG9PYm55X0EzaHhtcEE0T2JUNFVTTm5xdlZGQ2RwZHZvZWVyMmpVZlNWVmEzWG1ZclVGWDFTejZFMnQyc2tVazBIY1R4UUdSYlN5Wk9mYW1NYlYxWnJ6aXo2bTEydHVHdkZuNDFzclJEQnJ2dEJTX1g5QWRoZzVCdkZoT0MyXzJUSTd0TEFmbDE4enNtZEZsZ2Jsdmh3UmRBLVZwdzB0Q2VvMDR1UDBSemt5eHgxRUpuQ3F0SGd1Ml93TXBTTktCOTczODg4?oc=5",
+    "author": "E Napoletano",
+    "summary": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. The national average 30-year rate took a couple of steps lower to 6.09% this week, according to Freddie Mac.",
+    "tags": [
+      "Interest Rates",
+      "Employment",
+      "FOMC",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-13T02:43:11.636080",
+    "html_path": "data/news/news_2026-02-13_5e5a9956.html"
+  },
+  {
     "id": "news_2026-02-12_b942e706",
     "date": "2026-02-12",
     "title": "Fed's interest rate pause bolstered by jobs data, but concerns linger",
