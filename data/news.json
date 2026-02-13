@@ -70,6 +70,38 @@
     "html_path": "data/news/news_2026-02-13_3a1904c9.html"
   },
   {
+    "id": "news_2026-02-13_ea9713e3",
+    "date": "2026-02-13",
+    "title": "Senate should proceed with Warsh hearings for Fed chair despite Powell probe: Bessent",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50am1tREdhek5ScjRQbUpCekxuNmZEMHRLOTJlclBBYVpFYjBjTHo4eU1QblNTS0hYcmY1cllQVG4xX2s3b0RGcWhseG1meFoxeWZxejhfaG5QQmZkZGlPTlYyYV9MYnA5WHJBSUItQTlIcWtrbHA0YlFCTXBlekHSAYQBQVVfeXFMTlZpZkYtNmRnbFdwd0xGWWE2Y3NjWVBBb1U1eGNoQWl2a3lUcVdyTG9naTU3TUN5Z29hdDZSbHNNQ2RrbnhHaWg5NUdma0tPUkNHMl9uOWhudERlVjJ4cl9mU0ZQelRoSzE2XzJUdFVaTkl3X2pPcUVtYUo0QThHQ1l3OE5f?oc=5",
+    "author": "Kevin Breuninger",
+    "summary": "The Senate should move to advance Kevin Warsh, President Donald Trump's nominee for Federal Reserve chairman, even as a federal criminal investigation into current Chair Jerome Powell continues, Treasury Secretary Scott Bessent said Friday.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-13T18:58:00.760768",
+    "html_path": "data/news/news_2026-02-13_ea9713e3.html"
+  },
+  {
+    "id": "news_2026-02-13_0318ef8b",
+    "date": "2026-02-13",
+    "title": "Fed policy is tighter than thought, inflation not a problem, Miran says",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTdaRXBaNTBDOE41blZfNnFtWWdkUjVHMWlyNzhXc2RrZ1MzZno0d21DT1lVZ181eFdhZ1NDZmd1TW1EajVPUTZKWi1fbFZSVW1lVXJWWnY2c1pTWXBQekdQMFZHZy1GaElFeEMzV2g3dmNaVFcyM3g2LW5qNmc2Z2RUNGFJLUZ6YnFKVVo5YzBDU0FZenExVmdvMUlJbnQ4TWFhVmlmcUlzT1Zja3A2NGl3?oc=5",
+    "author": "",
+    "summary": "Fed policy is tighter than thought, inflation not a problem, Miran says Reuters",
+    "tags": [
+      "Inflation"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-13T18:58:11.185216"
+  },
+  {
     "id": "news_2026-02-12_b942e706",
     "date": "2026-02-12",
     "title": "Fed's interest rate pause bolstered by jobs data, but concerns linger",
