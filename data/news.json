@@ -38,6 +38,39 @@
     "html_path": "data/news/news_2026-02-14_60ca2431.html"
   },
   {
+    "id": "news_2026-02-14_445792e1",
+    "date": "2026-02-14",
+    "title": "Trump’s Political Drama With Powell Overshadows Fed Rate Decision",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2NwaWRmd1U3R0lNNTNZVDVFRHBQcnhiU0U0dFJuS1I4SUk2dzczMW5fREYzbzdmYmdUbHlPZTBPMWVzVjRVYlZDM3VFRFVHUFNVd1FXLUNKLWx4dHVJQUU2US1hZlJzcVF4UEdDWElTQmsyMWV4SXR2UDFIMFlhVDBFaFZYQlQ1YkNhRG8wb0paUQ?oc=5",
+    "author": "",
+    "summary": "Trump’s Political Drama With Powell Overshadows Fed Rate Decision The New York Times",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-14T18:42:26.713221"
+  },
+  {
+    "id": "news_2026-02-14_87c3a33a",
+    "date": "2026-02-14",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQaDBjLUZLNXpxaUZHUElxM1VKYS1qTlRlU1JiNFY1MG1RdHBWeTZmTkE5RVNUbkwwYVZHWWk5M0lULWVkXzJiWnFMWUZBd3l2c1Q0RE04UENvSUtoRlZ0SU1Md0pZUmFIeUlzSXJJNXJBNWgwSzlfWVF2NHVISjR4V0FqVGJQTkpvMFNDdlB6VGd2ZFdOTVRwb1VQb3lyeGRwSjN4Z1djU3ZuQnMyem1rLWMySGRqRXNoTXliZElUMC1ucXE2MVhPN0lVdHphUTNnVnVEcEpvcE13N0xXUW5UYkM1Tk1qMktpa1J5X0FYZkpoOFNpd04yOXpHcXU3bDdXSElRUUZqVlpuNnQwRlpnVS1wR29lODZ4akFaT08wOWVkeEdCSGNuOFNFVGhQT295WUdvYmZGempQd3pQSFBiMV9WeWs1NFI2MWtkTTVFWnZFNkNGak9LMEIybVlVOXpVWHZKdlBYOG1FNlVFZ1JtYVJFSkpma0FkcDZ2MHRFa1NEYzRIc2pLWTAwTWw1UjgwbVlGZnBiSUxUQ2VoVGhPZUtB?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-14T18:42:30.463293",
+    "html_path": "data/news/news_2026-02-14_87c3a33a.html"
+  },
+  {
     "id": "news_2026-02-13_a6b28e58",
     "date": "2026-02-13",
     "title": "1st Security Bank CEO Matthew Mullet joins the Federal Reserve Bank of San Francisco’s Seattle Branch Board of Directors",
