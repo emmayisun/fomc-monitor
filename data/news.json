@@ -19,6 +19,23 @@
     "html_path": "data/news/news_2026-02-16_96702911.html"
   },
   {
+    "id": "news_2026-02-16_b17874c1",
+    "date": "2026-02-16",
+    "title": "Walmart earnings, FOMC minutes, December PCE: What to Watch",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW1SeURSX1VKS3FPUnRnUXYxczJlQnNBbHBrSHhtNHRZdVpQVGpKcFNkZ0dSQ3pJVlQ4TGZXcHY0SzM2VGRuall1NW51SDVYdnhCTm50bVBIdllReEdib1FYOEVKLTlvNlp6ZjU4TkItbGxsM1ZrZkNIYXhxZGZ6ZFdoTXhDWjA2YUw1ZWxB?oc=5",
+    "author": "Yahoo Finance Video",
+    "summary": "Market Domination Overtime Host Josh Lipton previews several of the biggest stories to come next week, including earnings results from Walmart (WMT), Palo Alto Networks (PANW), and Carvana (CVNA); the release of the Federal Reserve's January FOMC meeting minutes; and the latest reading on the Person...",
+    "tags": [
+      "Inflation",
+      "FOMC",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-16T13:15:12.689442",
+    "html_path": "data/news/news_2026-02-16_b17874c1.html"
+  },
+  {
     "id": "news_2026-02-15_be08d94d",
     "date": "2026-02-15",
     "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
