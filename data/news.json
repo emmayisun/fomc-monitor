@@ -34,6 +34,38 @@
     "html_path": "data/news/news_2026-02-17_dec8b980.html"
   },
   {
+    "id": "news_2026-02-17_47847623",
+    "date": "2026-02-17",
+    "title": "Trump Has Four Finalists to Run the Fed. None of Them Are Exactly What He Wants.",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOOGN5UTktVS15M2ZITy15T2E3b09qMi1RLWxwV2dUT2NXN0RNMDFGTW4wVGExMzNaSzRIQUZLbm91eFYtTWVuRXFPWnJ1eXJ5V1otQUE3NU9fMGdkZDg1SkxMZGN2T0R0c0hWU2RYbVZRT3UyMFFSUHVvTWU3VkJ0Y0dlSjZzNjR0MnhLanpwNEhnQmNZQy1fREFRRXl0RzFsM3lfNWZoVlFfaS1IMFJCNWZWYkhJOEhuRUhYb1JYS0dYcy1WbjI2SnlnNkFMdl9pbDZHRlFzVzFTMkhjeUwzY0gwVTdsR2lZWHlFS3llY1pacnA5cFRDQ2lSbmVtUUk3VHQzeXJLelpLTFBldTZ4OE9SdzZ4V1lieTFCeVA1X0tGN2hESFc2VzRoWkloZFM3MHJNZ3FsME5oVW5mR04zNmVTM21LMnZtc2hXM2ducWREcFg3NHlwMTlsMFJsam5xZEI4NDY4OGE0ZThva1A5SzBoU2NlQS1fMTFiRlhuLV9FdWdTV092Vk81VGQ?oc=5",
+    "author": "",
+    "summary": "Trump Has Four Finalists to Run the Fed. None of Them Are Exactly What He Wants. The Wall Street Journal.",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-17T07:05:49.053848",
+    "html_path": "data/news/news_2026-02-17_47847623.html"
+  },
+  {
+    "id": "news_2026-02-17_e71e1cdf",
+    "date": "2026-02-17",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPNXdOMzBnNVhRdFB6dkJ3R2UxWTA0NExRQktucF9Ed2lCSVRzRzJoT0tlbEFkYkluaWVoNzB3a1FIUXFab0lOOGpGNGc4YU10cHI3T0V2ZUxFWDRjSlROQXpJZ2dhQ2l0U0xpbDZKX2lUTFRvNmt0UUN5SHRheDltNlVJUnNUYVRpRTJrc0N1Qm1nbk5WU2wzMmo4SUxpNUtSTGhPRktNcWl2TkxVVEpWZHJXRXpTOTVEQmNXV1k1SlFYRHJRZWV0dGJNWW4xc2czVnFIQjB0T2l4OWx2WXg0OE43bWFYQjZEQU9sdXVRdzIyNHc4NG8zekRjRDNzRHlLVGU1M2ZNOENiRzZaZ1BCOWRQeVdESTRXZ0g0VjJ2a1BwWjQzNVFEMDJYWm4wYi1HY1R3N1JYVEdjOGRCWXpRT284Z0lCZGpCcmFYaDVDczZ4QUZEV0VVN3N2dUZnSXRZOU1ReHM3dUtWREZfckIzUVBUUFN1dTI2V3Y3V2xEZ05tNVBSdmgyajd2T1hQa3c2cTBEN2VfWDdmZEc0WTdvb1Nn?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-17T07:05:55.499765",
+    "html_path": "data/news/news_2026-02-17_e71e1cdf.html"
+  },
+  {
     "id": "news_2026-02-16_96702911",
     "date": "2026-02-16",
     "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
