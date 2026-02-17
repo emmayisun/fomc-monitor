@@ -1,5 +1,39 @@
 [
   {
+    "id": "news_2026-02-17_df41ce99",
+    "date": "2026-02-17",
+    "title": "Federal Reserve set to loosen US bank rules in attempt to boost mortgage lending",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMWRwdWFOZTFWUlAyODFXTnJRT1FCLVlKQXY1eUNrc2ZaNF9Sam1Hc0R6VFZ5WWs3cFBUNEtjVjNsOVRiV1k2a2FVcU82ZnNPZXRFUGp0ck9VbjdPS1NjYXFrVlFobk9LeVBkZEpfSVc?oc=5",
+    "author": "Martin Arnold",
+    "summary": "Federal Reserve set to loosen US bank rules in attempt to boost mortgage lending\nSave over 40% on Standard Digital\nwas $540 now $299 for your first yearSave now on essential digital access to trusted FT journalism on any device.",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-17T02:34:49.951842",
+    "html_path": "data/news/news_2026-02-17_df41ce99.html"
+  },
+  {
+    "id": "news_2026-02-17_dec8b980",
+    "date": "2026-02-17",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOM0tCRGJndnJ1cFNfVlZwNlNQVlg4R2hXd1ZiS0pTQUJwUmRZalJwUUtVZ1A4cWtKbmhQSjhNRmRxTXVxWExXeGZUVTcyZHpLSlZSaWtfa1JoMjlDT0tXM0VoTW5KRmY3dnEzZ1lFNFJCOU5QS2hwR1dBdzhJS0hWTVEzTVdvSXFvamhsS3BpemdfLTVfLTFLb3p6Z1NJaWVuU2VqQi1fUHpXSlBvaF9mSXkzWDRFX1NqNmRNNl9EN2NDRTZ4WXd3Z3pzejBKOHlva3lITDhvZ3JOTjYyUXBzcHpxa0V5RWdpR3ZiWHZZT2xMYmVYTkNaSjRkbjRLbHEwa1ZPZkpGMVdqQkdOQ1B4OWY4cUZzd1UtekNYeXN6c3dOWW5vVHdDb3lfalF5RkgzMC04TDZoRUQ1ZDl6dnhBV1FvT2djQVdBc0RFRTNHSTVpUTFyMHdVTFNyZkhvaUo1ZENLcERiLTFmWF9Mb3Y5bTIxYTdJeTlfczg0TU85T1M3ekJzaS1lNkZYZmtRX250Sk5iTVJkVU9IM3JkOFdlenZR?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-17T02:34:58.465107",
+    "html_path": "data/news/news_2026-02-17_dec8b980.html"
+  },
+  {
     "id": "news_2026-02-16_96702911",
     "date": "2026-02-16",
     "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
