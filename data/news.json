@@ -66,6 +66,56 @@
     "html_path": "data/news/news_2026-02-17_e71e1cdf.html"
   },
   {
+    "id": "news_2026-02-17_b2dd8042",
+    "date": "2026-02-17",
+    "title": "Yen reverses Monday's losses, euro/dollar edges down before Fed minutes, US GDP",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnpwMkVCcmt4MUtiQXlULXc3SF9rR3lPOVh4c3BETFdMYWdYeVRJbFl4N3lKN3Q0R3hQY3FMWnFXX09rc05uRFdCZzZ2QlgtYW9XekQxU21LR1ZsLWJQVU9JWG5yZDlQUXQ2cE1DSDlTWlFVeVFHYVRmRXdkTnZlczFDQUluUzNMUWoyZl8yMmlXMTVKUFFzanNmbmtsb01fQmU0QlZybzhIZjBnczhqR19zQXM2dFRDZUZF?oc=5",
+    "author": "",
+    "summary": "Yen reverses Monday's losses, euro/dollar edges down before Fed minutes, US GDP Reuters",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-17T13:14:59.466113"
+  },
+  {
+    "id": "news_2026-02-17_ac001c24",
+    "date": "2026-02-17",
+    "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQYXVhTF9PX0JEcWNSc3p5aEhCNjRtVmZNUW1VdVZnakVZYkcxdjZkcHVqZmEzLWJ2WGpHZEhCOTlEUHpUZHRLZVdiS2tXX2cwNnBlelVCN3pIa2RHZzhQWF9BRU4yQkZrbHNxN2luZTVUNGNXYjRBaTRvU0pxYzVjaTQzdkxMVmx6QjVhTk9ONC14b2JXTEdrUGs5cjRYSFJaNlp4NWZGbjBzSGxrT1NQUE96WXpOX2VPQzFSOEVGUjNOMDdiQW5SLVFrY3pabjhvTGxQT05nR0dFYU1fcGwtcFVKVDNoWHdqLWdUb0ZhX1lLMXZmamNNajhrVFhva1BGbGE3VmFaM3V2dWZNbXMyZi1wT2RwM3gtajA5aWFsTEFWcmQxSDNBX3dnVk1rZk9zeWxpRWFPTUczc0pIZGtFcm1SU0ZRUXJPamRtdEFCYUVDZHkxb3lsOWk1cE8tQ09uOUFvd0RHbGcyUnpaT19iY0xiUmRGejlrdVZlQzNBMV9SNFlhZV94S3BUWEd6STBZRk9jaGQzbmhjTTM5Q0ppUE9B?oc=5",
+    "author": "Sabrina Escobar; Megan Leonhardt; Josh Schafer; Nicole Goodkind",
+    "summary": "CONCLUDED\nThe Fed Holds Interest Rates Steady. Powell Steers Clear of Politics. Follow live coverage of the January FOMC meeting.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-17T13:15:02.176826",
+    "html_path": "data/news/news_2026-02-17_ac001c24.html"
+  },
+  {
+    "id": "news_2026-02-17_1afae9f7",
+    "date": "2026-02-17",
+    "title": "AI Disruption Fear, FOMC Minutes and Other Key Things to Watch this Week",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk5INWVVRkwtVWZDMjIwci1VaGxfc21KaUpIbEtDYlpUQVFWT3JnYldscEpHNHNyRGgtVlVaWWZCTGhpZUxsVHNzN0VxbWlGVkN0TVZvSUVkdFZhZUR6SlozQXcxR3JrSDJoTG5BQXpTbW1FMEdrallpN2xiZXhvdA?oc=5",
+    "author": "Gavin McMaster",
+    "summary": "AI Disruption Fear, FOMC Minutes and Other Key Things to Watch this Week\nGavin McMaster\n5 min read\nMarkets enter a holiday-shortened week following President's Day Monday closure as AI disruption fears that initially pressured software stocks have spread dramatically to wealth management, commercial...",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "FOMC",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-17T13:15:05.035646",
+    "html_path": "data/news/news_2026-02-17_1afae9f7.html"
+  },
+  {
     "id": "news_2026-02-16_96702911",
     "date": "2026-02-16",
     "title": "The Fed Holds Interest Rates Steady. Powell Steers Clear of Politics.",
