@@ -52,6 +52,32 @@
     "html_path": "data/news/news_2026-02-18_8f85b411.html"
   },
   {
+    "id": "news_2026-02-18_f5b81cc4",
+    "date": "2026-02-18",
+    "title": "Gold rises from one-week low ahead of FOMC minutes",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnUwMmhlNW1LRnViRHZKUmhEOTlZT3lBVFlpOHhwSFpDMFVEdzNyYzZZd2p0aG90bjBhTE8yRnItUU81N3dUREFncjExNTkxdzdfSmpDNWl5cFlEVmtlS3N0cm5wVnh0aXNxVjU2eGFmU2FpN09wVlBZVE5tdDlQLUtwa3RwTHNPMm5Hb2Q3RnpvU0Zm?oc=5",
+    "author": "",
+    "summary": "Gold rises from one-week low ahead of FOMC minutes Reuters",
+    "tags": [
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-18T07:08:08.446600"
+  },
+  {
+    "id": "news_2026-02-18_754df1b1",
+    "date": "2026-02-18",
+    "title": "Trump White House Thinks the Fed’s Models Are Wrong. The Fed Disagrees.",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNcGdhdm13OTBWY2hUT3E5YzNsZUhZQ3ltLXhqOXNiejdDREdKN2dLd2Q5N2JrMHk3SVJYbGlQdGZSWnlxeWVWVThod3NlUnpBVE1RUmdDU3g5SmM1aGZpb2NpanhicEVTN0l5UlBCb1VDR0toT05OYkZDdUhDN2ZFRnNFWnNsWHpwQ3JPLUpYTDlXSnZqcnNmcHFsenUxSy1VYmpfQTRRRU0zRlFXUFdBNmE5NFFEVHMtajBlRVp1Y2hWdWZmdjdFQlVxTTZybldoSk0xSS12d2QySEtGVU5heFl1bEllczQ2YWJ3elFtaDhSX1dRa1RzTDVWNjhYRjl6VlU5SGU0T2laSTliNGtISm90dkFuVjg3blZEeGNscE1uMW5Fa2t0UUtxRFBsMUlCU3hYVG5mNVRiN242WUxXMmtuRlBlY1FFN1Vxbmw5T0pRd09nZ2VqcTdkT040aHQweDdRem9rN2xUOE1WcU44Zzg2YUh1U084R3pkVDc1eU1BYy1PUk1Ic3NQeXc5QWlDZlNGb0VIR0NKQkpDVXowTEtpN3N1VFhSb3FfTw?oc=5",
+    "author": "",
+    "summary": "Trump White House Thinks the Fed’s Models Are Wrong. The Fed Disagrees. Barron's",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-18T07:08:14.254486"
+  },
+  {
     "id": "news_2026-02-17_df41ce99",
     "date": "2026-02-17",
     "title": "Federal Reserve set to loosen US bank rules in attempt to boost mortgage lending",
