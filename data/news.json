@@ -78,6 +78,70 @@
     "scraped_at": "2026-02-18T07:08:14.254486"
   },
   {
+    "id": "news_2026-02-18_d8415f66",
+    "date": "2026-02-18",
+    "title": "Jerome Powell is facing a ‘puzzlement’ of economic data, with contradictions likely to freeze any immediate action on the base rate",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFRiN3VoVVQ5S0ktSmVVbXJObWg3a1E1M2lTMldWYUFub2VQcG1MX3lLblVKM0dlSGpXcHZ5MjZuUHd1OEJwQmktR2NJQVhfZmRfNmRPNWpRWTM2MWJ1dWhOY0NkMHlWZDRfZWdyUFBlLXk4UG90YkN5Vmo0M3ZZVWV2MEY?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "One could argue that last week’s surprisingly robust jobs report has made Jerome Powell’s job harder, as it defies the narrative economists had widely believed when it came to the slowing pace of the economy.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-18T13:16:09.105573",
+    "html_path": "data/news/news_2026-02-18_d8415f66.html"
+  },
+  {
+    "id": "news_2026-02-18_241d70e5",
+    "date": "2026-02-18",
+    "title": "Why Powell Won’t Say if He Is Staying on the Fed Board",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQN2lvRXZ0WWNKbGM2WWgwXzJjSU81aV9XaVZidzdHZnJ1QUpUa2ZJSmVfbTFPWUZ0ZTBSeEJ3Mzd1Nzg0NDFoLWd4bWJRSlZtX19iVVVlZFZDVlBHS2Vta0NmQy1HckhPLVZtTnFoUTF5TGJhbzdrR3pOVkNfMEo2eDUzX0RIQ3RkS1hNS3NEam5JdmlJRTZNRVlhZEV4VHNGRjNHUk80dHg0YkF3d2tOU3dleDJIbE1SbFRBbnhybUJYcDRZS1dCR3loblZRdHBQMEpMUjU2cXZPb1l1cDRnRTdjckxVYnpsLU5iaFdJVU84UDdLXzJFMlQ5Z04tSmZnX2JORldGdDV2UXJObzE2NTRtMFFpeUpZTjgzOTM0Qm5PRFFEOU1oQ1JfY0pDRW84dDl6NU5wbno0dnZOTGx3WGZxNEpRNVZpel93eWJodFBSR1pmV2lvSjRQNGgtdFg4NlpwajhvUUljZlBzOGtQVGhNYXQ2RFRIVlBIRTFLOTNlUG1vSnFDRFJGdktQdw?oc=5",
+    "author": "",
+    "summary": "Why Powell Won’t Say if He Is Staying on the Fed Board The Wall Street Journal",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-18T13:16:11.549864"
+  },
+  {
+    "id": "news_2026-02-18_70a8c7a5",
+    "date": "2026-02-18",
+    "title": "Treasury yields nudged higher as investors await Fed meeting minutes",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWtYZ0NVemdPWURWTTVSaWhQaUdfNzhPNElJdWJxUlJEQi1mdW9lcGxPUE44dXFFVkRRXzYwU1hOcjlUVTVTeDJzWjREekQ4R1hlRXdnNkVXN09uLUotTENTVjd2NDZuQ0tidEFlWDNESGhHWm51cWtONWVpX3dqdVROcC1zdmVKLU10bVRkbHNBTUtWT0U40gGcAUFVX3lxTFBPdmZ0YmtHZ3dCRlRJNldfbFZVOEtyNlU2RDRUWi1LaUVFS0RSSl9wRnFteVoxWVhmZjRtYjAtbXhFYXFMLWRKZjk0djZ1eG1GZVpTbXdqb2pOUjNINWdpU1FfazhGLWoya1Y1RjR0YVlteEhoRi1acS1USXZtaVNiOXhIbXlRaURsTlc4M290NUZ4YlljTzFhTW11UA?oc=5",
+    "author": "Sean Conlon; Sawdah Bhaimiya",
+    "summary": "Treasury yields edged higher on Wednesday as investors anticipated the Federal Reserve's meeting minutes and key inflation data. The 10-year Treasury yield rose more than 1 basis point to 4.067%, and the 30-year Treasury bond yield was up less than 1 basis point to 4.689%.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "FOMC",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-18T13:16:14.703988",
+    "html_path": "data/news/news_2026-02-18_70a8c7a5.html"
+  },
+  {
+    "id": "news_2026-02-18_22481b35",
+    "date": "2026-02-18",
+    "title": "Traders Look to Data, Fed Minutes to Gauge Scope for Fed Easing",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMnRBX3N2cUhDWFFoTFdaaGNkbGZsZHBzVTlmWFUtUEtUanpZLVVkLUFIcmJkczMtSEtpazVjWU5FTkR1dGg3elhiMU9yc0c2RXVpS3hoWi1FdnJDSXhJcURGYXhXQTVIMjBmZnRrTFVHUnJhdXF5Q0hCcHBoXzB1QzhPRTYxQUxyUUlIOFh5bjl4cGN5ZWdpclJiVDJVQmlJLWJxTzJBNkpBcm5fQXhCVDkwUQ?oc=5",
+    "author": "",
+    "summary": "Traders Look to Data, Fed Minutes to Gauge Scope for Fed Easing Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-18T13:16:17.141841"
+  },
+  {
     "id": "news_2026-02-17_df41ce99",
     "date": "2026-02-17",
     "title": "Federal Reserve set to loosen US bank rules in attempt to boost mortgage lending",
