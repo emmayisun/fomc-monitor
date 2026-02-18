@@ -1,5 +1,57 @@
 [
   {
+    "id": "news_2026-02-18_bf23d2d7",
+    "date": "2026-02-18",
+    "title": "Occidental earnings, FOMC minutes, housing data: What to Watch",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3N1U1FBRDlxbkpFYWpPRnphNzZ1cG41aE05elA3TThmX0ZjWFFLNU5JTzZ4QVExd3pQMkFpVEtkYXdlMjN6WTlQSnlwNEtha25Bb1lMcGJNRUc0MnBSU0JESVBza1RuaVAwLUlBN3hRYml6VkM1eGtMdDEzQkMzcHBDUWxjSnFub2h2V2poZWY?oc=5",
+    "author": "Yahoo Finance Video",
+    "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow, Wednesday, February 18, including Carvana (CVNA), Occidental Petroleum (OXY), and Booking Holdings (BKNG); the minutes from the Federal Reserve's January FOMC meeting; and the latest data on US housing star...",
+    "tags": [
+      "Inflation",
+      "Employment",
+      "FOMC",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-18T02:38:48.779779",
+    "html_path": "data/news/news_2026-02-18_bf23d2d7.html"
+  },
+  {
+    "id": "news_2026-02-18_46f38b3b",
+    "date": "2026-02-18",
+    "title": "Warsh may want a smaller Fed balance sheet, but that's hard to achieve",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWx3SVYzd3Z5MnMyNmN1ZEJrTkJKdS1RX1NPY05MN2FGZU03THNSVDRheE5wLUVTS2g4Z2xSRzZTc0dUSXVfUTQzb1JJLWsweWtkRHRzcTk4b3hZZ3VkcTdHZ3VSREdpVFlLbHRfMkg2ckQtWk9penhSX29Rd29XM1lzN1dXb3M3OTJ5eElvbUFkQ1IycjN3Y2dMbXdVVEFWeDJBaElFRkljZHpsSXdubHpB?oc=5",
+    "author": "",
+    "summary": "Warsh may want a smaller Fed balance sheet, but that's hard to achieve Reuters",
+    "tags": [
+      "QT"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-18T02:38:54.294552"
+  },
+  {
+    "id": "news_2026-02-18_8f85b411",
+    "date": "2026-02-18",
+    "title": "Fed's Barr casts doubt on AI as rate-cutting tool",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1lxT1Y4THBVcXpSbzVBbF93aFVPTG9BQmpTMS1LUDZLS3AtaXlvMldSMXZ5eE5uNVhRVEJVZTgwUzd5UEkwOHFJWWRBaTg1TE1pX3BCelRlUjFXTVZmT1dPNzY1Zzl5U201cWNBd05PTGhWWVlMZjhUOUlnV3JzeGU4QU1KaENTc2ZfQ0I2eWdhTTJyMl9odERR?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "Federal Reserve governor Michael Barr said Tuesday that the boom in artificial intelligence \"is unlikely to be a reason for lowering policy rates,\" disputing the idea of AI as a productivity accelerator that puts the Fed on a rate-cutting path.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-18T02:38:56.957042",
+    "html_path": "data/news/news_2026-02-18_8f85b411.html"
+  },
+  {
     "id": "news_2026-02-17_df41ce99",
     "date": "2026-02-17",
     "title": "Federal Reserve set to loosen US bank rules in attempt to boost mortgage lending",
