@@ -97,6 +97,49 @@
     "scraped_at": "2026-02-19T07:07:14.472677"
   },
   {
+    "id": "news_2026-02-19_86cf6b57",
+    "date": "2026-02-19",
+    "title": "Opening remarks by Vice Chair for Supervision Bowman at the 2026 Banking Outlook Conference",
+    "source": "Federal Reserve Board (.gov)",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMTNJb3BNYTl4YnVUeDE1eWdwZFdGS2IxVzNkZ0NSZEg5bzNobzBGc1MzZlpWTXpjLTRYOHA4bERnbjFhdnJOYXZYMHpNUnZNOTkxMEVvMUppdksxR3pIN1RXTkwwSmxaRWFWTzc0UGxITGVyODkw?oc=5",
+    "author": null,
+    "summary": "February 19, 2026\nOpening Remarks\nVice Chair for Supervision Michelle W.",
+    "tags": [
+      "FOMC",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-19T18:57:56.967118",
+    "html_path": "data/news/news_2026-02-19_86cf6b57.html"
+  },
+  {
+    "id": "news_2026-02-19_f366bc68",
+    "date": "2026-02-19",
+    "title": "Fed Minutes Show No Rush to Restart Rate Cuts, and Even Possibility of Hikes",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUk1ubE12d09aaHhYRC1Qa3luNDFqTjFDeDViWkhXX0RmakdTWi1QOHNjX183R2x2dElfVGtkZ1hkVkFoOWczUXF2OUhUZVI2Tnh5Njg0YzNRZE8ySTVPU0NXMmdzei03anl4MWZTcWJKaEdRR21zOFB4aTZWcGpmWS1NZEZ5QnN6Y0tBay1aTkdxSGluTGVTVA?oc=5",
+    "author": "",
+    "summary": "Fed Minutes Show No Rush to Restart Rate Cuts, and Even Possibility of Hikes The New York Times",
+    "tags": [
+      "Interest Rates"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-19T18:57:59.596494"
+  },
+  {
+    "id": "news_2026-02-19_40b8ca4c",
+    "date": "2026-02-19",
+    "title": "Fed Reveals Surprise Shift as Several Officials Ponder Hike",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclBheVJOVFk2b1lqRWgtaG9rRVpSX3A1cld3LWp5NkxwUFFXbDZTT0NfTk1pUk9rc2JvUFROQll5U3RFYlMzdHVMTWw3WUJxVFY5VXRfYkp2RXZYNXNBVVZlMUtMVmpjbFZRQUhzUk5zaTFybk9lMGFrbmpobjREcXNSQ0JlbUxMamVZVWY1dkVETGx0Q2Q1a2EtUHpGSFhXSHlyZUtaM0V3QVFSR0IzOUduUQ?oc=5",
+    "author": "",
+    "summary": "Fed Reveals Surprise Shift as Several Officials Ponder Hike Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-19T18:58:02.215485"
+  },
+  {
     "id": "news_2026-02-18_bf23d2d7",
     "date": "2026-02-18",
     "title": "Occidental earnings, FOMC minutes, housing data: What to Watch",
