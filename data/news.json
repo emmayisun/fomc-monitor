@@ -77,6 +77,50 @@
     "scraped_at": "2026-02-20T13:09:24.796429"
   },
   {
+    "id": "news_2026-02-20_120063b2",
+    "date": "2026-02-20",
+    "title": "The Federal Reserve Wants to Change How You Shop for a Mortgage",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNdGF4ZWwwUk1NQVRlZUdxbUJwUk41UG1LOHNMRzZ3bmVIWUM0YnJQdThFU29kWGR3eHJPdUJoWElIVHh5OUZYS2VWS1duUlRzeXhJS01Nc1dyakpWUkNzNUlXMDU5aXY2aHFOQkp5UWlpTzJPQkJKTXdnbEtTYUZGQnVYY3B5c0I4TUFtRXFISFpsQ0NpNGppb1hkd0xrZU9jZ1F4d2xHeXFNcGZlUEpCRzBUQ3ZNVTFqOFJScy0zOVBmcDRXaEFJLTd3S0s0eUFqdTNXWEFpTVV2VVZlNTFBc0FYV1Ewak9ITTRaMllRNFhTdUpaQ1ZKQmpwUG1XVXRkNG4zNmlWZmJVTmdGWFJrOTREWUhVa1N2eGlnY1N5YlBBa3oybDktaWgtdjVfTjFtTHRCRzRzODQtR2xzYlUyRlhRT1hvNGQ2UjhaZmgxWjF6MUpZTU9TTlZNV2VLbTRXaUlVYTk2b2hXczVJOS1RNnJpcGtXdU1rSmtwN3lYX0ViNVdock45cDRWZ3VRaXRxNlVMZUxuWk1sZzNBNWtvczIxTGlWMWhkMVJNQmtpODk5dw?oc=5",
+    "author": "",
+    "summary": "The Federal Reserve Wants to Change How You Shop for a Mortgage The Wall Street Journal",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-20T18:56:01.301631"
+  },
+  {
+    "id": "news_2026-02-20_08cf6552",
+    "date": "2026-02-20",
+    "title": "Kevin Hassett calls tariff report from Federal Reserve economists an ‘embarrassment’",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNVotdE5WWkV4dEJ5R05VUUg5aWQtbnljTE1oYTNBUzFEMjBKekxVa0ZzMmJ4YUM0bUFSalF2M3pyVWJsNHJYRk1vUTVVVzI0Mm9qb1hwaGp0TnZvVkhlLXkzVHlmaHFGUmVCQ0VHNzI?oc=5",
+    "author": "Stefania Palma; Ian Hodgson",
+    "summary": "Kevin Hassett calls tariff report from Federal Reserve economists an ‘embarrassment’\nThis is an on-site version of the White House Watch newsletter. You can read the previous edition here. Sign up for free here to get it on Tuesdays and Thursdays.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-20T18:56:04.387883",
+    "html_path": "data/news/news_2026-02-20_08cf6552.html"
+  },
+  {
+    "id": "news_2026-02-20_d7433e1e",
+    "date": "2026-02-20",
+    "title": "Why Powell Won’t Say if He Is Staying on the Fed Board",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQlFnbzM1QUJGVWE5Z1dncF9rMFo0Vm9Ia2ZuSzhvcVVFa0kyMUR4T2VtY1NtNVdMcGQwaGRMaTk4cUxDSlVnSTdpdWl6WXkxbVpoQ2RJWmVvQXh5NGQxQjMwS2Q2UVRZMkItYXNPYzlTWFA4dm4zQWtNUi1SRTFCajN4ZDktQUhsYnRnUUJkT0tWbHNNa1BhNXZRM0J3TWdqZWhOY3cxUEFTT1lEeVNnWnZ2RVpTWE43bnJFc21Lb1JFcUYwS25FVXE4emYwOFdUWTRBai1YTGZwUHVVY0Y2VVMwRkluTzFZdzgxWU1HRTMwb0dYeUwtYXQ5SWxHLU5JNzBLcGxYVEZFVVZPZW9UZGtpcWRYU3RWRTd0eWNCRnY0YXpobnBVaG0zY3NnVVZha09TN0ZPNVlLMWpzS1JLR1pPRHpTZFRSTnlUSUpvQnRDcURCQ3JGQzZGckxsenRYNmV6LXowZWhIRVhNbTBwZzJjOGJmWjlpV2duVUw1a2d0T0FlZFdiNENzUC1aQQ?oc=5",
+    "author": "",
+    "summary": "Why Powell Won’t Say if He Is Staying on the Fed Board The Wall Street Journal",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-20T18:56:09.714563"
+  },
+  {
     "id": "news_2026-02-19_71a0cec4",
     "date": "2026-02-19",
     "title": "Federal Reserve officials warn progress towards inflation goal will be ‘uneven’",
