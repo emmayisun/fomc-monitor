@@ -1,5 +1,36 @@
 [
   {
+    "id": "news_2026-02-21_20696193",
+    "date": "2026-02-21",
+    "title": "The Federal Reserve Wants to Change How You Shop for a Mortgage",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOTl9NWlpvWmtPdTRabmpOLXdhaHhGQnhCajEwVXpCVHlpRWNTQUdneDNxOGU4ekNLYnVpY1N4Mk5pTEhROUl0OUFkMlphd29rYlZPdHVmTkpJbVpObzRQV0tBWEI3MjlvMlluVUtMcW04bi1RSjFTQ3RuSjlDUDhXaHFudTY2M1BwVlhpaE45aUkxNkl1bG1ZcFl2ejFuS2FQNDV4OURGMEZIYW5Ma3VqOXdnMm9hMjBVV1lHT21ZTWZQbDk4TEgzLVBZaVdPRFR4UGZ6eGRDY1BiQkQ5eFcydlU5UFNRd3R1MmNsaGYwb1NfQnp2S3VmNHNrV2lqY0FmZl96M09ncmdiaG9VWC10RUdYZ2FVQ0RleHpnRFliVzZoZG0yd2FNY2E3bXVBUXJtVGk1Q2JZS2k3RWxFV2VjMGlDQkl3QVZsTDBVNjdiT0hhdTcyWGdJaVd3SDd6RXNFQm5LU2pxLVYyYnZnWnB3RHNLU1I1N1VWSWZmbVA1NkFaaDBPNzJoUDkxaXQ0NW91TmE1eV9EUU1QcUpka1BfU3A0Ri1ZZFZpSy1PdENhaVBUZw?oc=5",
+    "author": "",
+    "summary": "The Federal Reserve Wants to Change How You Shop for a Mortgage The Wall Street Journal",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-21T02:26:41.963039"
+  },
+  {
+    "id": "news_2026-02-21_c4029c1c",
+    "date": "2026-02-21",
+    "title": "Fed meeting minutes: Rates could come down further if inflation drops",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1dnVjJyQWNxelV4OGVyTGVWdFdBSmNuLWZJZkV6TzRWRy1GNFI5MkRPVHZSdWV2UVBsMWd2WjdnNEdsSjlCdmZpVnd2amtpTy1WSGpFb1JZSUZXYXpUT1ZydGxNM3o3clFTNGlXODBFV3h3UkxSUUI3eTZNMEttNmpZZEZRWlVWRUhlME5lY05WU0xXS0Q3eGMtc0liTlRNTHR1dGJGR2d0UUItZS1zTEN0d0Q?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "Several Federal Reserve officials anticipate further interest rate cuts if inflation were to drop, while others see holding rates for \"some time,\" according to minutes of the central bank's January policy meeting released Wednesday.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-21T02:26:53.632201",
+    "html_path": "data/news/news_2026-02-21_c4029c1c.html"
+  },
+  {
     "id": "news_2026-02-20_fb9d617a",
     "date": "2026-02-20",
     "title": "Opinion | Another White House tariff tantrum",
