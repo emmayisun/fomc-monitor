@@ -26,6 +26,39 @@
     "scraped_at": "2026-02-23T02:39:13.898381"
   },
   {
+    "id": "news_2026-02-23_f071dbd4",
+    "date": "2026-02-23",
+    "title": "Fed’s Preferred Gauge Shows Accelerating December Inflation Trends",
+    "source": "The Wall Street Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOclpnWUVVcnYzNkFDS3lMSllJaFVmOVdNN2FtX3piQU40LTFlcXFkOV9Hekt3T282ODhKYTF1Q1lZa0V4aW1sRC1BdTcxTGc5S1FKU3p5ZXBycFZMMnJEZ2RXMENWRzRwSm5RTjNXcTQ4Q1c3c24yTnZoVndQVk1lbS1RS0hjN0NVeEJKU3NOR21ZaUtuUG92emxBaXBKekZRUUxqSm05VWpwbUxyMVBzUHhzTVotWW54T1ZheE0wc2V3UmxUTTV6dFQzYVFUWGptWG96WS1QUWhzY21fRlpBbDgwVzlhUWF2WWUxVzlrRmVHdHVYTUZjTE80RVVxZnRQRy1LZEt6UEFub2NqRzNEN3hhcHhrUU03R1F3ck4tZFE4bHI0d3RrNFpTSk9kbEs2ZWFMM0pZeWJUWEIxNTlHdVFicjZGZEVaWmRISWJEWFc3M2J3VEVuOHZ2V0ZTNHg3T2dzWHRpWktsQ21ETjdBYndtZFhlaGg3UWRlcnc1NnQ0bDN0LTZieGtITFpNUmRoTXhzNlZyX1FlQWNMU2pQS2w1eDhOMjVIdzBvYzBiT0JIcDRMb25NdHVhQzlmUXc?oc=5",
+    "author": "",
+    "summary": "Fed’s Preferred Gauge Shows Accelerating December Inflation Trends The Wall Street Journal",
+    "tags": [
+      "Inflation"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-23T07:12:01.602025"
+  },
+  {
+    "id": "news_2026-02-23_fba5b07a",
+    "date": "2026-02-23",
+    "title": "Jerome Powell knows the Fed's balance sheet got too big—Kevin Warsh has a plan, he just has to sell it without freaking out markets or the Treasury",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMC1DbjIwbkNnVVk2RHl0Ry1QVEs5NUM2MUJHQ2tKWGZISXBFei1tU2hNVmFLM2w1Rm1POHAtRE5hUlc0RVV0aUpfVEtNSFRNZmFPcTBBWm9tSGRsN1R5QjhDMjUzeFcyR01KVE5TM1pma0Zwc3UydGxxRWhCVTRhRi1oenZMbW5jQlVqTHJiYzRwa0YxVlJqc1hiOW1DWVhNSHZPN0EtMXpiTEM2S2JPSTRn?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "Jerome Powell has been a friendly neighbourhood Fed Chairman to the White House, despite the criticism and insults President Trump has levelled against him.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-02-23T07:12:05.229272",
+    "html_path": "data/news/news_2026-02-23_fba5b07a.html"
+  },
+  {
     "id": "news_2026-02-22_377b0c20",
     "date": "2026-02-22",
     "title": "Fed’s Preferred Gauge Shows Accelerating December Inflation Trends",
