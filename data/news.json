@@ -73,6 +73,37 @@
     "scraped_at": "2026-02-23T13:16:37.561515"
   },
   {
+    "id": "news_2026-02-23_1a704d98",
+    "date": "2026-02-23",
+    "title": "US probably shed jobs last year, top Federal Reserve official says",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdUJxeE1oaTF1dFV1QkhzRnhTY2NTRHJHU3BnQ1dmTlFPTVNMb3JPZ0Q4b2tZWDhuTk1yM3NUMndFLTdpeG1EbElEWTN2bkRWOTd2ZDZDeGo4VjR5RnJwWkJtaExFMWNvMTRqU1Z1SG8?oc=5",
+    "author": "Ray Douglas; Claire Jones",
+    "summary": "US probably shed jobs last year, top Federal Reserve official says\nSave over 40% on Standard Digital\nwas $540 now $299 for your first yearSave now on essential digital access to trusted FT journalism on any device.",
+    "tags": [
+      "Employment"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-23T19:15:30.881788",
+    "html_path": "data/news/news_2026-02-23_1a704d98.html"
+  },
+  {
+    "id": "news_2026-02-23_d60c1613",
+    "date": "2026-02-23",
+    "title": "Watch Fed’s Waller Says March Rate Cut Hinges on Labor Market",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGxuVDZ5SzdaalVzOGFKQ0xUTVNpYm5UU3V6S3JCZ29OZk5GRnpKRDhMUWNJQmlSdVBjbUk1SjMzMVl2VGpHWVFmNnNZbXVPSE9JeERsZ0FjN25FUnBzRjQ5VXRoOEtRX1Y2Q3hDR1RlejZBZTU3N3NrOW5uLXRmN1I1cmh6R2luYnltZ0FTTi1WYUlxeTR1dzZJd25qRGJ5THkzblp0RVJpWF9NeXlJ?oc=5",
+    "author": "",
+    "summary": "Watch Fed’s Waller Says March Rate Cut Hinges on Labor Market Bloomberg.com",
+    "tags": [
+      "Interest Rates",
+      "Employment",
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-23T19:15:32.286380"
+  },
+  {
     "id": "news_2026-02-22_377b0c20",
     "date": "2026-02-22",
     "title": "Fed’s Preferred Gauge Shows Accelerating December Inflation Trends",
