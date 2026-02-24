@@ -32,6 +32,31 @@
     "scraped_at": "2026-02-24T13:18:07.896712"
   },
   {
+    "id": "news_2026-02-24_c245d3a9",
+    "date": "2026-02-24",
+    "title": "Watch Fed's Waller: Never Seen a Tech Revolution Like AI",
+    "source": "Bloomberg",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXBmdE9oQXFEUmRQMVY1QVJQVElDbWdrNGk3X1BHNFhOaExvZG56aXE4aXRmV25HQTRDVjk5WlNJZW9FZllYNU1kYThma1ZSbGNDX1VKV29aTDJlOTFwcldRQ3hfdXJwSE8zeVpLV0h1dlJIWTZEX2Y5UnNaaFhmREg0VTZKenhOdVJqZzNRMndqX29ObHoyY2F5R1dQMVd4YU5oMzVpMA?oc=5",
+    "author": "",
+    "summary": "Watch Fed's Waller: Never Seen a Tech Revolution Like AI Bloomberg",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-24T19:09:30.184036"
+  },
+  {
+    "id": "news_2026-02-24_4d94800d",
+    "date": "2026-02-24",
+    "title": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkJTdUxMWHR4SXYtUjlTM2pfM09HSURBc3pFZUNYSEVlQzJzY1kybUhXemRQYmZ2Nm9adUtuNzZLRjhvTFdVNmFFeUJmR1pyMnYwejdvNy1tcU8wWVdrT0hPeE84Q2R0bzJaSlBGUk9vRUlwWW8xU3ZTN05xeGI2bFdmWTBGUXhBbnR1aktLRjVIWWtEYnBJRWhMMA?oc=5",
+    "author": "",
+    "summary": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling The New York Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-24T19:09:40.543403",
+    "html_path": "data/news/news_2026-02-24_4d94800d.html"
+  },
+  {
     "id": "news_2026-02-23_2688208f",
     "date": "2026-02-23",
     "title": "Fed’s Miran Now Sees a Less Accommodative Rate Path",
