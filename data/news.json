@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_2026-02-25_31a56456",
+    "date": "2026-02-25",
+    "title": "Fed's Goolsbee: Rate cuts appropriate if inflation falls, but too soon to bet on productivity",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkFvMWhZNTJhNUNldEM1SUl2RzNkUi10b1hRaUZLRUQ5Y0NObmd1Ml85VEdEdXdmUnFLN0NRbGpRdXZUZVIwNko0Nl9nSFo1cFg1cTlMZkdTYjIxdTFYTDIwR2RIdDVQVWJGbnZpUG9rR3hGeFZBNU1OaUJtN0dPX0N3YnRlUHh5TWxwa2E5LWpOdGFBZmNadFpwLU5XTm9mR3dPY0taXzRJRmV1TDN3eVE5bWR2blJNd3RlTU11Z3luNlk?oc=5",
+    "author": "",
+    "summary": "Fed's Goolsbee: Rate cuts appropriate if inflation falls, but too soon to bet on productivity Reuters",
+    "tags": [
+      "Interest Rates",
+      "Inflation"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-02-25T02:36:40.700155",
+    "html_path": "data/news/news_2026-02-25_31a56456.html"
+  },
+  {
+    "id": "news_2026-02-25_fe161db2",
+    "date": "2026-02-25",
+    "title": "Fed still on course to hold until June",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OZXhNSThORTZHRkYzbHJ4SHg4S3dzeEFPWi13WVBGeW1FSzlmUkNjc05xYkVwOVY0UDRYQzQxMkpFckdPcElJeDNhdjVfNnplYUxWU1RZTTlhWURhQmtiZ0o3bVFGQ2pkak82QUhoQTU?oc=5",
+    "author": "",
+    "summary": "Fed still on course to hold until June Financial Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-02-25T02:36:44.735673"
+  },
+  {
     "id": "news_2026-02-24_134dd6ad",
     "date": "2026-02-24",
     "title": "When will mortgage rates go down? With Fed rate cuts on hold, 4-year lows may be the bottom for now",
