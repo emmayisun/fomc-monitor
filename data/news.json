@@ -1,5 +1,53 @@
 [
   {
+    "id": "news_2026-03-04_624cb85d",
+    "date": "2026-03-04",
+    "title": "New Housing Bill Prevents Federal Reserve From Issuing CBDC— But Only Until 2030",
+    "source": "Yahoo",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFNYS05RWjhsVTh6NnhWM19XRmgtcW9Vb1RSejVJSkkyVVhxUmtKX1RTWUM4RnZzY1BYd2lKQ0Rlc0R2bzZoUXd0cTY1TjZqVzU0dGJxcEg2eEtKNjBqSEN3TEdnMTZmWkN5Zzc0WE1oRzJWWWw2RlF5RXVTZWlzSmw1Y3R1OTV3d2FhWTJ3OElBZw?oc=5",
+    "author": "Camila Grigera Naón",
+    "summary": "New Housing Bill Prevents Federal Reserve From Issuing CBDC— But Only Until 2030\nA new US housing bill includes a provision that temporarily bans the Federal Reserve from issuing a digital dollar to consumers until 2030.",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-04T02:29:26.084185",
+    "html_path": "data/news/news_2026-03-04_624cb85d.html"
+  },
+  {
+    "id": "news_2026-03-04_c4ab02c3",
+    "date": "2026-03-04",
+    "title": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWHJFSmdQM3VkV2JBX19naC1HMlF2eV9OS2dpWjBmMzBxOFg3WW1QZGtFNmVIZFZZQXYzSk9qY1E3YkRkLTJzZFlHY3lqSnZjNXNJcElSSFU2U0p5dmduVkZuWGZpVVF0ejVXLXNvX01yeUhvLXkyUV9kM0VYa0hhNGUyNFNqem5odlIzaDVNMm15U0ZTNENwSkFsb1ZDNmlWTlVfdEpuMFd4SU9Yb0g4VDk2dVZyeGdnSVVMX0Vva3ZlUWNWRm5ZLUFiQmp5Ym1YWl9XNmRjOXUteXpHMkt6Y25yLWtyQXBZZ3BKTFNieU5XQmZZWUd1bXgwTGRHOUw5Z2FTSmhzQ0ltMEhLWkJ1VTF0ZUpTNjhmdmdGM3ZtdnNsTHlhYjU2LUd6dEQyd1BBZXJkcUJzUHRpcjVEZEZrelZuOGw5c0tQd0xSTzZ6Y2RIX2VSWEltakZXU09BcjY1aUc3S2xWNXFSQ28zOWtTaUJfc3hZU2tpR0tMZlM3QQ?oc=5",
+    "author": "",
+    "summary": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher WSJ.",
+    "tags": [
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-04T02:29:37.858455"
+  },
+  {
+    "id": "news_2026-03-04_6fd5a5df",
+    "date": "2026-03-04",
+    "title": "Recent Economic and Financial Developments",
+    "source": "Federal Reserve Board (.gov)",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03UGNRZnBGUnJOYWw5emJOWlN3Y0JxV0J1SEpwbW5kUXN1VGN5Q2tHZERoRnZRMjRyRERlbEhrWi1pZGxHWkowNHBrMVcyUE8xREVITGtaajRuTV81LTNrUEVzclNiTlJIUE5iV0lLaVpOdHZzMFE?oc=5",
+    "author": null,
+    "summary": "Recent Economic and Financial Developments\nMonetary Policy Report submitted to the Congress on June 20, 2025, pursuant to section 2B of the Federal Reserve Act\nDomestic Developments\nInflation has continued to ease\nAfter declining modestly last year, consumer price inflation continued to ease during ...",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "QT",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-04T02:29:39.718420",
+    "html_path": "data/news/news_2026-03-04_6fd5a5df.html"
+  },
+  {
     "id": "news_2026-03-03_67776884",
     "date": "2026-03-03",
     "title": "Kevin Warsh’s push to shrink Federal Reserve’s balance sheet would evolve slowly",
