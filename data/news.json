@@ -56,6 +56,52 @@
     "scraped_at": "2026-03-10T06:58:13.368732"
   },
   {
+    "id": "news_2026-03-10_668849be",
+    "date": "2026-03-10",
+    "title": "After Powell, Can the Fed Stay Independent?",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPenZ5Q0drWTRJZEgyb1hGTW9lWE9ZZ0E1Uno1WmNSS01OTE1CcFlxcTNVRmR6MUM5NDh3RkNSR0lHeVVyQU9PWHo5LWt1YW0ydVhtOTN5TmVIeVVUQUJHdk5KU3hycWhmeHI2V0tqT2J2UkdhNlAwZXZHNW1BZnFoQXdqemtxNlgxRkgxSjlXOEVUOWwtWXR6Z0RFNXNybjloaHcycmlhOXNnMEtuc3cxbnBZUlNGM3QzcEY2V1BfRUNSN2MyNFpseDNxc0hMVmcxVEd6QVhkeURINHVQSUlSNUJPNW1nNkdQNG02Nm1kSVYtcl9iN2c1VDdkdXoybUlDaTF6aXY0Vl81ZVA3aE0zdVFRQ0J0eUZwMUJkckhfZkNsQ2JmLU1DTHdtR1c4dmdyRFhPcE12TXJSaUhzLXpNcWdNM1V2MnYxeDlqMG9FQXAwVE0yRlVBLUZtQnNEb0ZqcUhUT0xtdHhyYXFIWHNONWpsNnA3TmFRNENFZkVCcFlmVGI1dEJ2cHNlSQ?oc=5",
+    "author": "",
+    "summary": "After Powell, Can the Fed Stay Independent? WSJ",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-10T13:12:38.351384"
+  },
+  {
+    "id": "news_2026-03-10_ec3b26b6",
+    "date": "2026-03-10",
+    "title": "Powell says Cook Supreme Court case is the most important in the Fed's 113-year history",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RVY4TVJYb3MxRGtiemNXWXBvQUFQM0pLYkZzcGx3d0RlS01VOXgySDJnQVozWjFaeUx1cGFUWWEyd0hYTFRZalhSY2lpN0VkM0JHQW5yVkszMnNLTkJTcmhXUEpNUTZ4NWh4azFxWVPSAXZBVV95cUxQTDdtMlg2SUdKYmNINVdJOUcxSlhSMVhSdU9CQVVGcHZFM3RGMUNvVVdiaVJGaE1fQTVJZXpqZ3oya1RVcFIwVXRzc3NsYkFnNkQzX0RIMk9vaENRUWhRN1JHeGF6VDhTU1o0S1k2YkhwT2ttMXVn?oc=5",
+    "author": "Alex Harring",
+    "summary": "Federal Reserve Chair Jerome Powell on Wednesday explained his controversial decision to attend Fed Governor Lisa Cook's Supreme Court hearing, saying the case could have a major effect on the central bank's independence.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-10T13:12:40.982101",
+    "html_path": "data/news/news_2026-03-10_ec3b26b6.html"
+  },
+  {
+    "id": "news_2026-03-10_902d5417",
+    "date": "2026-03-10",
+    "title": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPanJ0ZWxLUG9pNkp2WVJ6QWNqcFBfZ24yRGdnaldUeTJuWklyd01fR25BYzUwNWlYTV9PRUxnaXFzQzJaOWdrS1NnNHc5OERLaThzSldadGxNUnlNVndnMGlVajNxWDlZS0xqZ25XQ1ZpMlNfTU1lVXFoX3VNSVJ3MEh1VG9OWjIzUFBYVTYtWEdrbHI0bU5SdlQ1Z1lPeUUxSTAxWWRVNmlwem13aFRFeXZCM1FVX09ockhwWHQ1NjI3NVprTFB0eEFiZkJDdjhjcVc0SUUyQW1vZVBERmhfaGNFLU4weXdKZ0VhamxxUGhaalRUQkJ0X0diczJONFltWW50RGtmZmVHeXRJOTcxeHlzUEh0TGtHX0cwcTRPMGR1S2pmT3l1VDZvYW1nZmZBZy1NOWlWX0RESWhuaVVUTUF4c1F4bk1TVVhWRHNxLXE3U0dzZ0h5azhjZHpGV2NEQkhFUTJCQ1hzM2h0WXpZaXEyUUVlNDhQYWk3UHJ5UQ?oc=5",
+    "author": "",
+    "summary": "Stock Market News for Jan. 28, 2026: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher WSJ.",
+    "tags": [
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-10T13:12:48.364102"
+  },
+  {
     "id": "news_2026-03-09_733f8527",
     "date": "2026-03-09",
     "title": "US labor market weakness puts Federal Reserve in tough spot",
