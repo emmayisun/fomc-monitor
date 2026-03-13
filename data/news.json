@@ -114,6 +114,25 @@
     "scraped_at": "2026-03-13T13:10:17.695187"
   },
   {
+    "id": "news_2026-03-13_abbeb7ce",
+    "date": "2026-03-13",
+    "title": "When will mortgage rates go down? War in the Middle East clouds the outlook.",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSk9XUXRVU3p2cU9ha2JHTk83ZkNRU3ZzVzluQ2t4Nm5teUFfNjRsenZhV3kwQmkyTzBYTHlZaTgweFhwUmlQTG1iNzNKVUJWQzZOdTlaendVNkp1ZER2dlgwZjlPbnA1aWFHdTZnaGo5Rlg5ODI5Q2RReHJOV2UyZ0pyM0FoRmRCb1NnSnBfR1Z2SDE2NkxGM0hBVHl1ZmJVTzN2MFIxQUtKeGN0NnQwQjV6WGVDMk9OTXdZZG5fWQ?oc=5",
+    "author": "E Napoletano",
+    "summary": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. The national average 30-year rate has risen from recent lows — now sitting at 6.11%, according to Freddie Mac.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "FOMC",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-13T18:51:08.350291",
+    "html_path": "data/news/news_2026-03-13_abbeb7ce.html"
+  },
+  {
     "id": "news_2026-03-12_d4a1bc60",
     "date": "2026-03-12",
     "title": "A Compromised Fed Would Risk a Fiscal Crisis",
