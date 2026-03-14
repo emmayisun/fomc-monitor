@@ -1,5 +1,123 @@
 [
   {
+    "id": "news_2026-03-14_c79afcbf",
+    "date": "2026-03-14",
+    "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEZLdG1uWWxlc29sbzRNWWVfcmtwZU81VHdnRGVMTkNmSmpId2VQdS1Yck5jVnhQOTB6TWJwMFhyNF9JUVIzRFJjbUp0blZ6YXRwZm5OaEFrckxKeENHTGFpMmowQmdPMDVpMGtlbzBaUE9jTTVUTmxMLUM2ekY0bThoYVF2RzZuREM1NNIBkgFBVV95cUxONTN4VGx6RHRhVW1XNTNMLTRDcVRSQTgwdTI0bFYtS203aEk1TlJqTTNzV0pHNTlic0NFUEJPYnZwZUJzLXdqbjJvbnAtMjdkZERmV0pGOHpRMDROX1VtaXJXQmd1eE1lOGw2MmVnT0JJVUEtWTktb1pXemRERkNwZHItNU51OUp3d1JZRERjWjY4QQ?oc=5",
+    "author": "Dan Mangan",
+    "summary": "A federal judge in a scathing ruling blocked subpoenas issued by a grand jury to the Federal Reserve as part of a criminal investigation of Chair Jerome Powell.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-14T02:29:50.735207",
+    "html_path": "data/news/news_2026-03-14_c79afcbf.html"
+  },
+  {
+    "id": "news_2026-03-14_d5529239",
+    "date": "2026-03-14",
+    "title": "Judge Quashes Justice Dept.’s Subpoenas of Fed, Crippling Its Pursuit of Trump’s Rivals",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzlxeDJvbHF0cWRBXzBsamRjRGRiMUp2Sng5aUhtWHU1bHd1a1kydmtsTDEwdGVnVF9BeVRIX0dSb09ZcTVMOEFzUVdGVkc1YnZidEN3UU9MUmNWUi14QW9UelE3UGU5UnN1dXVybDNPeUpUZU02Z2xHTGx5WVFxOEVwcmR4VnY3?oc=5",
+    "author": "",
+    "summary": "Judge Quashes Justice Dept.’s Subpoenas of Fed, Crippling Its Pursuit of Trump’s Rivals The New York Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:29:52.324533",
+    "html_path": "data/news/news_2026-03-14_d5529239.html"
+  },
+  {
+    "id": "news_2026-03-14_6454a368",
+    "date": "2026-03-14",
+    "title": "Court blocks Justice Department subpoenas of Federal Reserve",
+    "source": "The Washington Post",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJnQkdNcWs0d0czWW11SHpBQmZZUDJuakFZT1FUQ1lHVW96UDFsNk53T1J4SXpoVmJEeFAtM0ZPMXQzOFlMLW9za0Q3TVhEOUtnQVVkcXRkS0F4dUx0Zkdvb282MTdwSjFUSHF6THktbHJJaVpaaUdGSVlLbzFMQ19JNWFKSWVqbk9vWHlSY1UyUEYzS1RRNkRzQVZRT2s?oc=5",
+    "author": "",
+    "summary": "Court blocks Justice Department subpoenas of Federal Reserve The Washington Post",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:30:23.938937"
+  },
+  {
+    "id": "news_2026-03-14_176f886f",
+    "date": "2026-03-14",
+    "title": "Judge throws out subpoenas in Federal Reserve criminal probe",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEhGdTEtVHNqaG05bEVSdlpHOEhvQmc4aC1ZOVFTNE9LVnpiZUhTUHZjajJEcnZwN1ZhVC1Gem5EbEZwTXNhNzVWVUpTblpCZTkwY0xpQ1BENTlIdDVWc0xKR2RtUVA5amZ2VjJFVGJJMmZsdkc4eDhMQy1uN1JFQkpSQzY5bWNXY1RXNnJGekFsbk1wVFh1UHNLMl9ZWF9HYXRyN21PYU1HUQ?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "A federal judge on Friday threw out two subpoenas the Justice Department issued to the Federal Reserve, all but branding the criminal probe invalid and handing a significant victory to the Fed and its embattled Chair Jerome Powell.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-14T02:30:26.441067",
+    "html_path": "data/news/news_2026-03-14_176f886f.html"
+  },
+  {
+    "id": "news_2026-03-14_f851d7d3",
+    "date": "2026-03-14",
+    "title": "Powell's attorneys discussed the possibility of his remaining on Fed board",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXZMRlZoZXpmQUVkQ3B6RzUwN19nRVJ4Uk9lbExQRGNlRGJ2eVRWS2l6amJQd1lBRDAwUVo3bHA3b3JmZ1dXUThLMG40LWhLS1ljVV9hODJQSUliM0hnV05lWU9aUUJLMFhjN1NtVFlKUWh2YWg4S19SWFZpeU9vODUtYTFXT3ZUQVY2czc3SGlsbnUtQmpqX2QxbkFad2l4cUh6cnRBajQzVFM1aExkXzRvODlmUmM?oc=5",
+    "author": "",
+    "summary": "Powell's attorneys discussed the possibility of his remaining on Fed board Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:30:28.096516"
+  },
+  {
+    "id": "news_2026-03-14_37b6e79f",
+    "date": "2026-03-14",
+    "title": "Subpoenas against Fed chair Powell tossed in a scathing opinion",
+    "source": "Axios",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaS1dTa3hBMS05aG1ZalBEeHdPU3p6ZXM2bDB0ekIyb0NzYVZOVzRHT0dKN2NWeWFhSkp5TUp5Y0I2NFAtRmM4V1IzLXhsRldDUk5oOU9vQ3dZOFBRMm84MVpqQ3dGUQ?oc=5",
+    "author": "",
+    "summary": "Subpoenas against Fed chair Powell tossed in a scathing opinion Axios",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:30:29.690129"
+  },
+  {
+    "id": "news_2026-03-14_a76c9f60",
+    "date": "2026-03-14",
+    "title": "Nvidia GTC, Macy's earnings, FOMC meeting: What to Watch",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVlMbDE4dXZCUkNES0ZxWm9MU1dFNGxEUHh3di10Z0lmZmJ0WEF5ejh4WkJxTV9kMEhraUF6T014NXkxNkdBSnFvel9DYWlEbXQ1NzhFbjJWS1ZRbGRaN1BNWldhLWpOalE1MURKZ1RjRjg3NGhFZVBDZElKcGduc1otZw?oc=5",
+    "author": "Yahoo Finance Video",
+    "summary": "Asking for a Trend Host Josh Lipton takes a look at the top stories for investors to watch. Nvidia (NVDA) holds its GTC event, kicking off in San Jose this Monday, March 16. Dollar Tree (DLTR), Lululemon (LULU), Five Below (FIVE), and Macy's (M) are reporting earnings throughout next week.",
+    "tags": [
+      "FOMC",
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:30:32.144857",
+    "html_path": "data/news/news_2026-03-14_a76c9f60.html"
+  },
+  {
+    "id": "news_2026-03-14_84ff7072",
+    "date": "2026-03-14",
+    "title": "Warsh Fed nomination stays on hold while legal battle over Powell continues",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVh5akpjU1RhWVEweFhfWXJfM0c4Y2QyMWlZRmV1d2tYZ29VVTVfM3JaZ3dzUXo4djJ6Y2xDczB3MWh0clhacUlHdjhGek8zcEY5dklqVDF0TTQzcTBRaFRhQVdYdjdxRWdua2JUNUp1bUkzWnd6MkNUa3Z6OF9KM2xYMWF2VWt2Rmg3dTdOTG94cGIzTEE3T1VET25DeFc3clMzRFN1TU5nLVZOS05tcHZTdXpFUmNX?oc=5",
+    "author": "",
+    "summary": "Warsh Fed nomination stays on hold while legal battle over Powell continues Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-14T02:30:39.675564"
+  },
+  {
     "id": "news_2026-03-13_e1ccc70f",
     "date": "2026-03-13",
     "title": "Federal Reserve to loosen capital requirements for big US banks",
