@@ -1,5 +1,38 @@
 [
   {
+    "id": "news_2026-03-15_0126d152",
+    "date": "2026-03-15",
+    "title": "Judge Rejects Subpoenas of Fed in Powell Case; DOJ to Appeal",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUJldXdPc2pkemt6eHJNbTJCUkg0aTE1ZzVrWW5JODR6R0tLTXNrbEdQblpiZXhVcEtpcGRobzROcW1mWjdIZVdwcUI1WFBWU1ZCMGV1ZXRFZjlrRFRpU1FHRnFFRVR1cG5fRi1hVkQ1VnVtbkQxUVYyT2o2SGJlaFNTZE1hYTFkWUtxMVk2ZHdObUNLOUJBb3JuU3JaTkVRelBwc2dMMXBMZw?oc=5",
+    "author": "",
+    "summary": "Judge Rejects Subpoenas of Fed in Powell Case; DOJ to Appeal Bloomberg.com",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-15T02:50:26.880421"
+  },
+  {
+    "id": "news_2026-03-15_aa3fc4e4",
+    "date": "2026-03-15",
+    "title": "Trump again pushes Powell to drop interest rates ‘IMMEDIATELY’ — but a zero-cut year looks increasingly likely",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcVJvdmEwUVYxSXNsUjV3WE1jMlVBVTBSdkM3YlpfN09EN256Nkg2d1ZPRGpHeVV0RU56UjVUR3o5YXc5ZDdTcGxueno0TlhRc25vaWRncFdMM0J0UnN3RnB2ZExIWlI4aHFpNmZKcWEtRWNWY05JN21FdzdSQWs?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "President Donald Trump may have his focus set on the conflict in the Middle East, but he’s still finding time to harrass Fed chairman Jerome Powell.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-15T02:50:33.536915",
+    "html_path": "data/news/news_2026-03-15_aa3fc4e4.html"
+  },
+  {
     "id": "news_2026-03-14_c79afcbf",
     "date": "2026-03-14",
     "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
