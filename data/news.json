@@ -47,6 +47,44 @@
     "scraped_at": "2026-03-15T07:05:12.654121"
   },
   {
+    "id": "news_2026-03-15_22f43662",
+    "date": "2026-03-15",
+    "title": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTRLVm5sN1RrQnI4V3VjUk8yZmR3WTh4RDZEVms5TDBLVHRDb2RjTTB3UFNpTlotMkFUTGZYWHQ2SmpSaDN5am0tRDJfNjVnUUFLMGFXdUFaUw?oc=5",
+    "author": "Jake Conley",
+    "summary": "US equities ended the week in the red Friday as the war in Iran heads into its third week and attention increasingly turns toward the impact of runaway oil prices on inflation. The S&P 500 (^GSPC) closed out Friday down 0.6% for a loss of 1.6% on the week.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-15T13:03:59.585110",
+    "html_path": "data/news/news_2026-03-15_22f43662.html"
+  },
+  {
+    "id": "news_2026-03-15_8e29d5de",
+    "date": "2026-03-15",
+    "title": "What to Expect in Markets This Week: Fed Interest Rate Decision, Powell Press Conference, Earnings from Micron and FedEx",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG9RZ1o2ZWpaUFpfV1U3Z0FpV0F6cVVQQi1jVWZYTWVRWE5EbllUM2laZGhCY1doaTNFTHp1b2djbG5RbG00aWU4UWw1X2dXdFU1dEZVRmM1M3dnR09CYU81dlBlOXdpV2F6NlpWX2hMNnJNcEFvRVp3UGNHQ0dESGVvTFQ?oc=5",
+    "author": "Terry Lane",
+    "summary": "What to Expect in Markets This Week: Fed Interest Rate Decision, Powell Press Conference, Earnings from Micron and FedEx\nA Federal Reserve announcement on interest rates, comments from Fed Chair Jerome Powell, and earnings from AI darling Micron are on the way this week.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-15T13:04:01.801631",
+    "html_path": "data/news/news_2026-03-15_8e29d5de.html"
+  },
+  {
     "id": "news_2026-03-14_c79afcbf",
     "date": "2026-03-14",
     "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
