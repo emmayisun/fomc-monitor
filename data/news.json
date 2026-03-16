@@ -28,6 +28,44 @@
     "scraped_at": "2026-03-16T07:25:33.732028"
   },
   {
+    "id": "news_2026-03-16_20126653",
+    "date": "2026-03-16",
+    "title": "Oil price spike likely to keep rates on hold but deepen divisions among Fed officials this week",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDY3LUxRRFg5YzFreXNXYjZKQmxnYVFFTVFUR3ZFLTRvNUFtUWFqeG41aWlhT19BNFZSTzJESUpRa1FjakFfejczYV9Sa3QzTmRqN2NCaDRBSlhuNlRVbnEwSWJSdlljaGZBZ1BhTzY3ejJ5N1JUTkVaSVdlWXlqMUFtMnJzZjNiU1BMTVZYYS1HRjI5dnJPYmFEcDZDZmhNemdmS1FleTdJaVRGTGw2dDktdnJrQWdfeGFhQVlNYWptbFhCRmd1bWxlemxRdkkzSE1OZEZETXI?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "As Federal Reserve officials gather for their two-day policy meeting this week, the oil shock from the Iran war could deepen divisions with the central bank over the path forward on interest rates.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-16T13:24:14.097225",
+    "html_path": "data/news/news_2026-03-16_20126653.html"
+  },
+  {
+    "id": "news_2026-03-16_c583069b",
+    "date": "2026-03-16",
+    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTV8yM2tUeklocXVhZXp4bzB5M2tTZUQ0OWZ2d3BNNVF2Z2pIbzhyODJha0R1WUhOaDNicE9zcjhMdVFvQ2RaU21UVjl3ZzY1SlMxZlB4SjhJTWRERTFwU19CMmVuQVQtQm5PQnREMW5LS3Nwc3E1LWh3QTdCQklfRVQ3emYyaWlGMjBqaktvb2ZLbFBZSnlTT01KYWpMaldSdkh4dWVKR192S3AwLWNNQmk2R3E4RUk?oc=5",
+    "author": "Ivana Pino",
+    "summary": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-16T13:24:26.199785",
+    "html_path": "data/news/news_2026-03-16_c583069b.html"
+  },
+  {
     "id": "news_2026-03-15_0126d152",
     "date": "2026-03-15",
     "title": "Judge Rejects Subpoenas of Fed in Powell Case; DOJ to Appeal",
