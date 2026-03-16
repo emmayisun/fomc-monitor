@@ -66,6 +66,25 @@
     "html_path": "data/news/news_2026-03-16_c583069b.html"
   },
   {
+    "id": "news_2026-03-16_c3802fd7",
+    "date": "2026-03-16",
+    "title": "At Powell's penultimate Fed meeting, don't expect many rate cut hints",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTRGeVlQSEJ1QmlmSjdZTElCY1J6QlhMbnMwMzg3M0tINXdLcDNDOXZtTktzT2ZZQzlDX1dLc3ViODdZMnMyWW9NYmZyR29oS214QzJ3b1IyTEc3YUUwQzZUcGVpOE5zYThmSzhETUd2NGgyc2NBbnY1VkZFOE9fN0d4SFZTeWVEbHc?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "In a matter of months, a new face will stand behind the lectern at the U.S. Federal Reserve, following the meeting of its rate-setting committee.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-16T19:10:49.846753",
+    "html_path": "data/news/news_2026-03-16_c3802fd7.html"
+  },
+  {
     "id": "news_2026-03-15_0126d152",
     "date": "2026-03-15",
     "title": "Judge Rejects Subpoenas of Fed in Powell Case; DOJ to Appeal",
