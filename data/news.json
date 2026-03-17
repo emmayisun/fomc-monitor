@@ -38,6 +38,126 @@
     "scraped_at": "2026-03-17T07:11:57.759805"
   },
   {
+    "id": "news_2026-03-17_6993afc6",
+    "date": "2026-03-17",
+    "title": "Fed to present an updated outlook looking through the fog of war",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTBSYUdOUk1XRGhzTHdLcmpQM1NHNzB0WmpoZVFodkJaZ3ljZjBCSmR1ZkM5ZG02MkhBNXNJMldDZjRYSURFNnRDa182d3RqWmdWcWNtS3ZWR1ZnWE9QdTlCVmFHR0diS2xBc0pBMnVsZmJGSXl3OGhyalBmMU1VaW81WEJzRlJWaUZUQ01tQTNXT0EySWIwaDdlR2hubnM1?oc=5",
+    "author": "",
+    "summary": "Fed to present an updated outlook looking through the fog of war Reuters",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-17T13:22:54.491062"
+  },
+  {
+    "id": "news_2026-03-17_b5e27334",
+    "date": "2026-03-17",
+    "title": "Federal Reserve live coverage: Fed expected to hold rates steady, offer updated outlook amid Iran war",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHhmZWwtcVM5emZGN0w2LXNpZUJmYXFiUHhsU2dhTUluQWI2bjVuWVBfcmVfUlZ0SzBGRXlPTnJpNTJSNHZvS3N4SGRLNERvQXg2Qk0tSzUxS3ZBaXQ4NHF1ZlBvQ250RnVfREhWVUZQSUlDa1h6TTRUUlRuMHdYVm9NeE5GeDFqZ3RqR1k2TkZFM25ibUlBWHhCb2s1MHFubWhfQmdFYS1NUXRPZ3dydXY1d21EMTBJbXpiY0xrVk13OERNNkVtbE1sNE5DLXFzUkJPcUJsdDhCX2JROC1FUWR0aGU?oc=5",
+    "author": "Grace O'Donnell",
+    "summary": "The Federal Reserve is widely expected to keep interest rates unchanged at the end of its two-day policy meeting this week, but markets will be closely watching for signs of how the war in Iran could affect the Fed's inflation and economic growth outlook.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-17T13:22:56.539203",
+    "html_path": "data/news/news_2026-03-17_b5e27334.html"
+  },
+  {
+    "id": "news_2026-03-17_c17ce68e",
+    "date": "2026-03-17",
+    "title": "Iran conflict tests Federal Reserve's dual mandate",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVRWEFQMnl6NmFEZHRtMDQtRHR4RXhMREpNTVlZaGVmWDRRT3lMS2xoWDl1Ry1ySFN2dGRIcko5c0FDVWdjN2VjamM1a1hJOE83blB6ZGQyVm1tV3pJbEVtcUxSSmlRa0xLQTBDeFRhX055QU9QSTM2MlM2N1ZSSkphZlVid2RqS3c?oc=5",
+    "author": "Eleanor Mueller",
+    "summary": "The Federal Reserve must grapple today with how to weigh surging oil prices against shrinking payrolls in its first meeting since the Iran war began. Policymakers were already split over whether to prioritize persistent inflation or lackluster employment.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-17T13:22:58.580307",
+    "html_path": "data/news/news_2026-03-17_c17ce68e.html"
+  },
+  {
+    "id": "news_2026-03-17_51c88471",
+    "date": "2026-03-17",
+    "title": "Trump administration asks judge to revisit ruling blocking subpoenas to Fed's Powell",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcW9FNFRHd3BRczJuRVpBRW5UNlpqQjZvUDRVSm0xN002SnpZbU5oMXltVmFGRC1ONW9aaVdnSXhLbUwtV1VjUVdOQUwtUjM5YU1qOHZiUXlFbWxKYWpscWFOUzdJOXR5SXQyNFc1ZjBpcGk5T3NNMjN3emlxTjVaZ1VWblpFcHBkZF9QSVVSSWpSeXNNUkczeVF4a01qSGF6N1FuWjFCeExwOVVYZW5xWlYwT2NqaWRNQmFKdExwVXBnRlBucmM0amtSQS1JUQ?oc=5",
+    "author": "",
+    "summary": "Trump administration asks judge to revisit ruling blocking subpoenas to Fed's Powell Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-17T13:23:00.872848"
+  },
+  {
+    "id": "news_2026-03-17_d9898348",
+    "date": "2026-03-17",
+    "title": "The Fed is likely to hold rates steady with volatile oil prices and poor US jobs performance",
+    "source": "Business Insider",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFRXWDFSNFJGZmJGRE03bE92Ynl2VU9maU9UeEVFYkFCZFZKLVE3V1VuTDV1SU50dGk4aWdrc1ZZbE5YT0hEcnFLam1KcU9yM281QktXSm1IYjc1S2RWVWVrNERUdnNhc0dJSEdsbV91cldVcGp5aUViVlJVYkFQck1GcFNPSUFxOFBEWVFwTV93bG9hRVZj?oc=5",
+    "author": "Allie Kelly; Madison Hoff",
+    "summary": "- The Federal Reserve will announce its March interest rate decision on Wednesday afternoon. - It's likely the FOMC will hold rates steady, especially as the Iran war has sent oil markets into chaos. - The Fed will also release its first economic projections of 2026.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-17T13:23:03.454411",
+    "html_path": "data/news/news_2026-03-17_d9898348.html"
+  },
+  {
+    "id": "news_2026-03-17_90b527b3",
+    "date": "2026-03-17",
+    "title": "Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell",
+    "source": "Yahoo News Australia",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVNBMlI5cXZObVEtREdzaWJHZEtDQzM5dHJWNWFPOGFoQXpsU0VZcmNJcnc4d1VoelB3S0EwSENXZVJqQlVYd2xvNTFfalhXSEozbHc4bXBId19YNVZ6RzVfWVM5U3VyVFR2RFZkdExJT281aTVKVE5oZkpmZXlRd202NEVfQmlH?oc=5",
+    "author": "Tierney Sneed; Jake Tapper; Bryan Mena; CNN",
+    "summary": "Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell\nA federal judge has quashed subpoenas the Justice Department had issued against Federal Reserve Chair Jerome Powell, according to court documents unsealed Friday.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-17T13:23:06.403047",
+    "html_path": "data/news/news_2026-03-17_90b527b3.html"
+  },
+  {
+    "id": "news_2026-03-17_88434649",
+    "date": "2026-03-17",
+    "title": "Fed Meeting Begins as Iran War Complicates the Path for Interest Rate Cuts",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MYi1lSklXVzJmdWkwZ09pU0toSVc4b0U3RGpTRW1PZExYZEdXRHRtX2pjSGVLV2dBdWR2WmVvUFNuZXJBOGM0Z1RwMXZPWHVENnVKQ1hhZmhLYkZ1T2hhSnRRZExUSTdkaTBIS3N6cXJ2ZGR2TFpOeUtTWWk1QQ?oc=5",
+    "author": "Keith Griffith",
+    "summary": "Fed Meeting Begins as Iran War Complicates the Path for Interest Rate Cuts\nKeith Griffith\n6 min read\nFederal Reserve policymakers begin their two-day meeting on interest rate policy Tuesday, as the ongoing conflict with Iran has raised fears of a global energy crisis and clouded the path for rate cu...",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-17T13:23:09.613788",
+    "html_path": "data/news/news_2026-03-17_88434649.html"
+  },
+  {
     "id": "news_2026-03-16_7a68b0fc",
     "date": "2026-03-16",
     "title": "The Court Ruling in the Fed Chair’s Favor Is a Double-Edged Sword",
