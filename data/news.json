@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_2026-03-18_a24ec1db",
+    "date": "2026-03-18",
+    "title": "US judge throws out justice department subpoenas to Federal Reserve, citing ‘thin’ evidence",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGFlUUJKQk5zWFJWTnB0eVBNWFpMS2t6TUpHaHNNSjZCc1RWWEh2TDNMWVRMYjlMd2RJS3cwZ3JySFZiTWZXaHFnRmR2Q0I5TFh3clBMd18xLWVWNDlPMURDVG5hV3RlTUNPSC1lcllxWHhwNTFhNVg5d2l1WWJCc1VWeHM?oc=5",
+    "author": "",
+    "summary": "US judge throws out justice department subpoenas to Federal Reserve, citing ‘thin’ evidence Financial Times",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T02:40:13.843460",
+    "html_path": "data/news/news_2026-03-18_a24ec1db.html"
+  },
+  {
+    "id": "news_2026-03-18_0d6baa80",
+    "date": "2026-03-18",
+    "title": "Powell’s Second-to-Last Meeting Previews an Increasingly Divided Fed",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOZXEtcmxHM0E1bGw0dEFnSk5wX2tzbWlaTVdrTEpFa3hpZTN4S21BWUZ4SmpMai1PUmJnR1BLbTl0RWU5R2NyRTFzTmdfN0NsN2FKZmg2eF9oYWhpaF9yc0FpME1uTklSYzZMcVZ6T2ZaZlNMT25Ydnc4UnVENWdUMlFhTGJDQTExT3g5V0s1bWwxRlk0aWRTOU1pR3dBc2ZmZ0dGOWdOcFRSUmFFcGRrbWVmQWRlaUl5ZXJRT2tCZFVzYTB5YV9kMXhCNVlIdlJESzhSd3BjSUU4S0xDa3g2Vmxkb2RuSDU3UTl6NEhVWF9SX295cnBqOGtMZjd6YmxyeE5jNmdmOXNoZHBrSlFyaFo0eUVSenN2a1NXV3ZnNGdpTlBVZWpHcnR4ejFpd20taVdZaHIxaUY2ZTE3NVJQc2EzakFRY1JTSGZfa2JkeVBLcS04X0ZDTE44Mk9SVFpQMndIclR6RUZSSXpHQWJQZW9TUlA5dkx2UG1URWlqQldSUTA2SlhSUGpWLXRKNE85cWNfdExNYXRldXdFZ2lMQmt0VldIbl9PeFdnYVpSeGVmTDJEcGdQRDVaRGRQa29EckE?oc=5",
+    "author": "",
+    "summary": "Powell’s Second-to-Last Meeting Previews an Increasingly Divided Fed WSJ",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T02:40:19.265282"
+  },
+  {
+    "id": "news_2026-03-18_67b48280",
+    "date": "2026-03-18",
+    "title": "Pound pushes higher as markets brace for Fed and BoE interest rate decisions",
+    "source": "Yahoo Finance UK",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnhSQ1VZUXJLdnJBOEpPMkRlMXFhVmVBUHVxaGE4enVPVjRDeFAyenhkZ1dwRm84d1k3T2ZNS1F5ZFN0VXJJQy0yMTlad08tMHUybGptZGFkQW8xSmJhQmZHZDJMS2VWaUwza3o4NUk2d0ZET3Ffbl9lZUJUR0hHNXpZeXV5d3lqX2JhTTNfTWNJLXVZN09aT2VnTQ?oc=5",
+    "author": "Pedro Goncalves",
+    "summary": "The pound edged higher on Monday against its major peers as traders prepared for interest rate decisions from the US Federal Reserve and the Bank of England later this week. The pound was up 0.6% against the dollar (GBPUSD=X), at $1.3299 and steady versus the euro (GBPEUR=X), at €1.1575.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-18T02:40:25.521036",
+    "html_path": "data/news/news_2026-03-18_67b48280.html"
+  },
+  {
     "id": "news_2026-03-17_b8084316",
     "date": "2026-03-17",
     "title": "Fed to Hold Interest Rates Steady as Iran War Scrambles the Economic Outlook",
