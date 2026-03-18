@@ -209,6 +209,172 @@
     "scraped_at": "2026-03-18T13:24:23.881888"
   },
   {
+    "id": "news_2026-03-18_36a054eb",
+    "date": "2026-03-18",
+    "title": "Live Updates: Federal Reserve Leaves Interest Rates Unchanged",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXdQVGN0NlNHN0JKakpoZDZZUzlqcUo2ZS0xS25zX0RxLXIxMVpOYS01RHV1QnV2M19UWXZJVk5QNHlma2o3SEtuSzcyRzRfR3BqR0pBdloybnN5VTdWWC1WeWFDcERpOFZYQ1ZMcng2czJSSDVURWFaVTJfeWtTZEFwZG42Zw?oc=5",
+    "author": "",
+    "summary": "Live Updates: Federal Reserve Leaves Interest Rates Unchanged The New York Times",
+    "tags": [
+      "Interest Rates"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:08:19.830572"
+  },
+  {
+    "id": "news_2026-03-18_d8093287",
+    "date": "2026-03-18",
+    "title": "Fed meeting live: Powell speaks after interest rates kept on hold",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclNIZVIwRS1tS3lkS3kwazNHS0VOMEEyUFlDOVhIR1MzcUtSWEFGWDMyRTdybXdIMDBNS3dNanZwSEtna0s2dHZfaktYX3BtTDUzUWtVbl9ZbEY3U2FtcHpwT0I1dE85eEw2ZkdMMnJRQVNXaXdkUEJYVGV5dndLbklwN0pzZ182TGhkdnJFcVBfWGVZdnBfZ3RoU0gwcXlUZm9GRk1QbUxUSVV5MFhnTDlqODRMdl9zQnlHZjRTS2M?oc=5",
+    "author": "",
+    "summary": "Fed meeting live: Powell speaks after interest rates kept on hold Reuters",
+    "tags": [
+      "Interest Rates",
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:08:22.220956"
+  },
+  {
+    "id": "news_2026-03-18_32e28156",
+    "date": "2026-03-18",
+    "title": "Fed meeting live updates: Federal Reserve holds interest rates steady, forecasts 1 rate cut in 2026",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTh4RGVLU19YNXMzQnp1OXo0U3hIeDJPSjZtT2ZxT2FxdkhaUFhPWEVrY3BjMG1PdUswLWE4WDFjRThnX0xkVXZZM1VEOEtBc2xlWjJnN3hwWVhoWWQyb1FrTUJPbDNfQU5Pcnk3OThkaXdXVzVwWTNqemg0OWNfNlV3a3ItM3dOdjJLWDNKVlJ4NEJCZkh3R1g3MmdwZEsydXRFSENxQ3dhelNvdW9XQkpLcnFIQkRSUG5fcmZBWDV4cTEzY1drbG1EemUxVnVVNU96dUh3?oc=5",
+    "author": "Grace O'Donnell; Brooke DiPalma; Myles Udland; Jake Conley; Jared Blikre",
+    "summary": "Fed meeting live updates: Federal Reserve holds interest rates steady, forecasts 1 rate cut in 2026\nThe Federal Reserve kept interest rates unchanged in the 3.5%-3.75% range at the end of its two-day policy meeting on Wednesday, as widely expected.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-18T19:08:24.765836",
+    "html_path": "data/news/news_2026-03-18_32e28156.html"
+  },
+  {
+    "id": "news_2026-03-18_706664e7",
+    "date": "2026-03-18",
+    "title": "Fed holds rates steady as war in Iran clouds outlook",
+    "source": "The Washington Post",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJvV08wZzFFTlVGUENRMGJKalhWcTc3LXNweEVtTUhkT0tBemE3elF1cFFWbUxObllQMlZaaHlJRGNwN0lOZG1sdklwUzR2aVpNQUZJMkJIZ1R6LUJZaGJ3dS0yZHFLcE5QQmZGQUVzNHp0MGZJZ1JacEtCd2MzMHFiLWhfeERJNmNkVFdR?oc=5",
+    "author": "",
+    "summary": "Fed holds rates steady as war in Iran clouds outlook The Washington Post",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:08:57.120123"
+  },
+  {
+    "id": "news_2026-03-18_85ac5de3",
+    "date": "2026-03-18",
+    "title": "Fed keeps rates on hold, signals one rate cut as Iran war stokes uncertainty",
+    "source": "Axios",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paFFxZTdOZ2Z1ZU9HSVZXYV9KcU0wYlNQdjlOd0kyaHViSlNVTTNyUkZIek0wN2E4ZWl2SDJfaWRfREpWREVKY0Q5cmNTRGpIU2FLaU00QTM4UlZGcDh5SVIyWFMzWng5?oc=5",
+    "author": "",
+    "summary": "Fed keeps rates on hold, signals one rate cut as Iran war stokes uncertainty Axios",
+    "tags": [
+      "Interest Rates"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:08:58.501348"
+  },
+  {
+    "id": "news_2026-03-18_7431e8af",
+    "date": "2026-03-18",
+    "title": "The Fed holds rates steady and punts on the Middle East: ‘uncertain’",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGlhcGp6WFpJZVBuZXI3c2V2THN6YWNCbEtfSW4xWXNzZ0ZqNHdITXVpLU0tTDNqaGZCUnNGRDlLWU10emdJRkNMYldPOGd3UnA4WEUwWU5LQUg3Zno0dGdmOUVZUnoxS05WZkVQWG9OWjZjNFdhbDgxaEREdV9NTUQ2Ty0yUTlqV3FGNFJGd3EyZm54aGNxdw?oc=5",
+    "author": "Eva Roytburg",
+    "summary": "The Federal Reserve held rates steady Wednesday for the second meeting in a row as the war in Iran clouds an already murky economic picture.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-18T19:08:59.941333",
+    "html_path": "data/news/news_2026-03-18_7431e8af.html"
+  },
+  {
+    "id": "news_2026-03-18_6361ff33",
+    "date": "2026-03-18",
+    "title": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNZ1NwSm4xU1VCOHJmWnB2MTgwRUwwaHN5ZTN4dFJsa3JQbGxsUC1DcUxNQl9BSXNRY2dUOWlTS2FScHI3S0ZOZ0Nfem9SbnhQUElSVU5OOWhlNWktQ0o5WVdBc1dnR0k2UVg3TUxqaldDY2hKRzB6N2ZMamZMYlAzTUFJc0VYR0JoanJva0dkVWp0azlRUzhFQnVFWFRWcVlnRl95OUd0ZDQ3Mmo4Tktndm5NdE5HeWZjRVdNTXVadC1rdlhjSkM0bFRkX01uMmdIYzdmOUFwOWVSR0k3bDNURmVybzBQMVF5RTlDSzVsUlNPSlRCcXA4UHl1dUV1WjNoNWFVRnBuQTItblhSYUNIal9hbVlFS0FsdU5UamZVYXBfNWZQZUFWRDdqazk0aHFjSGNydFlCRnRkVmZjQ1lFbngwVkFPR05YWDNyNnlndk91cmp0M0VfbmcwLWpMTkZCX0YxS2VHNjNHTTBab3pKSU9IMFlweEwwQVpnemxZdDVyUldUS1RnbjJMWUI?oc=5",
+    "author": "",
+    "summary": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision WSJ",
+    "tags": [
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:09:02.399080"
+  },
+  {
+    "id": "news_2026-03-18_a10318da",
+    "date": "2026-03-18",
+    "title": "Fed Meeting Today: The Central Bank Holds Rates Steady, Points to One Cut This Year",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQYU1NUHRWejNoeGMxVkVRMmVYNjF2OU1wVVBwYzV5dk5fYXc1TndOSm01YXV5bHFLQlBRNi1hTEZ3eWF3NWVNLWxEYWFuYmtkbERVRzNTVi1kSmRod3FXSlhSNlh2clRIcHBEQlRDRUN2Y1J2QWM2Rl8xN2NQNlhaWTJIYVdvNFdfaEhCMGQyOTVQTVdpZlVDT2RDT1I2eXVqRnFzMjlSVGtnZU41c3RadGRqeDA3emdyOEM3V2JJbUdUTDdnR0Z5dUZHMnFWYnNsSHFtT2JmVlFBb0I1TzY4b25xWEh4UGNaYmdCLXZOeHRNdVNIREJCZURTV3F2YThEdlZyYlJkR2wzVzUyLVYzM3Z3VTA2azNUX09FQWZGUzliUXpXMkk5UlVNWW13TFlzQkZKWElERnpmNGl5eEJDTUlOZi1Ma3BmRTl3Ul9mQy15UEY4M3RRTDRKUlRiLTZQSEluSlZMZlRHbUF3YjZkamhlcTVxWlJQeW5ZbXVVNE5LSTZnZjNBMzlud3hnQWtaRWlVZE45Sm5YVVdQcTZr?oc=5",
+    "author": "",
+    "summary": "Fed Meeting Today: The Central Bank Holds Rates Steady, Points to One Cut This Year Barron's",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:09:03.771531"
+  },
+  {
+    "id": "news_2026-03-18_c59c2f8e",
+    "date": "2026-03-18",
+    "title": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOSGMzTF9IZEp1MzVHNzNKSWY5MDBzQkprRWs1NzVvUzh4S0x3NnpTLWlzRFNKLU9ZbFZwSzZkcUIzb0NsSFlId0hQVVFyWnVtQWpZNFMyell5dm85V3FxU2NobC1namNfUzhfbWxycHZFN1h6SjlhcDNpVGxFdkZPelo2c2xKY3JOYl91SDRhQWxvenoyZnhuNE9uaGxEbEFqUzlmV2lVQTM1N1hVQ3pNOFlnMWlFWVV4Y3dBOFJDYzBNOU5BVlBLLUNKUEFodWVrUXM1OTlTdTU0ajMtbmQ5RHF0S0t6MlBuT2NwekVPWHRJcmNyMEVDSUhRd1hKTkZIaGhZTHZkSXhzUlpBZzgzS3lKd1JiclJyNmRLNXdXZU1hZ29XbGl0cXowTWxCUzRYd0tfRGRCbExwNUVNR2NUcldlaXZ6elBucktpNUg1a1FvY0pBd0IxZmhxLWNqQTZWaHhMYXBsSmFfZU5sQS1OdnNQNmhJM283aVZDcnRMY1NvQ2F0OVBKWmFmWTU?oc=5",
+    "author": "",
+    "summary": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision WSJ",
+    "tags": [
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:09:06.085825"
+  },
+  {
+    "id": "news_2026-03-18_f257d00f",
+    "date": "2026-03-18",
+    "title": "Fed Meeting Today: The Central Bank Holds Rates Steady, Points to One Cut This Year",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPU3N5RmZrNjc0Y19MczEwbGhuUExPaGs3SkVYVmNDbVRER2pwakxwSGtOWlNvTGltc2hYR1I5V1hMMm5hS1ZVOENaXzd0bW0tTlRqR3prZFBIV1luNjJVdE8tSS1oR19wUzJRSk9uS3g0blVvZy1Gek5UbE1nYV9qRV9LSDNEVExrRGZfZldPWHVXWVdRazZ4Rkh0ZGplb2N6cU9ZR2FwX3ptRDJ3TXIxdDZnRG1SLXdBdWZRMS15MGw2LWw4VjRGNTRsLVJtRGRWUTN2b1VsLTJudEN3VTNuUkFWMG51OG05RG00YmdOaGd2R2QySmthaHp0S0hCM3VMUzl1cUFLaXRqRDJxQmFJd1NrUzdJaFRDQllZLTlQaDVYd3lzcEMwQy1tTk5IMm02cFBqaUk0TE5PeVdBS2trVFZyUjFaUUctVHBHQ05EWVpFM3JEN05FaUhTd0NOeW9vSFRyYzgxUG11MDRiY0FaX2xSMVpaRm1wTVNYMUpYSWFINGdNb3JLZk1yX19kYmRSV21Hd2lxM3I1LVVndG4w?oc=5",
+    "author": "",
+    "summary": "Fed Meeting Today: The Central Bank Holds Rates Steady, Points to One Cut This Year Barron's",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:09:07.436576"
+  },
+  {
+    "id": "news_2026-03-18_c5e8d845",
+    "date": "2026-03-18",
+    "title": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOX1c0ck5JeElXckRWYlA4NTBTc3pTa0ROak9qTmNjSVpORThLWGlsc0pvdW5KNDJLd1k3ckV5cnF2S2pNbF80azBrOUNvUkhnMy1mTHIxQmt5aG5TbEZ5ZXc5WGZoSXBNb0hZSm4zeHRpaUM5UmM1UHUxakVBbkptWVo2ZU5XZEFkZjBjMG51MnlVWkh4bW9TZjFRbFR4bnJGODNnOVZNeDJ5TUJzYngyd19OTzhHbDN3bml1OWM4V1BNMjlYaHd0TXp6QjdXS1dUUVc0VzNadnI3QTVDckx6Smtjb1pBNWM3aHdSdUg3TDY1OWd6ZklnejFzQ0FtWEl3SURJeE9aVmdETnNjVDhWQ0ZyUGhnSkRuc2lTUWlZd2wwN0dvUHFGUjl5TVJTQ2lDa1NYTW1JSUNHYzY3MU1id0Q3NlAxNVBlQ2FBbXRQeTZiMjREUGJNc2d6MUhrbzM0SVMtbUlZYjFkWTRscjV2T2NIeHlCclhBRktXZDZKckxIOVBqRUQ2WnV0Rnc?oc=5",
+    "author": "",
+    "summary": "Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision WSJ",
+    "tags": [
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-18T19:09:09.770518"
+  },
+  {
     "id": "news_2026-03-17_b8084316",
     "date": "2026-03-17",
     "title": "Fed to Hold Interest Rates Steady as Iran War Scrambles the Economic Outlook",
