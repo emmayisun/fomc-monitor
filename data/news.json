@@ -241,6 +241,67 @@
     "scraped_at": "2026-03-19T07:05:02.217489"
   },
   {
+    "id": "news_2026-03-19_f342d110",
+    "date": "2026-03-19",
+    "title": "Here are the five key takeaways from this week's Fed meeting",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDh5UTlRaFpTaHBtYkhadGtUNjFrQWx3aklfLURSbEtXaDYwdlRYR3NGUGZ3SjJNcHVjQ1BIc096cHZiS0xWT2R1djZtaTFnSXdVUnJ0VDl3bHpFSmwzZkVQSWFJNV9IUWdDSC1kWUtXMDZOWE13eUFwNEF5ZmVQS0sxMkJReTRpNkp3LXF4bjJ1SVhXX1NtbFJzRHfSAaIBQVVfeXFMTzByeWpCSUJuVG53a1JnaEtvZjdvdG5jaEpySUlvS192TEliM05YUEVDLUJsVGpZazE2SV9oRXlObmwtMDBmU1p5M0VJRFZfMVJ4S3dFVHF6S1VoODd2YlFvQUpOajhXaVJSZTA1VWVvRlY3WkluZ1ppcW8zTTduZlFqTVZ0eG9iZzJad2JaWTNOMzg1dzFKWUNMSGxScTlsRndB?oc=5",
+    "author": "Jeff Cox",
+    "summary": "The Federal Reserve on Wednesday voted to hold its benchmark interest rate steady, while adjusting its projections for the economy and the future path of monetary policy. In addition, Chair Jerome Powell covered a variety of topics in his post-meeting news conference.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-19T13:16:53.228884",
+    "html_path": "data/news/news_2026-03-19_f342d110.html"
+  },
+  {
+    "id": "news_2026-03-19_a3646a85",
+    "date": "2026-03-19",
+    "title": "Fed Meeting Today: Powell Is Watching Iran and Will Stay Until Successor Is Confirmed",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOYk9XMXBnMWRJZjZsYTJLYkZSLVQzZkJrdy1wRnhnMHBqcTRzSXItejBzQldFMHAyTDFYNE9WSnV1MFM1M25HaF9ZRGhidS1ocS1za2pxdmxFVEVfbjBQRTUwWHQzUXdzdi1BNUNnR1RGWXk4c0JMZ2xlLURzVXRZYzVfSjJ0MGx6SnZxXzAzX0swQVpkM0Z1RHZ5cDg0ejNPWXpyY2I3V2FNWnYzenJXWHhvaGJwa3lBbk1kWW9DMzlqN09sMGhFa1d6LXVidDhjR2hUTGFGREFxOHY2SFNRUzNPUHhBNmtSSF9kTmNoVl9JSUF6TG1OSW5yS2dZVk1uN0ZySlctSEI1bldOem9Vek5qUUlOUGVNOFl3RjZFd3J2UnYtZURIcmIyNktfangyaVZVbi1vTmpSZXctajZWcEpmTnZCQm1jS1d5Z1VDYUNEeEg2Q3QyOS1MQTYyeVJTUnZNLWNoZm1ESHRSMS0xVmM5R3RpQ05mMzN1Y3ZoYkNwT1Y3QktPc3d0M3hDNVdQazRnNFVEUVpDRjZGSXlF?oc=5",
+    "author": "",
+    "summary": "Fed Meeting Today: Powell Is Watching Iran and Will Stay Until Successor Is Confirmed Barron's",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-19T13:16:56.669034"
+  },
+  {
+    "id": "news_2026-03-19_da775df0",
+    "date": "2026-03-19",
+    "title": "Jerome Powell Decides to Stay Put. Good",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1l5NFFhTUtheUppa2U5VXE0V3MzUVVvc25qX0N5R2JWdlpFMHZqQk0yQk9jUXgwbEFzdmxKei14N2kwVXA0dWNZSE5ZQjljWkEtcEJZWi11SmpsSlg0ZFRrVWJEcVcwWVhiMkRYemd2U08xbjNpZEw4WDBnQUFMRHJLSkRTOUx5ZmlkYXlUMDBfZ20tMlIyVk1YbUJKR0k?oc=5",
+    "author": "",
+    "summary": "Jerome Powell Decides to Stay Put. Good Bloomberg.com",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-19T13:16:58.071893"
+  },
+  {
+    "id": "news_2026-03-19_7584a8e8",
+    "date": "2026-03-19",
+    "title": "Fed Meeting Today: Powell Is Watching Iran and Will Stay Until Successor Is Confirmed",
+    "source": "Barron's",
+    "source_url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNdS1kWFNTLWROUUpUY0c5bmd0YUdFYktKdGFEcVRGWXNHcG9uNzRSa2FEZTFUMmo4ZzdQNzFRd184T1RTYlp5emFLRGpwbndyY3dFM2VPRENVbHpYZ2NJdzJGa1VDM0UyNW1CXzhFQU0xRkxQRktXRzRaRTI5d3I3cTBfQ1dGZjJBSEZmYktYWHhRRktxd2lES1BpZWd3QXVfX3BhdDJGOWp3TGkwYXdocEtKV083QUtmRVpvMThRMFBHNnI5TWctbTF5eTg2MHNVNGJSNEMtZDdwYTREVU5pRm5STml1aUhnOE5zSTdYQVhlNW51ZU5XQWNtZDBpdDVmaXQ3T2pZUjJYXy03YWpTRkg4V1owaHQxMk01VUd3Nk50YWc3VXl0RGxxWl9WcjNFSWR4U2txVE5IX1VRTWV2VnJMY2otMU5NZkkwb3V4bnB3UjBwUll3dXZ4Rl9PV2JGYWJlcUtvXzB6SGJlbUh0VW1pZFV0NWxXVGNhZ2hld0RHOUpWMEZnNFZnOHBUYVB5MHhYNWItYXB4MVFoS1A0?oc=5",
+    "author": "",
+    "summary": "Fed Meeting Today: Powell Is Watching Iran and Will Stay Until Successor Is Confirmed Barron's",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-19T13:17:00.398678"
+  },
+  {
     "id": "news_2026-03-18_a24ec1db",
     "date": "2026-03-18",
     "title": "US judge throws out justice department subpoenas to Federal Reserve, citing ‘thin’ evidence",
