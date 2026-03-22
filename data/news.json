@@ -1,5 +1,93 @@
 [
   {
+    "id": "news_2026-03-22_2e77e600",
+    "date": "2026-03-22",
+    "title": "Fed Chair Powell lauds Volcker's 'willingness to resist'",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzFFR3pLejZZaHdSM0ZnTjJ1dVVCS1pfYzRSZmUwR05SamlSalJRdV9UOTFVNzFWNkhjYXNaUVlRM3hxUnFwZGZCbVRwRDNOWnNNNGpySDR5UktXUG5FRTk3Mi1ENXlMVlFSLS1HTW56S1pnQ056amlsQVdOVHZlMHVvcnk3a1hFVXN6Q0IybmZlNlEwbExvZHFyTQ?oc=5",
+    "author": "",
+    "summary": "Fed Chair Powell lauds Volcker's 'willingness to resist' Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-22T02:42:11.750626"
+  },
+  {
+    "id": "news_2026-03-22_986eb0f8",
+    "date": "2026-03-22",
+    "title": "3 big takeaways from the Fed's March meeting",
+    "source": "Business Insider",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzlxaXA2cmpsbm1zNG5CVHRLUDNLSTRHOXljRHozTXJNcl92b0NsbzJfdjBOb1N5bnRhRTlFZlQtbkJGWUpkZExvMHItRXpMd0w2djFvZk9FTE8xSGVydjQ0OFBqbWpobjFZWDFLcy14b2FPZm5va2JIcXRpZi1Zd3RETkhTTG5XLVZKZnB0alZBZ2VDMlBVbkNCdlZkRXV4eDVld25DMXRpcnBD?oc=5",
+    "author": "Allie Kelly",
+    "summary": "- The Fed opted to hold rates steady at its March meeting, as expected. - Chair Jerome Powell talked about jobs, inflation, oil prices, and AI productivity gains. - Powell hinted that he may remain at the central bank after his tenure ends in May.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T02:42:15.199262",
+    "html_path": "data/news/news_2026-03-22_986eb0f8.html"
+  },
+  {
+    "id": "news_2026-03-22_59d55392",
+    "date": "2026-03-22",
+    "title": "Fed Chair Powell: Vast majority of FOMC don't see rate hike at next meeting as base case",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlhKQy00LUtPTnVzS1lCUEZycmUtTHpBLTNaQkJibm54ZmkzWWZnS1U3akpuMXZIU3V0SzRrSFhHN1ZDMDhBTVFHVU1EV0syTUpiWVUwWmNWa2o4T2I3LUhBeUs0dzlFSER3ZG5JdFdpY1lwX3c3UHJtb3VfNExuS01NNlZzb3hnRXBHQkNISEZFMTdsQ0lQcHJJbjV1LWZxYVI4OHhTdWUwTlFrQW42a0VhZUVXNVhlM2xhc1dvTFBqOGZuMUVqeg?oc=5",
+    "author": null,
+    "summary": "watch now\nFed Chair Powell: Vast majority of FOMC don't see rate hike at next meeting as base case\nFederal Reserve Chair Jerome Powell answers questions following the FOMC's decision to leave the Federal Funds rate unchanged. 01:48\nWed, Mar 18 20263:17 PM EDT.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-22T02:42:19.506127",
+    "html_path": "data/news/news_2026-03-22_59d55392.html"
+  },
+  {
+    "id": "news_2026-03-22_6187f7d3",
+    "date": "2026-03-22",
+    "title": "Fed meeting live updates: Federal Reserve expected to hold rates steady, share outlook amid Iran oil shock",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSEpHcDVLbkZiU1FkMlJFX1BSUzF3UUZiQ1BHVDhTRjhoSnBuVW93NXV4enhDY1ZHZ24tcjhRZUUycHppLTFTbUF4OExTSE9VZ2xyU2pBVXJXa0k3eVJGQTVqRklEcHRyb2VYdHpiejhRMVhTVUQwSno4cjRtSVRCUWx6UUNhalRGXzlFOEYza2pYNFpLM1N2eDRuRHQxX2hIeFJXd25NNGhnYmFSbFp5bHpET3hiWXY0aXRFeWNON0czRmhHYVRiMXJ0NWI2S3JrdGZzUFJiZFBoaUt2aTY5YlBXUWxZWC1mUjlJ?oc=5",
+    "author": "Grace O'Donnell; Brooke DiPalma; Myles Udland; Jake Conley; Jared Blikre",
+    "summary": "The Federal Reserve kept interest rates unchanged in the 3.5%-3.75% range at the end of its two-day policy meeting on Wednesday, as widely expected.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T02:42:22.141134",
+    "html_path": "data/news/news_2026-03-22_6187f7d3.html"
+  },
+  {
+    "id": "news_2026-03-22_358727e5",
+    "date": "2026-03-22",
+    "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52dVQ0VHpGNWpySElSdmc5UmdKMENlWTRwNV96c05qRWJEdzRUSk1vaHFlVUJNcXdPMzdWQUNkc00zSUVmZlpqQjkwaG9UWUZkUEFONFR0WEs4dTBWN3ctSmowWdIBaEFVX3lxTE5HSEFycFhCZjdBWXFQZjBTbnU0bTFxUFNKdy1vS3dsbVZsZ0RiMGRzWXNXY0lsNkttVDNEcmItaWRsLWV2eU03RFEyLTdjX3lRVExzRTlXNEY3MDJMRlBiR1dTcTNjcWFC?oc=5",
+    "author": "Jeff Cox",
+    "summary": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors, who have now taken expectations for even one interest rate cut this year off the table.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T02:42:24.207432",
+    "html_path": "data/news/news_2026-03-22_358727e5.html"
+  },
+  {
     "id": "news_2026-03-21_fb7aa052",
     "date": "2026-03-21",
     "title": "Market bets on Fed rate hike surge",
