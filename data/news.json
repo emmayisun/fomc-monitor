@@ -88,6 +88,39 @@
     "html_path": "data/news/news_2026-03-22_358727e5.html"
   },
   {
+    "id": "news_2026-03-22_4ef2b20d",
+    "date": "2026-03-22",
+    "title": "Analysis: The Fed's Powell just delivered a new blow to Warsh's plans for swift rate cuts",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnVUT05WNE9vQlRaRlpiWTNCS2ZMRDR2OXBSUEFpcEZsZEtVQ1ZzdVFUVi14NzYxTS1IS3N1bnAxWHpsRUxJN0NveV9sS29PYndCdjh3VVpULTJkRWNUNTdILWpfb2hhNXZFTEVqRFBzcDFOZjF2bEhUV1lEVDFiM29PUmM0MHl1TlJDaW4ybW0tLTE5dE1FMdIBngFBVV95cUxOWVN2MldsVnIyaEdvaDBpM2JWY3VCUGQya2J0TmhTVE02Q0pLeDRmckpmNGtRNU9KS3U0T3BuT0ZpV2xOa2R5cVhjSnlfOHpnLTVVLW1raU9ZMmdhLWtxOEtVa1VIajczLXFCakhHWDJidXpIVnZrOGpCdVVHRk03OHFiSkdEaDdmblNtdmlRZVBXczBoUE9XeXJ4b0haQQ?oc=5",
+    "author": "Matt Peterson",
+    "summary": "Federal Reserve chair nominee Kevin Warsh wants to lower interest rates. Fed officials signaled Wednesday that it may be even harder than expected for him to make that happen, should he be confirmed into that job any time soon.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T06:58:22.317292",
+    "html_path": "data/news/news_2026-03-22_4ef2b20d.html"
+  },
+  {
+    "id": "news_2026-03-22_223d005a",
+    "date": "2026-03-22",
+    "title": "The Fed - March 17-18, 2026 FOMC Meeting",
+    "source": "Federal Reserve Board (.gov)",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Z0hRU3oyNFBuVGZKS3l4NVBPYjdvSTJzQ2R3V1BZM0NuanJMTXNlRW9QM2VITFBaYzdkbVg3UkZSRVFRaFZiSGYwbWx0eXdGbUJjNXJFZkhLSjRrdmxqZHlfT0VRc09scGZaN3hkSFMtU2NONGI0TTRB?oc=5",
+    "author": null,
+    "summary": "March 17-18, 2026 FOMC Meeting\nRelated Information\nFOMC Meeting Statement:\nPDF | HTML (Released\nMarch 18, 2026 at 2:00 p.m.)\nImplementation Note (Released March 18, 2026 at 2:00 p.m.)\nProjections Materials:\nPDF | HTML (Released March 18, 2026 at 2:00 p.m.)",
+    "tags": [
+      "FOMC"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-22T06:58:29.011152",
+    "html_path": "data/news/news_2026-03-22_223d005a.html"
+  },
+  {
     "id": "news_2026-03-21_fb7aa052",
     "date": "2026-03-21",
     "title": "Market bets on Fed rate hike surge",
