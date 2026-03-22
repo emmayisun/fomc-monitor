@@ -151,6 +151,37 @@
     "scraped_at": "2026-03-22T13:02:25.283651"
   },
   {
+    "id": "news_2026-03-22_140c8c99",
+    "date": "2026-03-22",
+    "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDFGODRVd3BYZ1IzS21LVlU1SDF0aDFSdTlMdlFWNXdqeDBrTTRqaEdlUHVsYkV2cFRrMEI2cmx3Znc5VE5ubkQ3UmEtb2w5MlRhbnJtaWYtdVowTkNIc3RnUk54TkIyYjgzWUsxTm1MX3VGSl9UcGZPTXRzQUhVU3diQmJKQmxjU0stQXZDNUdUS2pseEVzcVU2WQ?oc=5",
+    "author": "Keith Speights; The Motley Fool",
+    "summary": "No one should have been shocked by the Federal Reserve Open Market Committee's decision last Wednesday to keep interest rates at current levels. However, the Fed still signaled that at least one rate cut could be made later this year. I wouldn't bet the farm on that additional rate cut materializing.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T18:44:16.996438",
+    "html_path": "data/news/news_2026-03-22_140c8c99.html"
+  },
+  {
+    "id": "news_2026-03-22_7b77509c",
+    "date": "2026-03-22",
+    "title": "Watch Fed Chair Jerome Powell’s Speech",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOOXl2eHRyOTVHYXphNzFaY0F6Vmcta3lxckZxNER1RmlVRDY3c2VyQzdJZmppSDFWbTFmX0JnSjdsUmtmM0FvNEZFZi1tc2RqaVE2Nk9URlNXNHcwRnNXN3RZUnpDeTYydkpRTnVzTGVUYURJUm1QenFsd3lOZEN1ejlLTWI4NUgzZWp4TDlxaS1mTDFFTndIQktMdXhMdjJ0d2otZUYzWG80bU5qUFk2aERPWXQ0WXp6X01Lb1Jnc1JzYThOLXh3aEd3ek5NSXVsM3VhQ1RBaXRyUnZ0S3ZLY0Jnc2hJOThXQklSSDdhYjQyU21RdXhXZEdkV1djdmN2SGFFWWs5STBUZThXWXN3Zzd3ZVZGM1lmT043X3VycmIwVExlcHdBSGM3STNrMzByTjJQcm54U1NjZWpOdFNzUjhCU3RKYVFiV0ZfWmdzS1lwMGUyZWU4NXo2VGxmbVFKNXAtb2RWM1VBdkdPNmllelFlV2Nfc0JLT1FYbkdKNWJmNEtjZXUzd2JubEpPbTBENGowVHNpWGpraWQweHdHSGhmT0tHMngtR1lnQ1N5YThSeW5UeDlsT21ST1c1TmxSNHBKazlzSXQyUWJId05MVkNQWkNSRUM1YlFFQXNZNkJhQkRnazJwcmRxMUVsRWRVVXpWNFpiZnIwUQ?oc=5",
+    "author": "",
+    "summary": "Watch Fed Chair Jerome Powell’s Speech WSJ",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-22T18:44:21.372515"
+  },
+  {
     "id": "news_2026-03-21_fb7aa052",
     "date": "2026-03-21",
     "title": "Market bets on Fed rate hike surge",
