@@ -121,6 +121,36 @@
     "html_path": "data/news/news_2026-03-22_223d005a.html"
   },
   {
+    "id": "news_2026-03-22_1253b8fd",
+    "date": "2026-03-22",
+    "title": "Federal Reserve unveils its proposal for lower bank capital requirements",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "A long-awaited proposal from the Federal Reserve released Thursday would tweak financial crisis-era capital requirements, reducing banks' cash cushions to align with changes in the economy while aiming to boost lending.",
+    "tags": [
+      "Powell",
+      "Banking"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-22T13:02:18.638602",
+    "html_path": "data/news/news_2026-03-22_1253b8fd.html"
+  },
+  {
+    "id": "news_2026-03-22_1e6106b5",
+    "date": "2026-03-22",
+    "title": "Watch Fed Chair Jerome Powell’s Speech",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNcGkxS2Flc2w4NzVHQm8zc3haZlZQbzlGNkJEUDY1Qm1NUEo5ZWFWQ3B1Q1RnYm5jMExkeWU2WmIzWXFMTF9LWDkyVjBHUDJsREg4bHgyd3VaRXU4QXdvZUJSSGREV0JtelJydlphQkJKV2RoZHdRdjlTVjlKaC00OGlLdGxNN1VOdG56TXBKaWktZXhIeHN0b05lOVFnb0RyUjJtNVVCckJMVU16RG1PdXZVRmVmM3FUTmFuQklVZHE5WmY4SEJ3elVpYk5iU1Q2alZxNEk4UklYa1IwUktnUzZYbWRiMU5UbzNkellXeTNEQ1g0Qzg1MWQ3d21QT2ZIN2RCb2RrMmk5UHJtNFZSMkw5Sl9lZlE5YmtEOEl6QnlzZDJvc1diZDBhLVZjQmVNcWRPZG85d1FwdUQ0RHkxbHFQaWMycUNnN0xqb3h4RUV2dTZKNEhZX1ktSFIySWY1VHlCZVBmVnl6UDRWX3UzRFJUWXIxbHdqREl4WHpCd0lmRUZVM3RHVFdONUNhd1dybmFOS0lQbllyVWJaZW1GMl9fZWY0U1dqLUd0Mlc3dzlFdjlObGh6MUhiZnJybkpQN0xoa1p3YVBfUVRITkIwR2lzbTNObEhXTmV3TEo5dnRBMllvcnNfWFY2a3RidWtVeGREVG8xUDhYZw?oc=5",
+    "author": "",
+    "summary": "Watch Fed Chair Jerome Powell’s Speech WSJ",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-22T13:02:25.283651"
+  },
+  {
     "id": "news_2026-03-21_fb7aa052",
     "date": "2026-03-21",
     "title": "Market bets on Fed rate hike surge",
