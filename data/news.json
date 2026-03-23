@@ -51,6 +51,54 @@
     "scraped_at": "2026-03-23T07:18:32.015671"
   },
   {
+    "id": "news_2026-03-23_73f080bd",
+    "date": "2026-03-23",
+    "title": "Amid Mounting Risks, the Fed Wisely Puts Rates on Hold",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXR3OHdvdlpwZzRsTlptQnd4Q2NBYmpvdFY4d0ltOHpZTUNSYktPUm52Sy1RUXBQT2Q1cHI2NjhLcnZnUnZqN1ZSNGZ5OFhRX3JweTlXZi1tRUU3R2k5YUhNcUZCektpcWlVQ3o5LWFudFBxSWptd0dDck9VZjcwZDh4Y1U1R3hVU2U3M3ZLNkJmcndHUXdsVzBlbUd3SFh6YXVkM3pFVVhzalRiTG1Ib051Y1dKSTZZ?oc=5",
+    "author": "",
+    "summary": "Amid Mounting Risks, the Fed Wisely Puts Rates on Hold Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-23T13:19:04.064653"
+  },
+  {
+    "id": "news_2026-03-23_98d83664",
+    "date": "2026-03-23",
+    "title": "What's Driving the Shift Toward Short‑Term Promo CDs? CD Valet Analyzes Market Behavior Following Latest Federal Reserve Meeting",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHFPbVI2MUVnU0dQNHpkMlNXZkdSQnFkQmR4ZVFvdmJTbmw4eDVRT05YMHdIMnJ2RzR6MmpWVGx5bkVJSXd0SDJLRjhHSk93SDVBV1VxZ2Jid0g1a1Y3ZnBuNTcwWEFaZWtPdGNMRTRFN216cGxsdVdhaGswZUZUb1hKdUNDbUQ0YWc2ZnZ0c1pyVnVVOVdwdXBJNWxMN0VVZ2pn?oc=5",
+    "author": "PR Newswire",
+    "summary": "What's Driving the Shift Toward Short‑Term Promo CDs.",
+    "tags": [
+      "Interest Rates",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-23T13:19:06.232779",
+    "html_path": "data/news/news_2026-03-23_98d83664.html"
+  },
+  {
+    "id": "news_2026-03-23_d15e6050",
+    "date": "2026-03-23",
+    "title": "The next time the Fed moves, it'll be to hike according to one economist—whether or not Trump gets his new Fed chair",
+    "source": "Fortune",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTll2QWhTVWliaU1GeHRDYmpsb2RZNzJLUVBpYjRsZk1NT3lEd3J1RFRWbHZKN1piaWI3SGJscEh0MkktdXpzYWJ3a25mbG5JbkJmeHo5QkNocjE5RHY0LVlKVk9VeG5HdWpwbHhfd296R0hFNzJwbXdGUHFYRktjQ2ZwT3FRaC1rNFhKLS1SOA?oc=5",
+    "author": "Eleanor Pringle",
+    "summary": "Until a couple of weeks ago, Wall Street had convinced itself that the Fed’s monetary policy path was heading downward: They expected the base interest rate to continue to “normalize” from its pandemic highs, certainly notching lower than 3.5% to 3.75%, where it stands at today.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Employment",
+      "Powell",
+      "FOMC"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-23T13:19:09.663983",
+    "html_path": "data/news/news_2026-03-23_d15e6050.html"
+  },
+  {
     "id": "news_2026-03-22_2e77e600",
     "date": "2026-03-22",
     "title": "Fed Chair Powell lauds Volcker's 'willingness to resist'",
