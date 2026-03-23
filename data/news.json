@@ -19,6 +19,38 @@
     "html_path": "data/news/news_2026-03-23_884fe279.html"
   },
   {
+    "id": "news_2026-03-23_ad78372f",
+    "date": "2026-03-23",
+    "title": "Trump's long-running push to oust Powell could keep the Fed chair around for longer",
+    "source": "Yahoo Finance",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEtkUnpmcWk1VUhrVFczdzZLUUtKNHRPVl9QY21pTTU1ZTk3di1ub1VYRnpJMlVnMlJvN1A0UGs3Y0djQUUxcl83bWc0dnVkOFlEU0RTRUpwTmFVLTRaUUJ3LWFDNnhRM2lMRmVSM2EyeTdrcjdKTVExUldVNVhJc09FazA2UDRKbzdSZnplYTNMM0wxTWZxM190QlNxMW5yQzRDdUFBTTJ1OWNuU0dKVVlhZW1zSXdPbmprZ1hlN1c4cjFscTdv?oc=5",
+    "author": "Jennifer Schonberger",
+    "summary": "President Trump’s drawn-out campaign to oust Jerome Powell may end up prolonging the Fed chair's tenure at the central bank.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-23T07:18:30.497013",
+    "html_path": "data/news/news_2026-03-23_ad78372f.html"
+  },
+  {
+    "id": "news_2026-03-23_94829a02",
+    "date": "2026-03-23",
+    "title": "Powell's decision on Fed board seat could shape Warsh's leadership",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdRd2lpUFZyWGx6QU1nVHh1TjYzNHFXVUtHdktpcW1FZHNrcTJkelpQWlR3R1dkTlUydXFnb3BpUzdDVFZJY0lLdk9HRjhGa0duWFVkaTEwaWhERllnTGNLbTY1QVdZMlhhdXBiSUhBZ0ZBa2w1T3FYbE8tS2JaeEVZb2RLc2gyeTlzRFpjXzRWYVZTSGNNa1dVMWJaNGNxWWRVRlBHQjFpUQ?oc=5",
+    "author": "",
+    "summary": "Powell's decision on Fed board seat could shape Warsh's leadership Reuters",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-23T07:18:32.015671"
+  },
+  {
     "id": "news_2026-03-22_2e77e600",
     "date": "2026-03-22",
     "title": "Fed Chair Powell lauds Volcker's 'willingness to resist'",
