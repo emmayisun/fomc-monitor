@@ -32,6 +32,37 @@
     "html_path": "data/news/news_2026-03-25_ed7be35a.html"
   },
   {
+    "id": "news_2026-03-25_ef414f89",
+    "date": "2026-03-25",
+    "title": "Hassett says Fed staff should be 'disciplined' for reporting the US pays tariff costs",
+    "source": "Politico",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGVnRDYwcnh2a2RZMTlJTEFHQTJuRGYxUXFWbHdWZjZ1NkxVWWJhT244SnNpS2F3a1NzbF9vd0xscVVsMnVhRTJodVExeHhScFJRby1La0NJWEl5UWVnUU9VaGJrNHVGbGlyemFLYXVuZERuUVpWY2VKX2s5OVAwODRGcVpCZk9Kam1UZldmS056Zy1jRmxsNXdSeUJzUEZOZlExWmhOWE1ZbTdFS3VTaUNKYnJWTUV1YmRCSFY0SDloT3E2WU1lWmFkRUlGZjQ?oc=5",
+    "author": "",
+    "summary": "Hassett says Fed staff should be 'disciplined' for reporting the US pays tariff costs Politico",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-25T19:02:08.880887"
+  },
+  {
+    "id": "news_2026-03-25_35854700",
+    "date": "2026-03-25",
+    "title": "Fed meeting recap: Powell says inflation isn’t coming down as much as ‘hoped’",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oZmFsZ3R5ZTZDRmxxSmtIeE5HcVljd0laUjliR0JLeml5SHVuN040U3N2Nk5hNWNRYllIZHRiajEzeVFONTkza0Rsdk9wWE1SUDFQcXZKVnBHSkdJdnktRS1uUGVHbXc3UlBoSHNWNXFOZVBNblE?oc=5",
+    "author": "Darla Mercado; CFP",
+    "summary": "The Federal Reserve kept a steady hand on its overnight lending rate, maintaining a target range of 3.5% to 3.75%. The central bank's \"dot plot\" suggests a cut may be in the cards in 2026.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-25T19:02:21.322876",
+    "html_path": "data/news/news_2026-03-25_35854700.html"
+  },
+  {
     "id": "news_2026-03-24_36bf8676",
     "date": "2026-03-24",
     "title": "Federal Reserve will stay on hold if energy shock is protracted",
