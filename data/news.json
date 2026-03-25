@@ -1,5 +1,37 @@
 [
   {
+    "id": "news_2026-03-25_f9352eab",
+    "date": "2026-03-25",
+    "title": "Prosecutor admits government lacks evidence of misconduct by Fed chair",
+    "source": "The Washington Post",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSk5DZl9uRURTSDBNMWVCelJnUjRFRHl5Q3RzSm1VYnQwcVdvU2ZheHhrNGhGcUcxVExVeVlYSHhRUjNseWNYdXpYR3pmM2g1eERzYW9sbGZSZFRxTVYxb2w1dTY4V3JRbkJ0Q0NPUHd5LU9aUEh2Qm5odmVwRzlmcFI5T0JXVC1paENlYXlZR0V2c2puei1oRHotdU1Vdw?oc=5",
+    "author": "",
+    "summary": "Prosecutor admits government lacks evidence of misconduct by Fed chair The Washington Post",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-25T02:39:44.654921"
+  },
+  {
+    "id": "news_2026-03-25_ed7be35a",
+    "date": "2026-03-25",
+    "title": "Not in the clear yet: Investors are starting to expect rate hikes that could hurt stocks",
+    "source": "Business Insider",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0p1LXJPVURRQTBwcVNHVTVub3cyblBqYXI3YW9ndVllUElLYWhCeU93RUZfZ2hKVEZHTFNSdERYSHRuTk5vSFpxbl9rMF9kcVFYSmttRFVUVnNsb0dxSm1jMWV2YUNjRzRmUEJKRjdOZnFnV2FNYzRoTlVrOUNqb3BaR0lDY1ZvNEpNN3NBMmFveHZucnVoaE9Mdw?oc=5",
+    "author": "Joe Ciolli",
+    "summary": "- The narrative around the Fed's next move has quickly flipped. - Markets are now pricing a higher probability of a rate hike than a cut. - Despite a sharp relief rally on Monday, plenty of inflationary risk lingers amid a historic disruption of oil.",
+    "tags": [
+      "Interest Rates",
+      "Inflation",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-25T02:39:48.118876",
+    "html_path": "data/news/news_2026-03-25_ed7be35a.html"
+  },
+  {
     "id": "news_2026-03-24_36bf8676",
     "date": "2026-03-24",
     "title": "Federal Reserve will stay on hold if energy shock is protracted",
