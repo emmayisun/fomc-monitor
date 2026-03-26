@@ -62,6 +62,33 @@
     "scraped_at": "2026-03-26T07:16:40.379075"
   },
   {
+    "id": "news_2026-03-26_702a9155",
+    "date": "2026-03-26",
+    "title": "Scott Bessent praises Bank of England as model for tighter oversight of Federal Reserve",
+    "source": "Financial Times",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVkzT0l2ZWlZNFg4Y25idmtzNEwyRi1qTE9OUFNSOERKUF9sNllaV3YtRE1qaVpNaU9weUszSFBHWlgxQkFURm5UU1VfZGxRNy1ENTNlcERtYjRTbWZ2eDlTM2dHZVRGbzlMQ2RsRktKbFI3eXNHRHZHRDVyZEl5bHNuWkw?oc=5",
+    "author": "",
+    "summary": "Scott Bessent praises Bank of England as model for tighter oversight of Federal Reserve Financial Times",
+    "tags": [
+      "Banking"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T13:39:54.244481",
+    "html_path": "data/news/news_2026-03-26_702a9155.html"
+  },
+  {
+    "id": "news_2026-03-26_8452a004",
+    "date": "2026-03-26",
+    "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPVXFIWm8tOVFNSDY2RWdtcXhGelNJaUpXYnNPMWo5a2lrNU1KRFlkWENSOHdtZDRYZDNza1hPTVF6dDd3b3IzWXNXUVNySjhJNW9mSUJfNmFseDEyamxvMEFRSlBRZVZiaGNPcTJZX2xpZ0cwUDlEMHYwUXlfOTRsNE9Na0pjQ21rd21uVHA1LXBaUTVicHg0ZHNjZ2lEUG5BdlhHbGJ4eDkyblVUVkxjUEhOaktLcjBmOVpCY1BNSjJOZFlaVzh5VHVNb2NVajIxWG5lY2oxbjBWR3JhLTZfcTMxRGpSSXVfcllGWEhZQktTdTJpZm56TVVGYVNQNTFXRE9rY09nZGlJQ0JzWHdZQ1lMRDhHUTg5ZVNYdjJCOENJMUVKZk1UTlBLNjlHdlN0cVJ1SWVzNk0zdjFySWRtSlRtTWN0dHlZYVVNaW0wckozbGlQd1pDYWJ0M3picVJFa09hXzVHemRPU0VGSlJZd3VPYUZjM1hTQlVxdnJVWjEwNGJRbXFsUFZJMDNxblFwSW9ZcC05STZrZnRka1FKMEhTZ3JYZ0xmUXRVag?oc=5",
+    "author": "",
+    "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T13:39:55.580704"
+  },
+  {
     "id": "news_2026-03-25_f9352eab",
     "date": "2026-03-25",
     "title": "Prosecutor admits government lacks evidence of misconduct by Fed chair",
