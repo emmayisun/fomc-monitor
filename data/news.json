@@ -36,6 +36,32 @@
     "scraped_at": "2026-03-26T02:46:22.933230"
   },
   {
+    "id": "news_2026-03-26_acaef823",
+    "date": "2026-03-26",
+    "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPd0xERTZFTWMwaW9wVXpDNjd5MDhmelktaGxzeUJWcF9jeEh4S2ZFOXVqMGo1NnlqdWFOMmE5ZEhxZ1ZRRWlFeExqb0JXUXhxUmtNYzRzY0JGZVpXcnd4VlJrek85WnlFQnhqamUycFlOMWdGa0hPcVhkbVBJNzQxQmRsUnZhQzlLMWx5TFd4azZZNk94Z2NKbUdGdFZQRnVnTkpLZnpsUFRiWUZ3NTBtQkttWi11UlVqMlJMY3F2N0F3TnhNQ1lGdUowR0F4Szhxc1FmRnZKdXliaXE2WUk2SHVHQ05Ga2ZUNHVkeHFKVlJwMU9QT2xseEpZRDhNVzI4MmQ1Y045V3c1T3hVSzZXeHIwc3Z2NFBrVFlQSzM2b0F3WFh3dTVUM0RQTkJZMDF3Ymw1VU5YX1lLR3QteER1dS12MnVYc0R4ZDFZOEU0WkcxSUhfcm1MSkR1NGx5OUZxY0NQYnAxSU14WG5GUWs5SWZRNEthdjVvUVNxTE1mdUxfZUtBcDdYRWxSNUVRR3VFRHBobW9jYWlDbl9vQlUzUWRYNmtEZklybzg4Zw?oc=5",
+    "author": "",
+    "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T07:16:30.023624"
+  },
+  {
+    "id": "news_2026-03-26_bbbc4d2d",
+    "date": "2026-03-26",
+    "title": "Powell Says He Will Remain as Fed Chair Until Successor Is Confirmed",
+    "source": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVC1iTHV5WVk5MlNHaGRfdG1LbjFHbllyRUR0ZU03b1Bpd2gxOW5yV20tbHF2a19EVk9ubzJZMEx6QnFhb3Fua3ZJU0o3azJqWDN3UjFRcjFqYmx0X240cnNtdGRhSzBNTTcwSjAzeDVjTmdnWW5ZVFJ4Mk5iMHpLT3dGQmR6Z0lWdkE3cmRR?oc=5",
+    "author": "",
+    "summary": "Powell Says He Will Remain as Fed Chair Until Successor Is Confirmed The New York Times",
+    "tags": [
+      "Powell"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T07:16:40.379075"
+  },
+  {
     "id": "news_2026-03-25_f9352eab",
     "date": "2026-03-25",
     "title": "Prosecutor admits government lacks evidence of misconduct by Fed chair",
