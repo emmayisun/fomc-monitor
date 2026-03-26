@@ -89,6 +89,63 @@
     "scraped_at": "2026-03-26T13:39:55.580704"
   },
   {
+    "id": "news_2026-03-26_7f26f954",
+    "date": "2026-03-26",
+    "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+    "source": "CNBC",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hMDNncjhvaGgxSFVNaFlZSUtGSXl2aEUyNlZXcDc3bjllQlZ0VUZsMHptY1lPcUlxb2daWWsweHdiM1ZHSi1Ib2JyT25SaTJHY21Jb2MwNmtnRnB3Tkh1YjNLUkREQXptOUlnZWswbVBKdzBoZm9PelNhVHBSSHPSAYQBQVVfeXFMTVRvLVJJTUZiNDk0M2JPemNTVEpUZW5RdjJLdWN5V3JiNWt0MGs1MDhlbXRfXzY5RFMzVHJIbzdkeHVROHFnb2lxMktJejFCS1R0d0t5Mmh6YXY2VUJxYU15WnJvYUx6cmE1aEt1VWFlYVJLY0lEcnl6cTBaQUhhblZnLUV3?oc=5",
+    "author": "Dan Mangan",
+    "summary": "The Federal Reserve Board of Governors urged a judge to reject prosecutors' request that he reconsider his recent decision to block subpoenas issued in a criminal investigation of Chair Jerome Powell over pricey renovations of the Fed's headquarters and his congressional testimony about that.",
+    "tags": [
+      "Interest Rates",
+      "Powell",
+      "Banking",
+      "Markets"
+    ],
+    "has_paywall": false,
+    "scraped_at": "2026-03-26T19:14:43.255971",
+    "html_path": "data/news/news_2026-03-26_7f26f954.html"
+  },
+  {
+    "id": "news_2026-03-26_978228f7",
+    "date": "2026-03-26",
+    "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025",
+    "source": "WSJ",
+    "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY2FSSEN5M0I4ZndyT2thcXVrVllNdW9zRFA4Q1NjRkw0VHUyeTJDdU8zX3dXNjM5cUo0dVhUR2RDbEhxNUFBa3NWUzB2SnQ5b1BJRU1XWmxYems0dkt0dUIwb2NQbXJHZnRob3RoTHdmTngzTF9MaGRUdWg1RTRFRmh5OVJsR1JtdW5GVkJ0V040dXN0LUI4ZWlnMFYtWF9pU1dmbEFfTVJQcXRDd0ZHTDdtV0dzcGN5X25JZnFhV1B0bU1QUjE3XzNrRVI0MUF2WXAxTmg5dExtOXdSQUNBalNnRXRxWDlqRktzYld1VTZ4QWM2Y2g3SkxfU1M2bjJwSnIxMzRvMDkzeDVxYU1HRmZqSXBUNGVnRzdTMmNDRXNWSm02cG1nWnlBQzFCMGV6c255TzljN3ZrbGhKazZmd3ptWnR6THJkUkVjTHJqUktXZzZYWmJqSmJhSTNYMlY4aDFWOWtCVy13OHBzV1BxT0otTjRnWTNyTlY4VlVoME5PU01SVW9Ub05YbkNQdWtTcWV3TXdFSl9FX25LMGRMaXJ6SmtoU3pQV0szTg?oc=5",
+    "author": "",
+    "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T19:14:44.696148"
+  },
+  {
+    "id": "news_2026-03-26_e8e95249",
+    "date": "2026-03-26",
+    "title": "Fed still set to cut US rates late this year, say economists, rejecting market pricing: Reuters poll",
+    "source": "Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm1tR3hRdURnMVNOQWNPU0NXdzFrajBIX0hUdFBjNHYxNWdLSWlNYzlwX05uRHljQTJyUTV3alFVYUZnWUZOVjVtYUYtbUZHUi1CTmo4SFBCOWtQbGtVcDhFOGJwY3cyU21XTnI5cHJyMXl3bHlIVjVLVjUybU8wZjM1aXctdFlaaXllZVhva0lmMlg3Z3c0VXlOZVEwY2xMODdaeDdCNWhJemtybHQ0bUp4U2RBSG9iM3c?oc=5",
+    "author": "",
+    "summary": "Fed still set to cut US rates late this year, say economists, rejecting market pricing: Reuters poll Reuters",
+    "tags": [
+      "Markets"
+    ],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T19:14:46.145966",
+    "html_path": "data/news/news_2026-03-26_e8e95249.html"
+  },
+  {
+    "id": "news_2026-03-26_bc6c3ac0",
+    "date": "2026-03-26",
+    "title": "Federal Reserve Urges Judge to Be Firm on Quashing DOJ Subpoena",
+    "source": "Bloomberg.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2ZGTWlqLUsxcWdXRUNYOUFmZndPOGZqYmxGb1lBWEp4Nl9xWUJWejlkUE9vTE9rZmpkcWlYbm1UT3BvYlBjNDRYMHN2X3lnc3JOeWdPTHVGVlp2SUlUemVueEs5My1iRXNuMTFsUTRmaXlmV3JVd1ZhWmhRRzdMNnRMRHdIb1F2R21Ta2lLQU84WkMwQnlSUklNSnowVVh4U2JlSGRZU0xiUXg5V0xtWFgzbUU?oc=5",
+    "author": "",
+    "summary": "Federal Reserve Urges Judge to Be Firm on Quashing DOJ Subpoena Bloomberg.com",
+    "tags": [],
+    "has_paywall": true,
+    "scraped_at": "2026-03-26T19:14:50.460439"
+  },
+  {
     "id": "news_2026-03-25_f9352eab",
     "date": "2026-03-25",
     "title": "Prosecutor admits government lacks evidence of misconduct by Fed chair",
